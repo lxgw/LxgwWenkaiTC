@@ -26,4 +26,4 @@ TTF 格式的字型檔將會上傳到 Release 中，請進入 [Release](https://
 ## 鳴謝
 - [FONTWORKS 株式會社](http://fontworks.co.jp) 提供原版開源字型； [開發者 GitHub 主頁](https://github.com/fontworks-fonts/)
 - 部分漢字結構參考 [倉耳今楷](http://tsanger.cn/product) 字型；
-- 夜煞之樂 協助轉換 Klee One 字形。
+- (@夜煞之樂)[https://github.com/NightFurySL2001] 協助轉換 Klee One 字形。
