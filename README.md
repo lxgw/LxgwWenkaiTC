@@ -1,7 +1,6 @@
 # Lxgw WenKai TC
 The Traditional Chinese Version of LXGW WenKai (Beta). 霞鶩文楷繁體中文版（測試）。
 
-[![開源授權](https://img.shields.io/github/license/lxgw/LxgwWenkaiTC)](https://github.com/lxgw/LxgwWenkaiTC)
 [![最新版](https://img.shields.io/github/release/lxgw/LxgwWenkaiTC)](https://github.com/lxgw/LxgwWenkaiTC/releases)
 
 ## 介紹
