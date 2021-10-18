@@ -9,7 +9,7 @@ The Traditional Chinese Version of LXGW WenKai (Beta). 霞鶩文楷繁體中文�
 
 注意：本字體目前並不追求完全遵循 [檢校表](https://github.com/ichitenfont/inheritedglyphs)，有些部件會視情況做出取捨，只要遵循一般通行的舊字形字體寫法（如 Windows 3.1～Windows XP 內置的細明體等）即可。
 
-含「辛」類部件（如檢校表中規定的「妾」「童」「亲」等部件）的，涉及到衆多字形的改動，除原 Klee One 包含的隱藏字形之外暫不改；含簡體部件（如「马」「鸟」等）的，暫不改。
+> 含「辛」類部件（如檢校表中規定的「妾」「童」「亲」等部件）的，涉及到衆多字形的改動，除原 Klee One 包含的隱藏字形之外暫不改；含簡體部件（如「马」「鸟」等）的，暫不改。
 
 
 ![預覽](https://github.com/lxgw/LxgwWenkaiTC/raw/main/preview.png)
