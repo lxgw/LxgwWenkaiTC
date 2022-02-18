@@ -7,7 +7,7 @@ The Traditional Chinese Version of LXGW WenKai (Beta). 霞鶩文楷繁體中文�
 ## 介紹
 本專案為 [霞鶩文楷](https://github.com/lxgw/LxgwWenkai) 的繁體中文版。主要使用 [AFDKO](https://github.com/adobe-type-tools/afdko) 配合 [極限社區 Zonz 提供的傳承字形、康熙舊形 ttx 檔（現已無法訪問）](https://bbs.themex.net/showthread.php?t=16906063) 將 Klee One 中包含的漢字轉換為舊字形，並補入修改前的舊版「霞鶩文楷」字形，部分部件和單字進一步手動修改，更適合繁體中文用戶及舊字形愛好者使用。
 
-> 注意：本字體目前並不追求完全遵循 [一點字坊《傳承字形檢校表》](https://github.com/ichitenfont/inheritedglyphs)，有些部件會視情況做出取捨，只要遵循一般通行的舊字形字體寫法（如 Windows 3.1～Windows XP 內置的細明體等）即可。
+> 注意：本字體參考但並不追求完全遵循 [一點字坊《傳承字形檢校表》](https://github.com/ichitenfont/inheritedglyphs)，有些部件會視情況做出取捨，只要遵循一般通行的舊字形字體寫法（如 Windows 3.1～Windows XP 內置的細明體等）即可。
 
 > ~~含「辛」類部件（如傳承字形檢校表中規定的「妾」「童」「帝」等部件）的，涉及到眾多字形的改動，除原 Klee One 包含的隱藏字形之外暫不改。~~
 
@@ -33,5 +33,6 @@ TTF 格式的字型檔將會上傳到 Release 中，請進入 [Release](https://
 
 ## 鳴謝
 - [FONTWORKS 株式會社](http://fontworks.co.jp) 提供原版開源字型； [開發者 GitHub 主頁](https://github.com/fontworks-fonts/)
-- 部分漢字結構參考 [倉耳今楷](http://tsanger.cn/category/21) 字型；
 - [@夜煞之樂](https://github.com/NightFurySL2001) 協助轉換 Klee One 字形。
+- [一點字坊《傳承字形檢校表》](https://github.com/ichitenfont/inheritedglyphs) 提供部分提供部分傳承字形參照。
+- [「國學迷」漢字部件查字工具](http://www.guoxuemi.com/zidian/bujian/)
