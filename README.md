@@ -1,4 +1,4 @@
-? ~~填坑還需挖坑者，解鈴還須繫鈴人（~~
+> ~~填坑還需挖坑者，解鈴還須繫鈴人（~~
 
 # Lxgw WenKai TC <sup>Beta</sup>
 The Traditional Chinese Version of LXGW WenKai (Beta). 霞鶩文楷繁體中文版（測試）。
