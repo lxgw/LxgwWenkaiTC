@@ -35,4 +35,5 @@ TTF 格式的字型檔將會上傳到 Release 中，請進入 [Release](https://
 - [@夜煞之樂](https://github.com/NightFurySL2001) 協助轉換 Klee One 字形。
 - [一點字坊「傳承字形標準化文件」](https://github.com/ichitenfont/inheritedglyphs) 提供部分傳承字形部件和筆畫參照。
 - [「國學迷」](http://www.guoxuemi.com/zidian/bujian/)、[「字統網」](https://zi.tools/) 提供部件查字服務。
-- [@新環輪河&新環彩羽](UltimateAmitieKaiNiC)、[@Marcus98T](https://github.com/Marcus98T) 監督。
+- [@Zonz](https://github.com/Zonz-Ly)、[@內木一郎](https://github.com/SyaoranHinata) 對字形修改進行指導。
+- [@新環輪河&新環彩羽](UltimateAmitieKaiNiC)、[@Marcus98T](https://github.com/Marcus98T) 對字形修改進行監督。
