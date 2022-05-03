@@ -33,6 +33,6 @@ TTF 格式的字型檔將會上傳到 Release 中，請進入 [Release](https://
 ## 鳴謝
 - [FONTWORKS 株式會社](http://fontworks.co.jp) 提供原版開源字型； [開發者 GitHub 主頁](https://github.com/fontworks-fonts/)
 - [@夜煞之樂](https://github.com/NightFurySL2001) 協助轉換 Klee One 字形。
-- [@新環輪河-新環彩羽](https://github.com/NightFurySL2001) 監製。
+- [@新環輪河-新環彩羽](https://github.com/NightFurySL2001)、[Marcus98T](https://github.com/Marcus98T) 監製。
 - [一點字坊「傳承字形標準化文件」](https://github.com/ichitenfont/inheritedglyphs) 提供部分傳承字形部件和筆畫參照。
 - [「國學迷」](http://www.guoxuemi.com/zidian/bujian/)、[「字統網」](https://zi.tools/) 提供部件查字服務。
