@@ -9,7 +9,7 @@ The Traditional Chinese Version of LXGW WenKai (Beta). 霞鶩文楷繁體中文�
 ## 介紹
 本專案為 [霞鶩文楷](https://github.com/lxgw/LxgwWenkai) 的繁體中文版。主要使用 [AFDKO](https://github.com/adobe-type-tools/afdko) 配合 [極限社區 Zonz 提供的傳承字形、康熙舊形 ttx 檔（現已無法訪問）](https://bbs.themex.net/showthread.php?t=16906063) 將 Klee One 中包含的漢字轉換為舊字形，並補入修改前的舊版「霞鶩文楷」字形，部分部件和單字進一步手動修改，更適合繁體中文使用者及舊字形愛好者使用。
 
-> 注意：本字體的字形調整參考 [一點字坊《傳承字形檢校表》](https://github.com/ichitenfont/inheritedglyphs)，但並不追求完全遵循之，有些部件會視情況做出取捨，只要遵循一般通行的舊字形字體寫法（如 Windows 3.1～Windows XP 內置的細明體等）即可。
+> 注意：本字體的字形調整參考 [一點字坊「傳承字形標準化文件」](https://github.com/ichitenfont/inheritedglyphs)，但並不追求完全遵循之，有些部件會視情況做出取捨。
 
 ![](https://s3.bmp.ovh/imgs/2022/03/abd5950fd134ed92.png)
 
