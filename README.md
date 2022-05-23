@@ -17,7 +17,7 @@ The Traditional Chinese Version of LXGW WenKai (Beta). 霞鶩文楷繁體中文�
 TTF 格式的字型檔將會上傳到 Release 中，請進入 [Release](https://github.com/lxgw/LxgwWenKaiTC/releases) 下載。
 
 > **注意**  
-> 本字型為測試版，目前只是將 Klee One 覆蓋的字元轉換為舊字形，所以可能會有部件不統一的現象。
+> 本字型為測試版，目前第一輪部件修改已完成 50%，由於目前的工作原因，暫時擱置中。
 
 ## 授權資訊
 本字型是基於 SIL Open Font License 1.1 改造的 FONTWORKS 開發並發佈的 [Klee](https://github.com/fontworks-fonts/Klee) 開源項目。Klee 是 FONTWORKS 的商標。
