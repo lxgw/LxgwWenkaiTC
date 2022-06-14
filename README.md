@@ -10,6 +10,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 > 注意：本字體的字形調整參考 [一點字坊「傳承字形標準化文件」](https://github.com/ichitenfont/inheritedglyphs)，但並不追求完全遵循之，有些部件會視情況做出取捨。
 
 ![](https://s3.bmp.ovh/imgs/2022/03/abd5950fd134ed92.png)
+> 預覽圖片待更換。
 
 ## 下載
 TTF 格式的字型檔將會上傳到 Release 中，請進入 [Release](https://github.com/lxgw/LxgwWenKaiTC/releases) 下載。
