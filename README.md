@@ -1,13 +1,11 @@
-> ~~填坑還需挖坑者，解鈴還須繫鈴人（~~
-
-# Lxgw WenKai TC <sup>Beta</sup>
-The Traditional Chinese Version of LXGW WenKai (Beta). 霞鶩文楷繁體中文版（測試）。
+# Lxgw WenKai TC
+The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 
 [![開源授權](https://img.shields.io/github/license/lxgw/LxgwWenKai)](https://github.com/lxgw/LxgwWenkaiTC)
 [![最新版](https://img.shields.io/github/release/lxgw/LxgwWenkaiTC)](https://github.com/lxgw/LxgwWenkaiTC/releases)
 
 ## 介紹
-本專案為 [霞鶩文楷](https://github.com/lxgw/LxgwWenkai) 的繁體中文版。主要使用 [AFDKO](https://github.com/adobe-type-tools/afdko) 配合 [極限社區 Zonz 提供的傳承字形、康熙舊形 ttx 檔（現已無法訪問）](https://bbs.themex.net/showthread.php?t=16906063) 將 Klee One 中包含的漢字轉換為舊字形，並補入修改前的舊版「霞鶩文楷」字形，部分部件和單字進一步手動修改，更適合繁體中文使用者及舊字形愛好者使用。
+本專案為 [霞鶩文楷](https://github.com/lxgw/LxgwWenkai) 的繁體中文版。最初主要使用 [AFDKO](https://github.com/adobe-type-tools/afdko) 配合 [極限社區 Zonz 提供的傳承字形、康熙舊形 ttx 檔（現已無法訪問）](https://bbs.themex.net/showthread.php?t=16906063) 將 Klee One 中包含的漢字轉換為舊字形，並補入修改前的舊版「霞鶩文楷」字形，部分部件和單字進一步手動修改；而後參考 [一點字坊「傳承字形標準化文件」](https://github.com/ichitenfont/inheritedglyphs) 對大部分部件進行修改，更適合繁體中文使用者及舊字形愛好者使用
 
 > 注意：本字體的字形調整參考 [一點字坊「傳承字形標準化文件」](https://github.com/ichitenfont/inheritedglyphs)，但並不追求完全遵循之，有些部件會視情況做出取捨。
 
@@ -15,9 +13,6 @@ The Traditional Chinese Version of LXGW WenKai (Beta). 霞鶩文楷繁體中文�
 
 ## 下載
 TTF 格式的字型檔將會上傳到 Release 中，請進入 [Release](https://github.com/lxgw/LxgwWenKaiTC/releases) 下載。
-
-> **注意**  
-> 本字型為測試版，目前第一輪部件修改已完成 50%，由於目前的工作原因，暫時擱置中。
 
 ## 授權資訊
 本字型是基於 SIL Open Font License 1.1 改造的 FONTWORKS 開發並發佈的 [Klee](https://github.com/fontworks-fonts/Klee) 開源項目。Klee 是 FONTWORKS 的商標。
@@ -34,5 +29,6 @@ TTF 格式的字型檔將會上傳到 Release 中，請進入 [Release](https://
 - [FONTWORKS 株式會社](http://fontworks.co.jp) 提供原版開源字型； [開發者 GitHub 主頁](https://github.com/fontworks-fonts/)
 - [@夜煞之樂](https://github.com/NightFurySL2001) 協助轉換 Klee One 字形。
 - [一點字坊「傳承字形標準化文件」](https://github.com/ichitenfont/inheritedglyphs) 提供部分傳承字形部件和筆畫參照。
-- [「國學迷」](http://www.guoxuemi.com/zidian/bujian/)、[「字統網」](https://zi.tools/) 提供部件查字服務。
+- 部分字形提取自 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui) 字體。
+- [「國學迷」](http://www.guoxuemi.com/zidian/bujian/)、[「字統網」](https://zi.tools/)、[「漢文博士」](https://www.cnblogs.com/hanbox/)提供部件查字服務。
 - [@Zonz](https://github.com/Zonz-Ly)、[@內木一郎](https://github.com/SyaoranHinata)、[@夜煞之樂](https://github.com/NightFurySL2001)、[@佟藍歌](https://github.com/aikahiiragi)、[@新環輪河&新環彩羽](https://github.com/UltimateAmitieKaiNiC)、[@Marcus98T](https://github.com/Marcus98T) 提供指導及反饋。
