@@ -5,7 +5,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 [![最新版](https://img.shields.io/github/release/lxgw/LxgwWenkaiTC)](https://github.com/lxgw/LxgwWenkaiTC/releases)
 
 ## 介紹
-本專案為 [霞鶩文楷](https://github.com/lxgw/LxgwWenkai) 的繁體中文版。最初主要使用 [AFDKO](https://github.com/adobe-type-tools/afdko) 配合 [極限社區 Zonz 提供的傳承字形、康熙舊形 ttx 檔（現已無法訪問）](https://bbs.themex.net/showthread.php?t=16906063) 將 Klee One 中包含的漢字轉換為舊字形，並補入修改前的舊版「霞鶩文楷」字形，部分部件和單字進一步手動修改；而後參考 [一點字坊「傳承字形標準化文件」](https://github.com/ichitenfont/inheritedglyphs) 對大部分部件進行修改，更適合繁體中文使用者及舊字形愛好者使用。
+本專案為 [霞鶩文楷](https://github.com/lxgw/LxgwWenkai) 的繁體中文版。最初主要使用 [AFDKO](https://github.com/adobe-type-tools/afdko) 配合 [極限社區 Zonz 提供的傳承字形、康熙舊形 ttx 檔（現已無法訪問）](https://bbs.themex.net/showthread.php?t=16906063) 將 Klee One 中包含的漢字轉換爲舊字形，並補入修改前的舊版「霞鶩文楷」字形，部分部件和單字進一步手動修改；而後參考 [一點字坊「傳承字形標準化文件」](https://github.com/ichitenfont/inheritedglyphs) 對大部分部件進行修改，更適合繁體中文使用者及舊字形愛好者使用。
 
 ![](https://s3.bmp.ovh/imgs/2022/03/abd5950fd134ed92.png)
 > 預覽圖片待更換。
@@ -25,7 +25,7 @@ TTF 格式的字型檔將會上傳到 Release 中，請進入 [Release](https://
 - 這款字型可以自由修改、改造，製作衍生字型。修改或改造後的字型也必須同樣以 [SIL OFL](https://scripts.sil.org/OFL) 公開。
 ### 限制
 - 在製作衍生字型時，字型名稱不可使用原有字型的「保留名稱」。本字型保留名稱「霞鶩」「LXGW」，基於本字型二次衍生的字型，名稱不可出現「霞鶩」或「LXGW」字樣。
-- 這款字型不能用於違法行為，如因使用這款字型產生糾紛或法律訴訟，作者不承擔任何責任。
+- 這款字型不能用於違法行爲，如因使用這款字型產生糾紛或法律訴訟，作者不承擔任何責任。
 - 根據 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 的規定， **禁止單獨出售字型檔(OTF/TTF檔)的行為。**
 
 ## 鳴謝
