@@ -1,17 +1,48 @@
-# Lxgw WenKai TC
+# Lxgw WenKai TC / 霞鶩文楷 TC
 The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 
 [![開源授權](https://img.shields.io/github/license/lxgw/LxgwWenkaiTC?style=flat-square)](https://github.com/lxgw/LxgwWenkaiTC)
 [![最新版](https://img.shields.io/github/release/lxgw/LxgwWenkaiTC?style=flat-square)](https://github.com/lxgw/LxgwWenkaiTC/releases)
 
 ## 介紹
-本專案為 [霞鶩文楷](https://github.com/lxgw/LxgwWenkai) 的繁體中文版。最初主要使用 [AFDKO](https://github.com/adobe-type-tools/afdko) 配合 [極限社區 Zonz 提供的傳承字形、康熙舊形 ttx 檔（現已無法訪問）](https://bbs.themex.net/showthread.php?t=16906063) 將 Klee One 中包含的漢字轉換爲舊字形，並補入修改前的舊版「霞鶩文楷」字形，部分部件和單字進一步手動修改；而後參考 [一點字坊「傳承字形標準化文件」](https://github.com/ichitenfont/inheritedglyphs) 對大部分部件進行修改，更適合繁體中文使用者及舊字形愛好者使用。
+本專案爲 [霞鶩文楷](https://github.com/lxgw/LxgwWenkai) 的繁體中文版。最初主要使用 [AFDKO](https://github.com/adobe-type-tools/afdko) 配合 [極限社區 Zonz 提供的傳承字形、康熙舊形 ttx 檔（現已無法訪問）](https://bbs.themex.net/showthread.php?t=16906063) 將 Klee One 中包含的漢字轉換爲舊字形，並補入修改前的舊版「霞鶩文楷」字形，部分部件和單字進一步手動修改；而後參考 [一點字坊「傳承字形標準化文件」](https://github.com/ichitenfont/inheritedglyphs) 對大部分部件進行修改，更適合繁體中文使用者及傳承字形愛好者使用。
 
-![](https://s3.bmp.ovh/imgs/2022/03/abd5950fd134ed92.png)
-> 預覽圖片待更換。
+## 預覽
+![](https://raw.githubusercontent.com/lxgw/LxgwWenkaitc/main/documentation/wenkaitc-1.png)
 
-## 下載
-TTF 格式的字型檔將會上傳到 Release 中，請進入 [Release](https://github.com/lxgw/LxgwWenKaiTC/releases) 下載。
+![](https://raw.githubusercontent.com/lxgw/LxgwWenkaitc/main/documentation/wenkaitc-2.png)
+
+![](https://raw.githubusercontent.com/lxgw/LxgwWenkaitc/main/documentation/wenkaitc-3.png)
+
+![](https://raw.githubusercontent.com/lxgw/LxgwWenkaitc/main/documentation/wenkaitc-4.png)
+
+![](https://raw.githubusercontent.com/lxgw/LxgwWenkaitc/main/documentation/wenkaitc-5.png)
+
+![](https://raw.githubusercontent.com/lxgw/LxgwWenkaitc/main/documentation/wenkaitc-6.png)
+
+## 包含漢字
+
+- 原 Klee One 字體包含的所有漢字字符；
+- 「常用國字標準字體表」4808 個常用漢字；
+- BIG5 一級（常用）漢字 5401 個；
+- IICore 範圍內 9810 個漢字；
+- 港臺地區常用粵語、閩南語、客家語用字（基於[「常用香港外字表」](https://github.com/ichitenfont/suppchara)）：
+  - 常用香港外字表 A-C 級；
+  - 常用香港外字表 1-5 級；
+  - 臺灣閩客漢字（外字表ㄅ級）；
+- GB/T 12345-1990、GB/T 2312-1980 所包含的繁簡漢字；
+- 「通用規範漢字表」內漢字及其對應的繁體字或港臺異體字；
+- 「[霞鶩文楷 Lite](https://github.com/lxgw/LxgwWenKai-Lite)」所包含的其他漢字字符（「二簡字」除外）。
+
+## 獲取字體
+
+### ⅰ. 直接下載
+
+在 [Releases](https://github.com/lxgw/LxgwWenkaiTC/releases) 介面下載 ttf 格式字型檔，或在本倉庫 `fonts/TTF` 資料夾中下載。
+
+### ⅱ. 從原始碼生成
+
+請運行 `/sources/build.bat`。需要安裝 [`fontmake`](https://github.com/googlefonts/fontmake)：`pip3 install fontmake` 和 [`fontTools`](https://github.com/fonttools/fonttools)：`pip3 install fonttools`。
 
 ## 注意事項
 1. 本字體的字形調整參考 [一點字坊「傳承字形標準化文件」](https://github.com/ichitenfont/inheritedglyphs)，但並不追求完全遵循之，有些部件會視情況做出取捨。
@@ -25,8 +56,7 @@ TTF 格式的字型檔將會上傳到 Release 中，請進入 [Release](https://
 - 這款字型可以自由修改、改造，製作衍生字型。修改或改造後的字型也必須同樣以 [SIL OFL](https://scripts.sil.org/OFL) 公開。
 ### 限制
 - 在製作衍生字型時，字型名稱不可使用原有字型的「保留名稱」。本字型保留名稱「霞鶩」「LXGW」，基於本字型二次衍生的字型，名稱不可出現「霞鶩」或「LXGW」字樣。
-- 這款字型不能用於違法行爲，如因使用這款字型產生糾紛或法律訴訟，作者不承擔任何責任。
-- 根據 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 的規定， **禁止單獨出售字型檔(OTF/TTF檔)的行為。**
+- 根據 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 的規定， **禁止單獨出售字型檔(OTF/TTF檔)的行爲。**
 
 ## 鳴謝
 - [FONTWORKS 株式會社](http://fontworks.co.jp) 提供原版開源字型； [開發者 GitHub 主頁](https://github.com/fontworks-fonts/)
@@ -34,4 +64,11 @@ TTF 格式的字型檔將會上傳到 Release 中，請進入 [Release](https://
 - [一點字坊「傳承字形標準化文件」](https://github.com/ichitenfont/inheritedglyphs) 提供部分傳承字形部件和筆畫參照。
 - 部分字形提取自 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui) 字體。
 - [漢文博士](https://www.cnblogs.com/hanbox/)、[國學迷](http://www.guoxuemi.com/zidian/bujian/)、[字統網](https://zi.tools/)提供部件查字服務。
-- [@Zonz](https://github.com/Zonz-Ly)、[@內木一郎](https://github.com/SyaoranHinata)、[@夜煞之樂](https://github.com/NightFurySL2001)、[@佟藍歌](https://github.com/aikahiiragi)、[@新環輪河&新環彩羽](https://github.com/UltimateAmitieKaiNiC)、[@Marcus98T](https://github.com/Marcus98T) 提供指導及反饋。
+- [@Zonz](https://github.com/Zonz-Ly)、[@內木一郎](https://github.com/SyaoranHinata)、[@夜煞之樂](https://github.com/NightFurySL2001)、[@aikahiiragi](https://github.com/aikahiiragi)、[@UltimateAmitieKaiNiC](https://github.com/UltimateAmitieKaiNiC)、[@Marcus98T](https://github.com/Marcus98T) 提供指導及反饋。
+
+## 關注作者
+- **Telegram：** [@lxgwtg](https://t.me/lxgwtg) | [頻道](https://t.me/lxgwandroidfont)
+- **微信公眾號：** 霞鶩 *（ID: lxgwshare）*
+- **酷安：** [@落霞孤鹜lxgw](https://www.coolapk.com/u/633884) | [**即刻**](https://m.okjike.com/users/2e826735-48e6-46c5-b0c2-278cb1853b54?ref=PROFILE_CARD&source=user_card&s=eyJ1IjoiNWVlMzkwZGRkNWNhNTgwMDE3NjljZjFiIiwiZCI6MX0%3D&utm_source=create_card) | [**少數派**](https://sspai.com/u/ng008g7q)
+- **微博：** [@孤鹜先森](https://weibo.com/6624339726)
+- **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
