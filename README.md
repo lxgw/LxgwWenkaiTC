@@ -1,4 +1,4 @@
-# Lxgw WenKai TC
+# Lxgw WenKai TC / 霞鶩文楷 TC
 The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 
 [![開源授權](https://img.shields.io/github/license/lxgw/LxgwWenkaiTC?style=flat-square)](https://github.com/lxgw/LxgwWenkaiTC)
