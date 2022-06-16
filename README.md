@@ -47,6 +47,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 ## 注意事項
 1. 本字體的字形調整參考 [一點字坊「傳承字形標準化文件」](https://github.com/ichitenfont/inheritedglyphs)，但並不追求完全遵循之，有些部件會視情況做出取捨。
 2. 如需要臺灣教育標準字形（即「臺標字形」），請移步 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui)。
+3. 關於可搭配的西文字體，個人推薦 [Ysabeau](https://github.com/CatharsisFonts/Ysabeau) 系列。另有 Ysabeau 與霞鶩文楷 TC 的合併字體 [LXGW Bright Classic](https://github.com/lxgw/LxgwBright)，採用 [字體合併補全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 將兩款字體合併而成，提供 TTF 和 OTF 兩種格式。
 
 ## 授權資訊
 本字型是基於 SIL Open Font License 1.1 改造的 FONTWORKS 開發並發佈的 [Klee](https://github.com/fontworks-fonts/Klee) 開源項目。Klee 是 FONTWORKS 的商標。
