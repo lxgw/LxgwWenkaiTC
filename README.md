@@ -63,7 +63,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 - [FONTWORKS 株式會社](http://fontworks.co.jp) 提供原版開源字型； [開發者 GitHub 主頁](https://github.com/fontworks-fonts/)
 - [@夜煞之樂](https://github.com/NightFurySL2001) 協助轉換 Klee One 字形。
 - [一點字坊「傳承字形標準化文件」](https://github.com/ichitenfont/inheritedglyphs) 提供部分傳承字形部件和筆畫參照。
-- 部分字形提取自 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui) 字體。
+- 部分字形借用 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui) 字體。
 - [漢文博士](https://www.cnblogs.com/hanbox/)、[國學迷](http://www.guoxuemi.com/zidian/bujian/)、[字統網](https://zi.tools/)提供部件查字服務。
 - [@Zonz](https://github.com/Zonz-Ly)、[@內木一郎](https://github.com/SyaoranHinata)、[@夜煞之樂](https://github.com/NightFurySL2001)、[@aikahiiragi](https://github.com/aikahiiragi)、[@UltimateAmitieKaiNiC](https://github.com/UltimateAmitieKaiNiC)、[@Marcus98T](https://github.com/Marcus98T) 提供指導及反饋。
 
