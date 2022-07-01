@@ -39,7 +39,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 
 ### ⅰ. 直接下載
 
-在 [Releases](https://github.com/lxgw/LxgwWenkaiTC/releases) 介面下載 ttf 格式字型檔，或在本倉庫 `fonts/TTF` 資料夾中下載。 [藍奏雲分流（密碼 hxez）](https://lxgw.lanzoum.com/b0cqt4ini)
+在 [Releases](https://github.com/lxgw/LxgwWenkaiTC/releases) 介面下載 ttf 格式字型檔，或在本倉庫 `fonts/TTF` 資料夾中下載。 [藍奏雲分流（密碼 hxez）](https://lxgw.lanzoum.com/b0cqt4ini) [貓啃網](https://www.maoken.com/freefonts/16424.html)
 
 ### ⅱ. 從原始碼生成
 
