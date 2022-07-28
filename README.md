@@ -66,7 +66,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
   
 ### 限制
 
-- 在製作衍生字型時，字型名稱不可使用原有字型的「保留名稱」。本字型保留名稱「霞鶩」「LXGW」，基於本字型二次衍生的字型，名稱不可出現「霞鶩」或「LXGW」字樣。
+- 在製作衍生字型時，字型名稱不可使用原有字型的「保留名稱」。本字型保留名稱「霞鶩」「LXGW」，基於本字型二次衍生的字型，名稱不可出現「霞鶩」或「LXGW」字樣；而在沒有對字型原始碼進行修改的情況下，重新生成的字型，可以繼續使用本字型的保留名稱「霞鶩」「LXGW」。
 - 根據 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 的規定， **禁止單獨出售字型檔(OTF/TTF檔)的行爲。**
 - 該字型不可在 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 以外的授權許可下發行。
 
