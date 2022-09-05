@@ -27,16 +27,16 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 ## 包含漢字
 
 - 原 [Klee One](https://github.com/fontworks-fonts/Klee) 字體包含的所有漢字字符；
-- 「常用國字標準字體表」4808 個常用漢字；
-- BIG5 一級（常用）漢字 5401 個；
+- [「常用國字標準字體表」](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt) [「常用字字形表」](https://github.com/NightFurySL2001/cjktables/blob/master/hong_kong/hk-changyong.txt)所包含的常用漢字；
+- [BIG5 一級（常用）漢字](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/encoding/big5-1.txt) 5401 個；
 - IICore 範圍內 9810 個漢字；
 - 港臺地區常用粵語、閩南語、客家語用字（基於[「常用香港外字表」](https://github.com/ichitenfont/suppchara)）：
   - 常用香港外字表 A-C 級；
   - 常用香港外字表 1-5 級；
   - 臺灣閩客漢字（外字表ㄅ級）；
-- GB/T 12345-1990、GB/T 2312-1980 所包含的繁簡漢字；
+- [GB/T 12345-1990](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_12345.txt)、[GB/T 2312-1980](https://github.com/NightFurySL2001/cjktables/tree/master/china/encoding) 所包含的繁簡漢字；
 - 「通用規範漢字表」內漢字及其對應的繁體字或港臺異體字；
-- 「[霞鶩文楷 Lite](https://github.com/lxgw/LxgwWenKai-Lite)」所包含的其他漢字字符（「二簡字」除外）。
+- 「[霞鶩文楷 Core](https://github.com/lxgw/LxgwWenKai-Core)」所包含的其他漢字字符（「二簡字」除外）。
 
 ## 獲取字體
 
@@ -63,7 +63,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 - 這款字型無論是個人還是企業都可以自由商用，無需付費，也無需知會或者標明原作者。 *（但如果告知，我會很感激。）*
 - 這款字型可以自由傳播、分享，或者將字型安裝於軟硬體也是允許的，可以與任何軟體捆綁再分發以及／或一併銷售。
 - 這款字型可以自由修改、改造，製作衍生字型。修改或改造後的字型也必須同樣以 [SIL OFL](https://scripts.sil.org/OFL) 公開。
-  
+
 ### 限制
 
 - 在製作衍生字型時，字型名稱不可使用原有字型的「保留名稱」。本字型保留名稱「霞鶩」「LXGW」，基於本字型二次衍生的字型，名稱不可出現「霞鶩」或「LXGW」字樣；而在沒有對字型原始碼進行修改的情況下，重新生成的字型，可以繼續使用本字型的保留名稱「霞鶩」「LXGW」。
@@ -85,4 +85,5 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 - **微信公眾號：** 霞鶩 *（ID: lxgwshare）*
 - **酷安：** [@落霞孤鹜lxgw](https://www.coolapk.com/u/633884) | [**即刻**](https://m.okjike.com/users/2e826735-48e6-46c5-b0c2-278cb1853b54?ref=PROFILE_CARD&source=user_card&s=eyJ1IjoiNWVlMzkwZGRkNWNhNTgwMDE3NjljZjFiIiwiZCI6MX0%3D&utm_source=create_card) | [**少數派**](https://sspai.com/u/ng008g7q)
 - **微博：** [@孤鹜先森](https://weibo.com/6624339726)
+- **嗶哩嗶哩：** [@霞鹜lxgw](https://space.bilibili.com/3461565661579301)
 - **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
