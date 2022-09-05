@@ -36,7 +36,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
   - 臺灣閩客漢字（外字表ㄅ級）；
 - [GB/T 12345-1990](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_12345.txt)、[GB/T 2312-1980](https://github.com/NightFurySL2001/cjktables/tree/master/china/encoding) 所包含的繁簡漢字；
 - 「通用規範漢字表」內漢字及其對應的繁體字或港臺異體字；
-- 「[霞鶩文楷 Core](https://github.com/lxgw/LxgwWenKai-Core)」所包含的其他漢字字符（「二簡字」除外）。
+- 「[霞鶩文楷 Lite](https://github.com/lxgw/LxgwWenKai-Lite)」所包含的其他漢字字符（「二簡字」除外）。
 
 ## 獲取字體
 
