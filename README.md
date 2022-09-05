@@ -31,8 +31,10 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 - [BIG5 一級（常用）漢字](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/encoding/big5-1.txt) 5401 個；
 - IICore 範圍內 9810 個漢字；
 - 港臺地區常用粵語、閩南語、客家語用字（基於[「常用香港外字表」](https://github.com/ichitenfont/suppchara)）：
-  - 常用香港外字表 A-C 級；
-  - 常用香港外字表 1-5 級；
+  - 常用香港外字表 A-C 級：BIG5 應有香港字；
+  - 常用香港外字表 1-2 級：極常用粵字及異體字；
+  - 常用香港外字表 3-4 級：常用粵字及異體字；
+  - 常用香港外字表 5 級：次常用粵字及異體字；
   - 臺灣閩客漢字（外字表ㄅ級）；
 - [GB/T 12345-1990](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_12345.txt)、[GB/T 2312-1980](https://github.com/NightFurySL2001/cjktables/tree/master/china/encoding) 所包含的繁簡漢字；
 - 「通用規範漢字表」內漢字及其對應的繁體字或港臺異體字；
