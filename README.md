@@ -89,3 +89,8 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 - **微博：** [@孤鹜先森](https://weibo.com/6624339726)
 - **嗶哩嗶哩：** [@霞鹜lxgw](https://space.bilibili.com/3461565661579301)
 - **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/lxgw/LxgwWenkaiTC.svg)](https://starchart.cc/lxgw/LxgwWenkaiTC)
