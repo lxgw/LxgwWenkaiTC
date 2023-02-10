@@ -54,7 +54,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 
 1. 本字體的字形調整參考 [一點字坊「傳承字形標準化文件」](https://github.com/ichitenfont/inheritedglyphs)，但並不追求完全遵循之，有些部件會視情況做出取捨（如「曰」部件、「艹」部件等，由於涉及的漢字數量較多，故並未按照「檢校表」做改動；此外本字體中的部分部件採用了「檢校表」中收錄的一些稍爲遷就美觀需要的常見字形，如「蔑」「益」「亟」「老」「殳」等部件）。另外本字體仍處於測試階段，如有改字疏漏，請在 [Issue #3](https://github.com/lxgw/LxgwWenkaiTC/issues/3) 提出，不要另開話題。
 2. 如需要臺灣教育標準字形（即「臺標字形」），請移步 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui)。
-3. 關於可搭配的西文字體，個人推薦 [Ysabeau](https://github.com/CatharsisFonts/Ysabeau) 系列。另有 Ysabeau 與霞鶩文楷 TC 的合併字體 [LXGW Bright Classic](https://github.com/lxgw/LxgwBright)，採用 [字體合併補全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 將兩款字體合併而成，提供 TTF 和 OTF 兩種格式。
+3. 關於可搭配的西文字體，個人推薦 [Ysabeau](https://github.com/CatharsisFonts/Ysabeau) 系列。另有 Ysabeau 與霞鶩文楷的合併字體 [LXGW Bright](https://github.com/lxgw/LxgwBright)，採用 [字體合併補全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 將兩款字體合併而成，提供 TTF 和 OTF 兩種格式。
 
 ## 授權資訊
 
