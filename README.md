@@ -34,11 +34,11 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
   - 常用香港外字表 A-C 級：BIG5 應有香港字；
   - 常用香港外字表 1-2 級：極常用粵字及異體字；
   - 常用香港外字表 3-4 級：常用粵字及異體字；
-  - 常用香港外字表 5 級：次常用粵字及異體字；
-  - 臺灣閩客漢字（外字表ㄅ級）；
+  - 常用香港外字表 5-6 級：次常用、其他粵字及異體字；
+  - 臺灣閩客漢字（外字表ㄅ、ㄆ級）；
 - [GB/T 12345-1990](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_12345.txt)、[GB/T 2312-1980](https://github.com/NightFurySL2001/cjktables/tree/master/china/encoding) 所包含的繁簡漢字；
 - 「通用規範漢字表」內漢字及其對應的繁體字或港臺異體字；
-- 「[霞鶩文楷 Lite](https://github.com/lxgw/LxgwWenKai-Lite)」所包含的其他漢字字符（「二簡字」除外）。
+- 「[霞鶩文楷 Lite](https://github.com/lxgw/LxgwWenKai-Lite)」所包含的其他漢字字符。
 
 ## 獲取字體
 
@@ -58,7 +58,9 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 
 ## 授權資訊
 
-本字型是基於 SIL Open Font License 1.1 改造的 FONTWORKS 開發並發佈的 [Klee](https://github.com/fontworks-fonts/Klee) 開源項目。Klee 是 FONTWORKS 的商標。
+本字型是基於 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 改造的 FONTWORKS 開發並發佈的 [Klee](https://github.com/fontworks-fonts/Klee) 開源項目。Klee 是 FONTWORKS 的商標。
+
+> Florence 佛羅侖司 提供 SIL Open Font License 1.1 [全文中文翻譯](http://florenceko.me/?p=2089)及[解讀](http://florenceko.me/?p=2122)。
 
 ### 許可
 
