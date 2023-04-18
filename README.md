@@ -60,7 +60,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 
 本字型是基於 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 改造的 FONTWORKS 開發並發佈的 [Klee](https://github.com/fontworks-fonts/Klee) 開源項目。Klee 是 FONTWORKS 的商標。
 
-> 「Florence 弗羅侖司」提供 SIL Open Font License 1.1 [全文中文翻譯](http://florenceko.me/?p=2089)及[解讀](http://florenceko.me/?p=2122)供參考。
+> [Florence 弗羅侖司](http://florenceko.me/)提供 SIL Open Font License 1.1 非官方[全文中文翻譯](http://florenceko.me/?p=2089)及[解讀](http://florenceko.me/?p=2122)供參考。
 
 ### 許可
 
