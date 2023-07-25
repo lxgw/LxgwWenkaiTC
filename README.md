@@ -96,6 +96,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 - [皓月楷 & 繁星楷](https://github.com/GuiWonder/MoonStarsKai)
 - [末綺楷書 / Astalia](https://github.com/Ayaginu-Sue/Astalia)
 - [混菜寫楷 / Mixed-VsWeKai](https://github.com/FWHP-Enfun/Mixed-VsWeKai)
+- [Y 式書體 / Mixed-VsWeKai](https://github.com/Steve-Yuu/YshiShuti)
 
 ## Stargazers over time
 
