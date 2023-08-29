@@ -71,17 +71,19 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 ### 限制
 
 - 在製作衍生字型時，字型名稱不可使用原有字型的「保留名稱」。本字型保留名稱「霞鶩」「LXGW」，基於本字型二次衍生的字型，名稱不可出現「霞鶩」或「LXGW」字樣；而在沒有對字型原始碼進行修改的情況下，重新生成的字型，可以繼續使用本字型的保留名稱「霞鶩」「LXGW」。
-- 根據 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 的規定， **禁止單獨出售字型檔(OTF/TTF檔)的行爲。**
+- 根據 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 「許可與條件」中第 1 條的規定， **禁止單獨出售字型檔(OTF/TTF檔)的行爲。**
 - 該字型不可在 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 以外的授權許可下發行。
 
 ## 鳴謝
 
 - [FONTWORKS 株式會社](http://fontworks.co.jp) 提供原版開源字型； [開發者 GitHub 主頁](https://github.com/fontworks-fonts/)
+- 原始字型的設計師 Francis Chow；
+- [@Zonz](https://github.com/Zonz-Ly)、[@內木一郎](https://github.com/SyaoranHinata)、[@夜煞之樂](https://github.com/NightFurySL2001)、[@aikahiiragi](https://github.com/aikahiiragi)、[@UltimateAmitieKaiNiC](https://github.com/UltimateAmitieKaiNiC)、[@Marcus98T](https://github.com/Marcus98T) 等提供指導並指出遺漏字形。
 - [@夜煞之樂](https://github.com/NightFurySL2001) 協助轉換 Klee One 字形。
+- @Georgome、[@Magmeta](https://github.com/Des-Magmeta)、[@Steve-Yuu](https://github.com/Steve-Yuu) 等協助完善字型。
 - [一點字坊「傳承字形標準化文件」](https://github.com/ichitenfont/inheritedglyphs) 提供部分傳承字形部件和筆畫參照。
 - 部分傳承字形與臺標同形或形近的部件借用 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui) 字體。
 - [漢文博士](https://www.cnblogs.com/hanbox/)、[國學迷](http://www.guoxuemi.com/zidian/bujian/)、[字統網](https://zi.tools/)提供部件查字服務。
-- [@Zonz](https://github.com/Zonz-Ly)、[@內木一郎](https://github.com/SyaoranHinata)、[@夜煞之樂](https://github.com/NightFurySL2001)、[@aikahiiragi](https://github.com/aikahiiragi)、[@UltimateAmitieKaiNiC](https://github.com/UltimateAmitieKaiNiC)、[@Marcus98T](https://github.com/Marcus98T) 提供指導並指出遺漏字形。
 
 ## 關注作者
 
@@ -95,6 +97,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 ## 由本字型衍生的字型
 - [皓月楷 & 繁星楷](https://github.com/GuiWonder/MoonStarsKai)
 - [末綺楷書 / Astalia](https://github.com/Ayaginu-Sue/Astalia)
+- [Ｙ式書體 / YshiShuti](https://github.com/Steve-Yuu/YshiShuti)
 
 ## Stargazers over time
 
