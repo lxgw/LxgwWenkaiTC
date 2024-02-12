@@ -58,7 +58,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 
 ## 授權資訊
 
-本字型是基於 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 改造的 FONTWORKS 開發並發佈的 [Klee](https://github.com/fontworks-fonts/Klee) 開源項目。Klee 是 FONTWORKS 的商標。
+本字型是基於 [SIL Open Font License 1.1](https://openfontlicense.org) 改造的 FONTWORKS 開發並發佈的 [Klee](https://github.com/fontworks-fonts/Klee) 開源項目。Klee 是 FONTWORKS 的商標。
 
 > [Florence 弗羅侖司](http://florenceko.me/)提供 SIL Open Font License 1.1 非官方[全文中文翻譯](http://florenceko.me/?p=2089)及[解讀](http://florenceko.me/?p=2122)供參考。
 
@@ -66,13 +66,13 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 
 - 這款字型無論是個人還是企業都可以自由商用，無需付費，也無需知會或者標明原作者。 *（但如果告知，我會很感激。）*
 - 這款字型可以自由傳播、分享，或者將字型安裝於軟硬體也是允許的，可以與任何軟體捆綁再分發以及／或一併銷售。
-- 這款字型可以自由修改、改造，製作衍生字型。修改或改造後的字型也必須同樣以 [SIL OFL](https://scripts.sil.org/OFL) 公開。
+- 這款字型可以自由修改、改造，製作衍生字型。修改或改造後的字型也必須同樣以 [SIL OFL](https://openfontlicense.org) 公開。
 
 ### 限制
 
 - 在製作衍生字型時，字型名稱不可使用原有字型的「保留名稱」。本字型保留名稱「霞鶩」「LXGW」，基於本字型二次衍生的字型，名稱不可出現「霞鶩」或「LXGW」字樣；而在沒有對字型原始碼進行修改的情況下，重新生成的字型，可以繼續使用本字型的保留名稱「霞鶩」「LXGW」。
-- 根據 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 「許可與條件」中第 1 條的規定， **禁止單獨出售字型檔(OTF/TTF檔)的行爲。**
-- 該字型不可在 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 以外的授權許可下發行。
+- 根據 [SIL Open Font License 1.1](https://openfontlicense.org) 「許可與條件」中第 1 條的規定， **禁止單獨出售字型檔(OTF/TTF檔)的行爲。**
+- 該字型不可在 [SIL Open Font License 1.1](https://openfontlicense.org) 以外的授權許可下發行。
 
 ## 鳴謝
 
