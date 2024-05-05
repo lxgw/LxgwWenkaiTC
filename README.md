@@ -52,7 +52,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 
 ## 注意事項
 
-1. 本字體的字形調整參考 [一點字坊「傳承字形標準化文件」](https://github.com/ichitenfont/inheritedglyphs)，但並不追求完全遵循之，有些部件會視情況做出取捨（如「曰」部件、「艹」部件等，由於涉及的漢字數量較多，故並未按照「檢校表」做改動；此外本字體中的部分部件採用了「檢校表」中收錄的一些稍爲遷就美觀需要的常見字形，如「蔑」「益」「亟」「老」「殳」等部件）。如有部件不統一、輪廓問題或其他字形方面的問題，請在 [Issue #14](https://github.com/lxgw/LxgwWenkaiTC/issues/14) 提出，如有加字需求請在 [Issue #13](https://github.com/lxgw/LxgwWenkaiTC/issues/13) 提出，不要另開話題。
+1. 本字體的字形調整參考 [一點字坊「傳承字形標準化文件」](https://github.com/ichitenfont/inheritedglyphs)，但並不追求完全遵循之，有些部件會視情況做出取捨（如「曰」部件、「艹」部件等，由於涉及的漢字數量較多，故並未按照「檢校表」做改動；此外本字體中的部分部件採用了「檢校表」中收錄的一些稍爲遷就美觀需要的常見字形，如「蔑」「益」「亟」「老」「殳」等部件）。如有部件不統一、輪廓問題或其他字形方面的問題，請在 [Issue #14](https://github.com/lxgw/LxgwWenkaiTC/issues/14) 提出，~~如有加字需求請在 [Issue #13](https://github.com/lxgw/LxgwWenkaiTC/issues/13) 提出~~，不要另開話題。**由於字體文件越發臃腫，v1.330 發佈後暫時關閉加字通道，不會接受用戶加字請求，敬請諒解。**
 2. 如需要臺灣教育標準字形（即「臺標字形」），請移步 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui)；香港標準字形請參閱 [芫茜雅楷 / JyunsaiKaai](https://github.com/ItMarki/jyunsaikaai)。
 3. 關於可搭配的西文字體，個人推薦 [Ysabeau](https://github.com/CatharsisFonts/Ysabeau) 系列。另有 Ysabeau 與霞鶩文楷的合併字體 [LXGW Bright](https://github.com/lxgw/LxgwBright)，採用 [字體合併補全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 將兩款字體合併而成，提供 TTF 和 OTF 兩種格式。
 
