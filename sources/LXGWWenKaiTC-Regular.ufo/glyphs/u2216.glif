@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u2216" format="2">
+  <advance width="350" height="350"/>
+  <unicode hex="2216"/>
+  <outline>
+    <contour>
+      <point x="90" y="660" type="qcurve" smooth="yes"/>
+      <point x="304" y="70" type="line" smooth="yes"/>
+      <point x="314" y="42"/>
+      <point x="332" y="9" type="qcurve" smooth="yes"/>
+      <point x="335" y="3"/>
+      <point x="335" y="-19"/>
+      <point x="309" y="-42"/>
+      <point x="283" y="-42"/>
+      <point x="279" y="-29" type="qcurve" smooth="yes"/>
+      <point x="270" y="0"/>
+      <point x="253" y="47" type="qcurve" smooth="yes"/>
+      <point x="37" y="640" type="line" smooth="yes"/>
+      <point x="23" y="676"/>
+      <point x="8" y="706"/>
+      <point x="8" y="709" type="qcurve" smooth="yes"/>
+      <point x="8" y="725"/>
+      <point x="33" y="744" type="qcurve" smooth="yes"/>
+      <point x="44" y="751"/>
+      <point x="63" y="751"/>
+      <point x="66" y="738" type="qcurve" smooth="yes"/>
+      <point x="75" y="702"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:32:27 +0000</string>
+    </dict>
+  </lib>
+</glyph>

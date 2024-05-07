@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1FDA" format="2">
+  <advance width="388" height="388"/>
+  <unicode hex="1FDA"/>
+  <outline>
+    <contour>
+      <point x="198" y="18" type="qcurve" smooth="yes"/>
+      <point x="200" y="107" type="line"/>
+      <point x="200" y="589" type="line"/>
+      <point x="197" y="695" type="line" smooth="yes"/>
+      <point x="197" y="705"/>
+      <point x="236" y="705"/>
+      <point x="276" y="690"/>
+      <point x="276" y="677" type="qcurve" smooth="yes"/>
+      <point x="274" y="588" type="line"/>
+      <point x="274" y="106" type="line"/>
+      <point x="277" y="0" type="line" smooth="yes"/>
+      <point x="277" y="-10"/>
+      <point x="238" y="-10"/>
+      <point x="198" y="5"/>
+    </contour>
+    <contour>
+      <point x="81" y="705" type="qcurve" smooth="yes"/>
+      <point x="131" y="550" type="line" smooth="yes"/>
+      <point x="132" y="549"/>
+      <point x="132" y="536"/>
+      <point x="103" y="520"/>
+      <point x="76" y="520"/>
+      <point x="73" y="529" type="qcurve" smooth="yes"/>
+      <point x="11" y="680" type="line" smooth="yes"/>
+      <point x="10" y="682"/>
+      <point x="10" y="685" type="qcurve" smooth="yes"/>
+      <point x="10" y="698"/>
+      <point x="43" y="717"/>
+      <point x="78" y="717"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:32:27 +0000</string>
+    </dict>
+  </lib>
+</glyph>

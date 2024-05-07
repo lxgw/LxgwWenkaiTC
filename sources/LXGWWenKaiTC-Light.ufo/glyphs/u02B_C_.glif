@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u02BC" format="2">
+  <advance width="350" height="350"/>
+  <unicode hex="02BC"/>
+  <outline>
+    <contour>
+      <point x="123" y="618" type="qcurve" smooth="yes"/>
+      <point x="117" y="618"/>
+      <point x="110" y="627"/>
+      <point x="110" y="639"/>
+      <point x="115" y="641" type="qcurve" smooth="yes"/>
+      <point x="165" y="677"/>
+      <point x="173" y="715" type="qcurve"/>
+      <point x="161" y="721"/>
+      <point x="160" y="722" type="qcurve" smooth="yes"/>
+      <point x="136" y="742"/>
+      <point x="136" y="768" type="qcurve" smooth="yes"/>
+      <point x="136" y="812"/>
+      <point x="177" y="812" type="qcurve" smooth="yes"/>
+      <point x="197" y="812"/>
+      <point x="223" y="778"/>
+      <point x="226" y="751"/>
+      <point x="227" y="750" type="qcurve" smooth="yes"/>
+      <point x="227" y="745" type="line" smooth="yes"/>
+      <point x="227" y="702"/>
+      <point x="143" y="618"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:31:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uA4E9" format="2">
+  <advance width="492" height="492"/>
+  <unicode hex="A4E9"/>
+  <outline>
+    <contour>
+      <point x="106" y="11" type="qcurve" smooth="yes"/>
+      <point x="108" y="100" type="line"/>
+      <point x="108" y="511" type="line" smooth="yes"/>
+      <point x="108" y="650"/>
+      <point x="198" y="688" type="qcurve" smooth="yes"/>
+      <point x="238" y="705"/>
+      <point x="335" y="705"/>
+      <point x="409" y="669"/>
+      <point x="455" y="619"/>
+      <point x="476" y="574"/>
+      <point x="476" y="553"/>
+      <point x="458" y="530"/>
+      <point x="433" y="515"/>
+      <point x="413" y="515"/>
+      <point x="411" y="526" type="qcurve" smooth="yes"/>
+      <point x="395" y="598"/>
+      <point x="347" y="624" type="qcurve" smooth="yes"/>
+      <point x="317" y="639"/>
+      <point x="259" y="639"/>
+      <point x="234" y="628" type="qcurve" smooth="yes"/>
+      <point x="179" y="603"/>
+      <point x="179" y="508" type="qcurve" smooth="yes"/>
+      <point x="179" y="99" type="line"/>
+      <point x="182" y="-7" type="line" smooth="yes"/>
+      <point x="182" y="-17"/>
+      <point x="144" y="-17"/>
+      <point x="106" y="-2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:32:27 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u275C" format="2">
+  <advance width="500" height="500"/>
+  <unicode hex="275C"/>
+  <outline>
+    <contour>
+      <point x="174" y="426" type="qcurve" smooth="yes"/>
+      <point x="157" y="426"/>
+      <point x="157" y="439" type="qcurve" smooth="yes"/>
+      <point x="157" y="441"/>
+      <point x="158" y="454"/>
+      <point x="177" y="469" type="qcurve" smooth="yes"/>
+      <point x="253" y="526"/>
+      <point x="277" y="572" type="qcurve"/>
+      <point x="274" y="571"/>
+      <point x="239" y="571" type="qcurve" smooth="yes"/>
+      <point x="199" y="571"/>
+      <point x="123" y="636"/>
+      <point x="123" y="688" type="qcurve" smooth="yes"/>
+      <point x="123" y="738"/>
+      <point x="192" y="820"/>
+      <point x="249" y="820" type="qcurve" smooth="yes"/>
+      <point x="304" y="820"/>
+      <point x="378" y="749"/>
+      <point x="378" y="685" type="qcurve" smooth="yes"/>
+      <point x="376" y="566"/>
+      <point x="278" y="479" type="qcurve" smooth="yes"/>
+      <point x="213" y="426"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:45:10 +0000</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

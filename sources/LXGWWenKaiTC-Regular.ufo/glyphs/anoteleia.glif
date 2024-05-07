@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="anoteleia" format="2">
+  <advance width="350" height="350"/>
+  <unicode hex="0387"/>
+  <outline>
+    <contour>
+      <point x="230" y="431"/>
+      <point x="230" y="390"/>
+      <point x="205" y="364"/>
+      <point x="157" y="364"/>
+      <point x="125" y="405"/>
+      <point x="125" y="448"/>
+      <point x="155" y="472"/>
+      <point x="197" y="472"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:32:27 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u0324" format="2">
+  <advance width="0" height="0"/>
+  <unicode hex="0324"/>
+  <outline>
+    <contour>
+      <point x="-111" y="-214"/>
+      <point x="-148" y="-169"/>
+      <point x="-148" y="-123"/>
+      <point x="-121" y="-93"/>
+      <point x="-73" y="-93"/>
+      <point x="-35" y="-136"/>
+      <point x="-35" y="-184"/>
+      <point x="-63" y="-214"/>
+    </contour>
+    <contour>
+      <point x="72" y="-214"/>
+      <point x="35" y="-169"/>
+      <point x="35" y="-123"/>
+      <point x="62" y="-93"/>
+      <point x="110" y="-93"/>
+      <point x="148" y="-136"/>
+      <point x="148" y="-184"/>
+      <point x="120" y="-214"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:27:08 +0000</string>
+    </dict>
+  </lib>
+</glyph>

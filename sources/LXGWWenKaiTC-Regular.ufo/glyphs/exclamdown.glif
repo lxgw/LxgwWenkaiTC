@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclamdown" format="2">
+  <advance width="350" height="350"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <contour>
+      <point x="229" y="473"/>
+      <point x="229" y="430"/>
+      <point x="203" y="401"/>
+      <point x="157" y="401"/>
+      <point x="124" y="442"/>
+      <point x="124" y="485"/>
+      <point x="149" y="511"/>
+      <point x="197" y="511"/>
+    </contour>
+    <contour>
+      <point x="210" y="-112" type="line" smooth="yes"/>
+      <point x="210" y="-161"/>
+      <point x="215" y="-191" type="qcurve"/>
+      <point x="215" y="-193" type="line" smooth="yes"/>
+      <point x="215" y="-210"/>
+      <point x="171" y="-210"/>
+      <point x="130" y="-192"/>
+      <point x="130" y="-179" type="qcurve" smooth="yes"/>
+      <point x="130" y="-178" type="line"/>
+      <point x="134" y="-143"/>
+      <point x="136" y="-107" type="qcurve" smooth="yes"/>
+      <point x="148" y="279" type="line"/>
+      <point x="148" y="329" type="line" smooth="yes"/>
+      <point x="148" y="337"/>
+      <point x="177" y="337"/>
+      <point x="206" y="325"/>
+      <point x="206" y="315" type="qcurve" smooth="yes"/>
+      <point x="206" y="314" type="line" smooth="yes"/>
+      <point x="204" y="300"/>
+      <point x="204" y="275" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:32:27 +0000</string>
+    </dict>
+  </lib>
+</glyph>

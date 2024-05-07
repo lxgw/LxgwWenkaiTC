@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessi" format="2">
+  <advance width="263" height="263"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="152" y="-16" type="qcurve" smooth="yes"/>
+      <point x="133" y="-16"/>
+      <point x="89" y="1"/>
+      <point x="89" y="17" type="qcurve" smooth="yes"/>
+      <point x="91" y="105" type="line"/>
+      <point x="91" y="368"/>
+      <point x="88" y="475" type="qcurve" smooth="yes"/>
+      <point x="88" y="490"/>
+      <point x="112" y="490" type="qcurve" smooth="yes"/>
+      <point x="131" y="490"/>
+      <point x="174" y="473"/>
+      <point x="174" y="457" type="qcurve" smooth="yes"/>
+      <point x="172" y="368" type="line"/>
+      <point x="172" y="105"/>
+      <point x="175" y="-1" type="qcurve" smooth="yes"/>
+      <point x="175" y="-16"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:27:08 +0000</string>
+    </dict>
+  </lib>
+</glyph>

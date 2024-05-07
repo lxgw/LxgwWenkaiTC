@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uA4F8" format="2">
+  <advance width="373" height="373"/>
+  <unicode hex="A4F8"/>
+  <outline>
+    <contour>
+      <point x="191" y="-32" type="qcurve" smooth="yes"/>
+      <point x="162" y="-32"/>
+      <point x="117" y="24"/>
+      <point x="117" y="56" type="qcurve" smooth="yes"/>
+      <point x="117" y="87"/>
+      <point x="160" y="128"/>
+      <point x="191" y="128" type="qcurve" smooth="yes"/>
+      <point x="218" y="128"/>
+      <point x="267" y="73"/>
+      <point x="267" y="40" type="qcurve" smooth="yes"/>
+      <point x="267" y="10"/>
+      <point x="218" y="-32"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:27:08 +0000</string>
+    </dict>
+  </lib>
+</glyph>

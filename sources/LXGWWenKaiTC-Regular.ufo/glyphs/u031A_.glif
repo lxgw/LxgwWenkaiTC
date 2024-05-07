@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u031A" format="2">
+  <advance width="0" height="0"/>
+  <unicode hex="031A"/>
+  <outline>
+    <contour>
+      <point x="4" y="588" type="line"/>
+      <point x="4" y="685" type="line"/>
+      <point x="-146" y="685" type="line"/>
+      <point x="-146" y="740" type="line"/>
+      <point x="66" y="740" type="line"/>
+      <point x="66" y="588" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:32:27 +0000</string>
+    </dict>
+  </lib>
+</glyph>

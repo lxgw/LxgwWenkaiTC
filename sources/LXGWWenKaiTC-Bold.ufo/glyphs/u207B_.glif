@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u207B" format="2">
+  <advance width="380" height="380"/>
+  <unicode hex="207B"/>
+  <outline>
+    <contour>
+      <point x="86" y="474" type="qcurve" smooth="yes"/>
+      <point x="84" y="474" type="line" smooth="yes"/>
+      <point x="68" y="474"/>
+      <point x="57" y="501"/>
+      <point x="57" y="511" type="qcurve" smooth="yes"/>
+      <point x="57" y="540"/>
+      <point x="82" y="540" type="qcurve" smooth="yes"/>
+      <point x="97" y="539"/>
+      <point x="122" y="539" type="qcurve" smooth="yes"/>
+      <point x="276" y="539"/>
+      <point x="297" y="540" type="qcurve" smooth="yes"/>
+      <point x="298" y="540" type="line" smooth="yes"/>
+      <point x="313" y="540"/>
+      <point x="325" y="514"/>
+      <point x="325" y="497" type="qcurve" smooth="yes"/>
+      <point x="325" y="475"/>
+      <point x="300" y="475" type="qcurve" smooth="yes"/>
+      <point x="261" y="476" type="line"/>
+      <point x="95" y="476"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:27:08 +0000</string>
+    </dict>
+  </lib>
+</glyph>

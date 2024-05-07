@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1F33" format="2">
+  <advance width="500" height="500"/>
+  <unicode hex="1F33"/>
+  <outline>
+    <contour>
+      <point x="287" y="-24" type="qcurve" smooth="yes"/>
+      <point x="231" y="-24"/>
+      <point x="183" y="43"/>
+      <point x="183" y="110" type="qcurve" smooth="yes"/>
+      <point x="185" y="357"/>
+      <point x="194" y="410" type="qcurve"/>
+      <point x="190" y="410" type="line"/>
+      <point x="150" y="404"/>
+      <point x="99" y="404"/>
+      <point x="86" y="403" type="qcurve" smooth="yes"/>
+      <point x="70" y="403"/>
+      <point x="49" y="446"/>
+      <point x="49" y="462" type="qcurve" smooth="yes"/>
+      <point x="49" y="485"/>
+      <point x="64" y="485" type="qcurve" smooth="yes"/>
+      <point x="102" y="479"/>
+      <point x="113" y="479" type="qcurve" smooth="yes"/>
+      <point x="183" y="479"/>
+      <point x="223" y="489" type="qcurve"/>
+      <point x="246" y="489"/>
+      <point x="266" y="463" type="qcurve" smooth="yes"/>
+      <point x="274" y="453"/>
+      <point x="274" y="439" type="qcurve" smooth="yes"/>
+      <point x="273" y="429" type="line" smooth="yes"/>
+      <point x="260" y="330"/>
+      <point x="260" y="199" type="qcurve" smooth="yes"/>
+      <point x="261" y="108" type="line" smooth="yes"/>
+      <point x="262" y="71"/>
+      <point x="274" y="52"/>
+      <point x="297" y="52" type="qcurve" smooth="yes"/>
+      <point x="342" y="52"/>
+      <point x="403" y="92" type="qcurve" smooth="yes"/>
+      <point x="421" y="106"/>
+      <point x="432" y="106" type="qcurve" smooth="yes"/>
+      <point x="446" y="106"/>
+      <point x="446" y="89" type="qcurve" smooth="yes"/>
+      <point x="446" y="77"/>
+      <point x="419" y="41"/>
+      <point x="374" y="3"/>
+      <point x="312" y="-24"/>
+    </contour>
+    <contour>
+      <point x="201" y="561" type="qcurve" smooth="yes"/>
+      <point x="195" y="561"/>
+      <point x="194" y="562" type="qcurve" smooth="yes"/>
+      <point x="192" y="563" type="line" smooth="yes"/>
+      <point x="147" y="583"/>
+      <point x="88" y="659"/>
+      <point x="88" y="695" type="qcurve" smooth="yes"/>
+      <point x="88" y="702" type="line" smooth="yes"/>
+      <point x="89" y="703"/>
+      <point x="89" y="704" type="qcurve" smooth="yes"/>
+      <point x="92" y="731"/>
+      <point x="123" y="770"/>
+      <point x="169" y="770"/>
+      <point x="205" y="743"/>
+      <point x="205" y="718" type="qcurve" smooth="yes"/>
+      <point x="205" y="700"/>
+      <point x="187" y="674"/>
+      <point x="178" y="666" type="qcurve" smooth="yes"/>
+      <point x="175" y="663"/>
+      <point x="166" y="662" type="qcurve" smooth="yes"/>
+      <point x="161" y="661"/>
+      <point x="159" y="661" type="qcurve"/>
+      <point x="163" y="647"/>
+      <point x="178" y="630" type="qcurve" smooth="yes"/>
+      <point x="193" y="611"/>
+      <point x="212" y="598" type="qcurve" smooth="yes"/>
+      <point x="221" y="592"/>
+      <point x="221" y="581" type="qcurve" smooth="yes"/>
+      <point x="221" y="574"/>
+      <point x="211" y="561"/>
+    </contour>
+    <contour>
+      <point x="319" y="561" type="qcurve" smooth="yes"/>
+      <point x="301" y="561"/>
+      <point x="296" y="574" type="qcurve" smooth="yes"/>
+      <point x="234" y="725" type="line"/>
+      <point x="233" y="731" type="line" smooth="yes"/>
+      <point x="233" y="748"/>
+      <point x="270" y="770"/>
+      <point x="290" y="770" type="qcurve" smooth="yes"/>
+      <point x="312" y="770"/>
+      <point x="316" y="754" type="qcurve" smooth="yes"/>
+      <point x="365" y="600" type="line" smooth="yes"/>
+      <point x="367" y="598"/>
+      <point x="367" y="590" type="qcurve" smooth="yes"/>
+      <point x="367" y="579"/>
+      <point x="334" y="561"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:45:10 +0000</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

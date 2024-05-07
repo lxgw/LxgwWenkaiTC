@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Umacron" format="2">
+  <advance width="710" height="710"/>
+  <unicode hex="016A"/>
+  <outline>
+    <contour>
+      <point x="488" y="771"/>
+      <point x="469" y="771" type="qcurve" smooth="yes"/>
+      <point x="241" y="771" type="line" smooth="yes"/>
+      <point x="223" y="771"/>
+      <point x="223" y="821"/>
+      <point x="242" y="821" type="qcurve" smooth="yes"/>
+      <point x="470" y="821" type="line" smooth="yes"/>
+      <point x="488" y="821"/>
+    </contour>
+    <contour>
+      <point x="168" y="680" type="qcurve" smooth="yes"/>
+      <point x="166" y="584" type="line"/>
+      <point x="166" y="210" type="line" smooth="yes"/>
+      <point x="166" y="119"/>
+      <point x="254" y="37"/>
+      <point x="342" y="37" type="qcurve" smooth="yes"/>
+      <point x="405" y="37"/>
+      <point x="496" y="90"/>
+      <point x="545" y="183"/>
+      <point x="545" y="242" type="qcurve" smooth="yes"/>
+      <point x="545" y="595" type="line"/>
+      <point x="542" y="697" type="line" smooth="yes"/>
+      <point x="542" y="708"/>
+      <point x="575" y="708"/>
+      <point x="605" y="694"/>
+      <point x="605" y="682" type="qcurve" smooth="yes"/>
+      <point x="605" y="682"/>
+      <point x="603" y="594" type="qcurve" smooth="yes"/>
+      <point x="603" y="230" type="line" smooth="yes"/>
+      <point x="603" y="156"/>
+      <point x="538" y="45"/>
+      <point x="421" y="-16"/>
+      <point x="342" y="-16" type="qcurve" smooth="yes"/>
+      <point x="108" y="-16"/>
+      <point x="108" y="198" type="qcurve" smooth="yes"/>
+      <point x="108" y="586" type="line"/>
+      <point x="105" y="695" type="line" smooth="yes"/>
+      <point x="105" y="706"/>
+      <point x="138" y="706"/>
+      <point x="168" y="692"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:31:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

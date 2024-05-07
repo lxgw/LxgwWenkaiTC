@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u026D" format="2">
+  <advance width="263" height="263"/>
+  <unicode hex="026D"/>
+  <outline>
+    <contour>
+      <point x="97" y="590" type="line"/>
+      <point x="94" y="697" type="line" smooth="yes"/>
+      <point x="94" y="707"/>
+      <point x="131" y="707"/>
+      <point x="168" y="692"/>
+      <point x="168" y="679" type="qcurve" smooth="yes"/>
+      <point x="166" y="590" type="line"/>
+      <point x="166" y="-31" type="line" smooth="yes"/>
+      <point x="166" y="-62"/>
+      <point x="184" y="-100"/>
+      <point x="202" y="-100" type="qcurve" smooth="yes"/>
+      <point x="236" y="-100"/>
+      <point x="252" y="-79" type="qcurve" smooth="yes"/>
+      <point x="263" y="-66"/>
+      <point x="286" y="-66"/>
+      <point x="306" y="-98"/>
+      <point x="306" y="-131"/>
+      <point x="248" y="-162"/>
+      <point x="159" y="-162"/>
+      <point x="137" y="-141" type="qcurve" smooth="yes"/>
+      <point x="97" y="-105"/>
+      <point x="97" y="-30" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:32:27 +0000</string>
+    </dict>
+  </lib>
+</glyph>

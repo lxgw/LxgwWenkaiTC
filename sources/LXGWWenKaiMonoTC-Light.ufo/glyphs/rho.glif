@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rho" format="2">
+  <advance width="500" height="500"/>
+  <unicode hex="03C1"/>
+  <outline>
+    <contour>
+      <point x="126" y="398" type="qcurve"/>
+      <point x="186" y="481"/>
+      <point x="298" y="481" type="qcurve" smooth="yes"/>
+      <point x="366" y="481"/>
+      <point x="450" y="377"/>
+      <point x="450" y="278" type="qcurve" smooth="yes"/>
+      <point x="450" y="113"/>
+      <point x="347" y="27" type="qcurve" smooth="yes"/>
+      <point x="298" y="-12"/>
+      <point x="237" y="-12" type="qcurve" smooth="yes"/>
+      <point x="205" y="-12"/>
+      <point x="143" y="21"/>
+      <point x="135" y="33" type="qcurve" smooth="yes"/>
+      <point x="126" y="46" type="line"/>
+      <point x="126" y="30" type="line" smooth="yes"/>
+      <point x="126" y="-96"/>
+      <point x="131" y="-154"/>
+      <point x="131" y="-171" type="qcurve" smooth="yes"/>
+      <point x="131" y="-176"/>
+      <point x="100" y="-176"/>
+      <point x="69" y="-162"/>
+      <point x="69" y="-141"/>
+      <point x="73" y="-37"/>
+      <point x="73" y="223" type="qcurve" smooth="yes"/>
+      <point x="73" y="316"/>
+    </contour>
+    <contour>
+      <point x="126" y="398" type="move"/>
+    </contour>
+    <contour>
+      <point x="125" y="98" type="line"/>
+      <point x="133" y="98" type="line" smooth="yes"/>
+      <point x="143" y="98"/>
+      <point x="152" y="83" type="qcurve" smooth="yes"/>
+      <point x="181" y="36"/>
+      <point x="283" y="36"/>
+      <point x="338" y="98" type="qcurve" smooth="yes"/>
+      <point x="393" y="165"/>
+      <point x="393" y="378"/>
+      <point x="344" y="415" type="qcurve" smooth="yes"/>
+      <point x="322" y="431"/>
+      <point x="298" y="431" type="qcurve" smooth="yes"/>
+      <point x="222" y="431"/>
+      <point x="168" y="347" type="qcurve" smooth="yes"/>
+      <point x="142" y="307"/>
+      <point x="125" y="210"/>
+      <point x="125" y="103" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:44:19 +0000</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

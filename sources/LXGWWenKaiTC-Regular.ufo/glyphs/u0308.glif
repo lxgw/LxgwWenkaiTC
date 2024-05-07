@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u0308" format="2">
+  <advance width="0" height="0"/>
+  <unicode hex="0308"/>
+  <outline>
+    <contour>
+      <point x="-133" y="592"/>
+      <point x="-175" y="592"/>
+      <point x="-209" y="633"/>
+      <point x="-209" y="675"/>
+      <point x="-185" y="701"/>
+      <point x="-143" y="701"/>
+      <point x="-108" y="662"/>
+      <point x="-108" y="618"/>
+    </contour>
+    <contour>
+      <point x="-316" y="592"/>
+      <point x="-358" y="592"/>
+      <point x="-392" y="633"/>
+      <point x="-392" y="675"/>
+      <point x="-368" y="701"/>
+      <point x="-326" y="701"/>
+      <point x="-291" y="662"/>
+      <point x="-291" y="618"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:32:27 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1E16" format="2">
+  <advance width="638" height="638"/>
+  <unicode hex="1E16"/>
+  <outline>
+    <contour>
+      <point x="408" y="933"/>
+      <point x="398" y="930" type="qcurve" smooth="yes"/>
+      <point x="296" y="894"/>
+      <point x="263" y="873" type="qcurve" smooth="yes"/>
+      <point x="259" y="871"/>
+      <point x="250" y="871"/>
+      <point x="243" y="878"/>
+      <point x="243" y="887"/>
+      <point x="258" y="901" type="qcurve" smooth="yes"/>
+      <point x="295" y="936"/>
+      <point x="391" y="1000" type="qcurve" smooth="yes"/>
+      <point x="392" y="1000"/>
+      <point x="394" y="1000" type="qcurve" smooth="yes"/>
+      <point x="407" y="1000"/>
+      <point x="448" y="963"/>
+      <point x="448" y="947"/>
+      <point x="444" y="946" type="qcurve" smooth="yes"/>
+      <point x="437" y="943"/>
+    </contour>
+    <contour>
+      <point x="473" y="789"/>
+      <point x="459" y="789" type="qcurve" smooth="yes"/>
+      <point x="231" y="789" type="line" smooth="yes"/>
+      <point x="218" y="789"/>
+      <point x="218" y="841"/>
+      <point x="232" y="841" type="qcurve" smooth="yes"/>
+      <point x="460" y="841" type="line" smooth="yes"/>
+      <point x="473" y="841"/>
+    </contour>
+    <contour>
+      <point x="472" y="59" type="line" smooth="yes"/>
+      <point x="510" y="59"/>
+      <point x="555" y="62" type="qcurve" smooth="yes"/>
+      <point x="556" y="62" type="line" smooth="yes"/>
+      <point x="566" y="62"/>
+      <point x="583" y="29"/>
+      <point x="583" y="3"/>
+      <point x="577" y="3" type="qcurve" smooth="yes"/>
+      <point x="576" y="3" type="line" smooth="yes"/>
+      <point x="552" y="6"/>
+      <point x="489" y="6" type="qcurve" smooth="yes"/>
+      <point x="473" y="6" type="line"/>
+      <point x="195" y="2" type="line" smooth="yes"/>
+      <point x="178" y="2"/>
+      <point x="155" y="-5"/>
+      <point x="129" y="-5"/>
+      <point x="104" y="26"/>
+      <point x="104" y="37" type="qcurve" smooth="yes"/>
+      <point x="111" y="84" type="line"/>
+      <point x="111" y="347" type="line"/>
+      <point x="99" y="354"/>
+      <point x="84" y="383"/>
+      <point x="84" y="399"/>
+      <point x="87" y="399" type="qcurve" smooth="yes"/>
+      <point x="88" y="399" type="line" smooth="yes"/>
+      <point x="97" y="397"/>
+      <point x="106" y="397" type="qcurve" smooth="yes"/>
+      <point x="111" y="397" type="line"/>
+      <point x="111" y="634" type="line"/>
+      <point x="107" y="685" type="line" smooth="yes"/>
+      <point x="107" y="694"/>
+      <point x="118" y="694" type="qcurve" smooth="yes"/>
+      <point x="137" y="694"/>
+      <point x="166" y="682" type="qcurve"/>
+      <point x="167" y="681" type="line"/>
+      <point x="440" y="699" type="line" smooth="yes"/>
+      <point x="464" y="701"/>
+      <point x="514" y="707"/>
+      <point x="534" y="707"/>
+      <point x="552" y="676"/>
+      <point x="552" y="651"/>
+      <point x="544" y="651" type="qcurve" smooth="yes"/>
+      <point x="482" y="651" type="line" smooth="yes"/>
+      <point x="455" y="651"/>
+      <point x="441" y="650" type="qcurve" smooth="yes"/>
+      <point x="169" y="632" type="line"/>
+      <point x="169" y="398" type="line"/>
+      <point x="385" y="411" type="line" smooth="yes"/>
+      <point x="409" y="413"/>
+      <point x="459" y="419"/>
+      <point x="479" y="419"/>
+      <point x="497" y="388"/>
+      <point x="497" y="362"/>
+      <point x="489" y="362" type="qcurve" smooth="yes"/>
+      <point x="426" y="362" type="line" smooth="yes"/>
+      <point x="400" y="362"/>
+      <point x="386" y="361" type="qcurve" smooth="yes"/>
+      <point x="169" y="349" type="line"/>
+      <point x="169" y="54" type="line"/>
+    </contour>
+    <contour>
+      <point x="107" y="685" type="move"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:31:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

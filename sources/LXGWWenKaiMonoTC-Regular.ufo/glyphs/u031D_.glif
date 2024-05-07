@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u031D" format="2">
+  <advance width="0" height="0"/>
+  <unicode hex="031D"/>
+  <outline>
+    <contour>
+      <point x="-346" y="-210" type="line"/>
+      <point x="-346" y="-155" type="line"/>
+      <point x="-281" y="-155" type="line"/>
+      <point x="-281" y="-58" type="line"/>
+      <point x="-219" y="-58" type="line"/>
+      <point x="-219" y="-155" type="line"/>
+      <point x="-154" y="-155" type="line"/>
+      <point x="-154" y="-210" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:43:34 +0000</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u0307" format="2">
+  <advance width="0" height="0"/>
+  <unicode hex="0307"/>
+  <outline>
+    <contour>
+      <point x="-227" y="597"/>
+      <point x="-265" y="597"/>
+      <point x="-296" y="635"/>
+      <point x="-296" y="673"/>
+      <point x="-275" y="696"/>
+      <point x="-237" y="696"/>
+      <point x="-205" y="660"/>
+      <point x="-205" y="620"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:44:19 +0000</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

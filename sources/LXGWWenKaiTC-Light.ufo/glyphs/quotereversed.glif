@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotereversed" format="2">
+  <advance width="350" height="350"/>
+  <unicode hex="201B"/>
+  <outline>
+    <contour>
+      <point x="226" y="631" type="qcurve" smooth="yes"/>
+      <point x="226" y="622"/>
+      <point x="217" y="622" type="qcurve" smooth="yes"/>
+      <point x="214" y="622"/>
+      <point x="211" y="624" type="qcurve" smooth="yes"/>
+      <point x="171" y="641"/>
+      <point x="115" y="713"/>
+      <point x="115" y="745" type="qcurve" smooth="yes"/>
+      <point x="115" y="747"/>
+      <point x="116" y="751"/>
+      <point x="119" y="776"/>
+      <point x="144" y="809"/>
+      <point x="181" y="809"/>
+      <point x="210" y="787"/>
+      <point x="210" y="770" type="qcurve" smooth="yes"/>
+      <point x="210" y="746"/>
+      <point x="187" y="725" type="qcurve" smooth="yes"/>
+      <point x="184" y="723"/>
+      <point x="168" y="720"/>
+      <point x="162" y="717" type="qcurve"/>
+      <point x="167" y="694"/>
+      <point x="203" y="652"/>
+      <point x="222" y="639" type="qcurve" smooth="yes"/>
+      <point x="226" y="636"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:31:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

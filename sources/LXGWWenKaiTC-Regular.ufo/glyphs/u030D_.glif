@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u030D" format="2">
+  <advance width="0" height="0"/>
+  <unicode hex="030D"/>
+  <outline>
+    <contour>
+      <point x="-112" y="785"/>
+      <point x="-99" y="785" type="qcurve" smooth="yes"/>
+      <point x="-87" y="785"/>
+      <point x="-69" y="775"/>
+      <point x="-69" y="766" type="qcurve" smooth="yes"/>
+      <point x="-69" y="578" type="line" smooth="yes"/>
+      <point x="-69" y="569"/>
+      <point x="-87" y="560"/>
+      <point x="-100" y="560" type="qcurve" smooth="yes"/>
+      <point x="-112" y="560"/>
+      <point x="-131" y="570"/>
+      <point x="-131" y="579" type="qcurve" smooth="yes"/>
+      <point x="-131" y="767" type="line" smooth="yes"/>
+      <point x="-131" y="776"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:32:27 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u0317" format="2">
+  <advance width="0" height="0"/>
+  <unicode hex="0317"/>
+  <outline>
+    <contour>
+      <point x="-100" y="-229"/>
+      <point x="-114" y="-215"/>
+      <point x="-114" y="-206" type="qcurve" smooth="yes"/>
+      <point x="-114" y="-198"/>
+      <point x="-74" y="-155"/>
+      <point x="39" y="-80" type="qcurve" smooth="yes"/>
+      <point x="43" y="-78"/>
+      <point x="51" y="-78" type="qcurve" smooth="yes"/>
+      <point x="60" y="-78"/>
+      <point x="74" y="-88" type="qcurve" smooth="yes"/>
+      <point x="113" y="-115"/>
+      <point x="113" y="-138" type="qcurve" smooth="yes"/>
+      <point x="113" y="-149"/>
+      <point x="102" y="-154" type="qcurve" smooth="yes"/>
+      <point x="53" y="-172"/>
+      <point x="-43" y="-205"/>
+      <point x="-84" y="-229"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:27:08 +0000</string>
+    </dict>
+  </lib>
+</glyph>

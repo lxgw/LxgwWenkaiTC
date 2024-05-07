@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotesingle" format="2">
+  <advance width="500" height="500"/>
+  <unicode hex="0027"/>
+  <outline>
+    <contour>
+      <point x="250" y="476" type="qcurve" smooth="yes"/>
+      <point x="221" y="476"/>
+      <point x="219" y="492" type="qcurve" smooth="yes"/>
+      <point x="213" y="703" type="line" smooth="yes"/>
+      <point x="213" y="714"/>
+      <point x="237" y="725"/>
+      <point x="250" y="725" type="qcurve" smooth="yes"/>
+      <point x="287" y="725"/>
+      <point x="287" y="703" type="qcurve" smooth="yes"/>
+      <point x="281" y="492" type="line" smooth="yes"/>
+      <point x="281" y="476"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:43:34 +0000</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

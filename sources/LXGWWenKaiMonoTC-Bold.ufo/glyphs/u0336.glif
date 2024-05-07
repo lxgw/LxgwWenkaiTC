@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u0336" format="2">
+  <advance width="0" height="0"/>
+  <unicode hex="0336"/>
+  <outline>
+    <contour>
+      <point x="-5" y="219" type="qcurve" smooth="yes"/>
+      <point x="-995" y="219" type="line" smooth="yes"/>
+      <point x="-1020" y="219"/>
+      <point x="-1020" y="289"/>
+      <point x="-995" y="289" type="qcurve" smooth="yes"/>
+      <point x="-5" y="289" type="line" smooth="yes"/>
+      <point x="20" y="289"/>
+      <point x="20" y="219"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:45:10 +0000</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

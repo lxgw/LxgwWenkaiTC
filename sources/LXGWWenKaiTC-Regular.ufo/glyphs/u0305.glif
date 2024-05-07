@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u0305" format="2">
+  <advance width="0" height="0"/>
+  <unicode hex="0305"/>
+  <outline>
+    <contour>
+      <point x="-5" y="841" type="line" smooth="yes"/>
+      <point x="14" y="841"/>
+      <point x="14" y="778"/>
+      <point x="-5" y="778" type="qcurve" smooth="yes"/>
+      <point x="-495" y="778" type="line" smooth="yes"/>
+      <point x="-514" y="778"/>
+      <point x="-514" y="841"/>
+      <point x="-495" y="841" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:32:27 +0000</string>
+    </dict>
+  </lib>
+</glyph>

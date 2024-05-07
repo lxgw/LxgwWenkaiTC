@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u030A" format="2">
+  <advance width="0" height="0"/>
+  <unicode hex="030A"/>
+  <outline>
+    <contour>
+      <point x="-160" y="610"/>
+      <point x="-213" y="557"/>
+      <point x="-285" y="557"/>
+      <point x="-338" y="610"/>
+      <point x="-338" y="682"/>
+      <point x="-285" y="735"/>
+      <point x="-213" y="735"/>
+      <point x="-160" y="682"/>
+    </contour>
+    <contour>
+      <point x="-198" y="625"/>
+      <point x="-198" y="668"/>
+      <point x="-227" y="697"/>
+      <point x="-270" y="697"/>
+      <point x="-300" y="668"/>
+      <point x="-300" y="625"/>
+      <point x="-270" y="595"/>
+      <point x="-227" y="595"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:44:19 +0000</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

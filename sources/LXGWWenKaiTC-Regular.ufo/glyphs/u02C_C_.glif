@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u02CC" format="2">
+  <advance width="200" height="200"/>
+  <unicode hex="02CC"/>
+  <outline>
+    <contour>
+      <point x="93" y="16"/>
+      <point x="100" y="16" type="qcurve" smooth="yes"/>
+      <point x="108" y="16"/>
+      <point x="120" y="8"/>
+      <point x="121" y="0" type="qcurve" smooth="yes"/>
+      <point x="137" y="-251" type="line"/>
+      <point x="137" y="-252" type="line" smooth="yes"/>
+      <point x="137" y="-262"/>
+      <point x="115" y="-273"/>
+      <point x="85" y="-273"/>
+      <point x="62" y="-261"/>
+      <point x="63" y="-251" type="qcurve" smooth="yes"/>
+      <point x="79" y="0" type="line" smooth="yes"/>
+      <point x="80" y="8"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:32:27 +0000</string>
+    </dict>
+  </lib>
+</glyph>

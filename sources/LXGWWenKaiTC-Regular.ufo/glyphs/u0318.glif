@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u0318" format="2">
+  <advance width="0" height="0"/>
+  <unicode hex="0318"/>
+  <outline>
+    <contour>
+      <point x="-181" y="-210" type="line"/>
+      <point x="-181" y="-161" type="line"/>
+      <point x="-346" y="-161" type="line"/>
+      <point x="-346" y="-107" type="line"/>
+      <point x="-181" y="-107" type="line"/>
+      <point x="-181" y="-58" type="line"/>
+      <point x="-119" y="-58" type="line"/>
+      <point x="-119" y="-210" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:32:27 +0000</string>
+    </dict>
+  </lib>
+</glyph>

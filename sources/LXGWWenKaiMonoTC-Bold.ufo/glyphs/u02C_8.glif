@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u02C8" format="2">
+  <advance width="500" height="500"/>
+  <unicode hex="02C8"/>
+  <outline>
+    <contour>
+      <point x="250" y="522" type="qcurve" smooth="yes"/>
+      <point x="226" y="522"/>
+      <point x="223" y="543" type="qcurve" smooth="yes"/>
+      <point x="207" y="796" type="line" smooth="yes"/>
+      <point x="207" y="809"/>
+      <point x="234" y="823"/>
+      <point x="250" y="823" type="qcurve" smooth="yes"/>
+      <point x="266" y="823"/>
+      <point x="293" y="810"/>
+      <point x="293" y="796" type="qcurve" smooth="yes"/>
+      <point x="277" y="543" type="line" smooth="yes"/>
+      <point x="274" y="522"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-07 04:45:10 +0000</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>
