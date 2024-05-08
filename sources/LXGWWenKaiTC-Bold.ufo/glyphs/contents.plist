@@ -332,8 +332,6 @@
     <string>acircumflex.glif</string>
     <key>acutecomb</key>
     <string>acutecomb.glif</string>
-    <key>acutecomb.1</key>
-    <string>acutecomb.1.glif</string>
     <key>adieresis</key>
     <string>adieresis.glif</string>
     <key>ae</key>
@@ -1458,8 +1456,6 @@
     <string>u0307.glif</string>
     <key>u0308</key>
     <string>u0308.glif</string>
-    <key>u0308.1</key>
-    <string>u0308.1.glif</string>
     <key>u030A</key>
     <string>u030A_.glif</string>
     <key>u030B</key>

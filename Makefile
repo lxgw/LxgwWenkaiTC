@@ -23,6 +23,7 @@ export:
 	. venv/bin/activate; gftools builder sources/project.yaml
 
 build: venv extract merge export
+	. venv/bin/activate; python3 sources/scripts/post.py;
 
 venv/touchfile: requirements.txt
 	test -d venv || python3 -m venv venv

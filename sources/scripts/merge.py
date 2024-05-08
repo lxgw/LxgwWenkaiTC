@@ -13,6 +13,7 @@ SOURCE = Path("sources")
 EXPORT = Path("sources/build")
 
 for file in SOURCE.glob("*.ufo"):
+    # We keep a single copy of the common Hanzi data, and merge it into the Latins as necessary
     coreUFO = ufoLib2.Font.open(file)
     if "Regular" in str(file):
         commonUFO = ufoLib2.Font.open("sources/temp/LXGWWenKaiTC_common-Regular.ufo")
@@ -29,4 +30,10 @@ for file in SOURCE.glob("*.ufo"):
         layout_handling="ignore",
         existing_handling="skip",
     )
+
+    # Override the feature code for consistency
+    f = open("sources/features.fea", "r")
+    features = f.read()
+
+    coreUFO.features.text = features
     coreUFO.save(EXPORT/str(file).split("/")[1],overwrite=True,validate=False)

@@ -69,7 +69,7 @@
     <key>com.schriftgestaltung.formatVersion</key>
     <integer>3</integer>
     <key>com.schriftgestaltung.useGlyphOrder</key>
-    <false/>
+    <true/>
     <key>com.schriftgestaltung.useNiceNames</key>
     <false/>
     <key>public.glyphOrder</key>

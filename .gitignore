@@ -2,3 +2,5 @@ venv
 sources/temp
 sources/build
 .DS_Store
+sources/.ninja_log
+sources/build.ninja
