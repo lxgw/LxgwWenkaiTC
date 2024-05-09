@@ -100,6 +100,20 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 - [Ｙ式書體 / YshiShuti](https://github.com/Steve-Yuu/YshiShuti)
 - [混菜寫楷 / Mixed-VsWeKai](https://github.com/FWHP-Enfun/Mixed-VsWeKai)
 
+## 更多「霞鶩」系列字型
+### 「霞鶩文楷」系列
+- [霞鶩文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenKaiGB) | [Lite](https://github.com/lxgw/LxgwWenKaiGB-Lite)
+- [霞鶩文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [Lite](https://github.com/lxgw/LxgwWenKai-Lite)
+### 「晰緻尚銘」系列
+- [霞鶩晰黑 / LXGW XiHei](https://github.com/lxgw/LxgwXiHei)
+- [霞鶩緻宋 / LXGW ZhiSong](https://github.com/lxgw/LxgwZhiSong)
+- [霞鶩新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
+- [霞鶩新緻宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)
+### 其他
+- [霞鶩漫黑 / LXGW Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
+- [小賴字體 / Xiaolai](https://github.com/lxgw/kose-font)
+- [悠哉字體 / Yozai](https://github.com/lxgw/yozai-font)
+
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/lxgw/LxgwWenkaiTC.svg)](https://starchart.cc/lxgw/LxgwWenkaiTC)
