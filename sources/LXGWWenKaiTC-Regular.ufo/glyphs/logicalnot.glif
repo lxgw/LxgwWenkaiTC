@@ -4,29 +4,29 @@
   <unicode hex="00AC"/>
   <outline>
     <contour>
-      <point x="444" y="309" type="line"/>
-      <point x="70" y="309" type="line" smooth="yes"/>
-      <point x="60" y="309"/>
-      <point x="49" y="329"/>
-      <point x="49" y="353"/>
-      <point x="60" y="373"/>
-      <point x="70" y="373" type="qcurve" smooth="yes"/>
-      <point x="457" y="373" type="line" smooth="yes"/>
-      <point x="481" y="373"/>
-      <point x="508" y="346"/>
-      <point x="508" y="322" type="qcurve" smooth="yes"/>
-      <point x="508" y="121" type="line" smooth="yes"/>
-      <point x="508" y="111"/>
-      <point x="488" y="100"/>
-      <point x="464" y="100"/>
+      <point x="444" y="121" type="line" smooth="yes"/>
       <point x="444" y="111"/>
-      <point x="444" y="121" type="qcurve" smooth="yes"/>
+      <point x="464" y="100"/>
+      <point x="488" y="100"/>
+      <point x="508" y="111"/>
+      <point x="508" y="121" type="qcurve" smooth="yes"/>
+      <point x="508" y="322" type="line" smooth="yes"/>
+      <point x="508" y="346"/>
+      <point x="481" y="373"/>
+      <point x="457" y="373" type="qcurve" smooth="yes"/>
+      <point x="70" y="373" type="line" smooth="yes"/>
+      <point x="60" y="373"/>
+      <point x="49" y="353"/>
+      <point x="49" y="329"/>
+      <point x="60" y="309"/>
+      <point x="70" y="309" type="qcurve" smooth="yes"/>
+      <point x="444" y="309" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-07 04:32:27 +0000</string>
+      <string>2024-05-08 13:28:52 +0000</string>
     </dict>
   </lib>
 </glyph>

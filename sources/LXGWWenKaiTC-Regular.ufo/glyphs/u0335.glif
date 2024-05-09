@@ -4,32 +4,32 @@
   <unicode hex="0335"/>
   <outline>
     <contour>
-      <point x="-112" y="280" type="line" smooth="yes"/>
-      <point x="-83" y="280"/>
-      <point x="-41" y="282" type="qcurve" smooth="yes"/>
-      <point x="-40" y="282" type="line" smooth="yes"/>
-      <point x="-32" y="282"/>
-      <point x="-20" y="258"/>
-      <point x="-20" y="220"/>
-      <point x="-35" y="220" type="qcurve" smooth="yes"/>
-      <point x="-113" y="222" type="line"/>
-      <point x="-233" y="222" type="line" smooth="yes"/>
+      <point x="-308" y="219" type="qcurve" smooth="yes"/>
+      <point x="-307" y="219" type="line" smooth="yes"/>
       <point x="-289" y="222"/>
-      <point x="-307" y="219" type="qcurve" smooth="yes"/>
-      <point x="-308" y="219" type="line" smooth="yes"/>
-      <point x="-317" y="219"/>
-      <point x="-328" y="245"/>
-      <point x="-328" y="258" type="qcurve" smooth="yes"/>
-      <point x="-328" y="282"/>
-      <point x="-312" y="282" type="qcurve" smooth="yes"/>
+      <point x="-233" y="222" type="qcurve" smooth="yes"/>
+      <point x="-113" y="222" type="line"/>
+      <point x="-35" y="220" type="line" smooth="yes"/>
+      <point x="-20" y="220"/>
+      <point x="-20" y="258"/>
+      <point x="-32" y="282"/>
+      <point x="-40" y="282" type="qcurve" smooth="yes"/>
+      <point x="-41" y="282" type="line" smooth="yes"/>
+      <point x="-83" y="280"/>
+      <point x="-112" y="280" type="qcurve" smooth="yes"/>
+      <point x="-232" y="280" type="line" smooth="yes"/>
       <point x="-282" y="280"/>
-      <point x="-232" y="280" type="qcurve" smooth="yes"/>
+      <point x="-312" y="282" type="qcurve" smooth="yes"/>
+      <point x="-328" y="282"/>
+      <point x="-328" y="258" type="qcurve" smooth="yes"/>
+      <point x="-328" y="245"/>
+      <point x="-317" y="219"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-07 04:32:27 +0000</string>
+      <string>2024-05-08 13:28:52 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -4,39 +4,39 @@
   <unicode hex="030B"/>
   <outline>
     <contour>
-      <point x="-234" y="660" type="qcurve" smooth="yes"/>
-      <point x="-340" y="610"/>
-      <point x="-395" y="572" type="qcurve" smooth="yes"/>
-      <point x="-400" y="568"/>
-      <point x="-407" y="568" type="qcurve" smooth="yes"/>
-      <point x="-423" y="568"/>
-      <point x="-423" y="598"/>
-      <point x="-299" y="710"/>
-      <point x="-292" y="715"/>
-      <point x="-275" y="715"/>
-      <point x="-248" y="700"/>
-      <point x="-227" y="679"/>
-      <point x="-227" y="663"/>
+      <point x="-257" y="567" type="qcurve" smooth="yes"/>
+      <point x="-250" y="567"/>
+      <point x="-206" y="597"/>
+      <point x="-84" y="658" type="qcurve" smooth="yes"/>
+      <point x="-77" y="661"/>
+      <point x="-77" y="677"/>
+      <point x="-98" y="699"/>
+      <point x="-126" y="715"/>
+      <point x="-142" y="715"/>
+      <point x="-145" y="712" type="qcurve" smooth="yes"/>
+      <point x="-273" y="600"/>
+      <point x="-273" y="567"/>
     </contour>
     <contour>
-      <point x="-84" y="658" type="qcurve" smooth="yes"/>
-      <point x="-206" y="597"/>
-      <point x="-250" y="567"/>
-      <point x="-257" y="567" type="qcurve" smooth="yes"/>
-      <point x="-273" y="567"/>
-      <point x="-273" y="600"/>
-      <point x="-145" y="712" type="qcurve" smooth="yes"/>
-      <point x="-142" y="715"/>
-      <point x="-126" y="715"/>
-      <point x="-98" y="699"/>
-      <point x="-77" y="677"/>
-      <point x="-77" y="661"/>
+      <point x="-407" y="568" type="qcurve" smooth="yes"/>
+      <point x="-400" y="568"/>
+      <point x="-395" y="572" type="qcurve" smooth="yes"/>
+      <point x="-340" y="610"/>
+      <point x="-234" y="660" type="qcurve" smooth="yes"/>
+      <point x="-227" y="663"/>
+      <point x="-227" y="679"/>
+      <point x="-248" y="700"/>
+      <point x="-275" y="715"/>
+      <point x="-292" y="715"/>
+      <point x="-299" y="710"/>
+      <point x="-423" y="598"/>
+      <point x="-423" y="568"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-07 04:43:34 +0000</string>
+      <string>2024-05-08 13:31:43 +0000</string>
       <key>public.markColor</key>
       <string>0.85,0.26,0.06,1</string>
     </dict>

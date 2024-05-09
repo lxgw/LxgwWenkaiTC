@@ -4,24 +4,24 @@
   <unicode hex="0358"/>
   <outline>
     <contour>
-      <point x="-228" y="495"/>
       <point x="-250" y="495" type="qcurve" smooth="yes"/>
-      <point x="-269" y="495"/>
-      <point x="-300" y="533"/>
-      <point x="-300" y="555" type="qcurve" smooth="yes"/>
-      <point x="-300" y="576"/>
-      <point x="-274" y="603"/>
-      <point x="-250" y="603" type="qcurve" smooth="yes"/>
-      <point x="-232" y="603"/>
-      <point x="-201" y="563"/>
-      <point x="-201" y="541" type="qcurve" smooth="yes"/>
+      <point x="-228" y="495"/>
       <point x="-201" y="522"/>
+      <point x="-201" y="541" type="qcurve" smooth="yes"/>
+      <point x="-201" y="563"/>
+      <point x="-232" y="603"/>
+      <point x="-250" y="603" type="qcurve" smooth="yes"/>
+      <point x="-274" y="603"/>
+      <point x="-300" y="576"/>
+      <point x="-300" y="555" type="qcurve" smooth="yes"/>
+      <point x="-300" y="533"/>
+      <point x="-269" y="495"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-07 04:32:27 +0000</string>
+      <string>2024-05-08 13:28:52 +0000</string>
     </dict>
   </lib>
 </glyph>

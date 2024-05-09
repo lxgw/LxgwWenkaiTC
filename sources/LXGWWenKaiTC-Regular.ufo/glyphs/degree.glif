@@ -5,33 +5,33 @@
   <outline>
     <contour>
       <point x="292" y="646"/>
-      <point x="292" y="574"/>
-      <point x="257" y="513"/>
-      <point x="197" y="477"/>
-      <point x="125" y="477"/>
-      <point x="64" y="512"/>
-      <point x="28" y="572"/>
-      <point x="28" y="645"/>
-      <point x="63" y="705"/>
-      <point x="123" y="741"/>
-      <point x="196" y="741"/>
       <point x="256" y="705"/>
+      <point x="196" y="741"/>
+      <point x="123" y="741"/>
+      <point x="63" y="705"/>
+      <point x="28" y="645"/>
+      <point x="28" y="572"/>
+      <point x="64" y="512"/>
+      <point x="125" y="477"/>
+      <point x="197" y="477"/>
+      <point x="257" y="513"/>
+      <point x="292" y="574"/>
     </contour>
     <contour>
       <point x="127" y="533"/>
-      <point x="190" y="533"/>
-      <point x="236" y="579"/>
-      <point x="236" y="641"/>
-      <point x="193" y="685"/>
-      <point x="130" y="685"/>
-      <point x="84" y="643"/>
       <point x="84" y="579"/>
+      <point x="84" y="643"/>
+      <point x="130" y="685"/>
+      <point x="193" y="685"/>
+      <point x="236" y="641"/>
+      <point x="236" y="579"/>
+      <point x="190" y="533"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-07 04:32:27 +0000</string>
+      <string>2024-05-08 13:28:52 +0000</string>
     </dict>
   </lib>
 </glyph>

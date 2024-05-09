@@ -4,15 +4,15 @@
   <unicode hex="02D1"/>
   <outline>
     <contour>
-      <point x="105" y="509" type="line"/>
-      <point x="245" y="509" type="line"/>
       <point x="176" y="381" type="line"/>
+      <point x="245" y="509" type="line"/>
+      <point x="105" y="509" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-07 04:32:27 +0000</string>
+      <string>2024-05-08 13:28:52 +0000</string>
     </dict>
   </lib>
 </glyph>

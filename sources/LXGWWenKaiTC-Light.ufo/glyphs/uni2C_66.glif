@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2C66" format="2">
+  <advance width="360"/>
+  <unicode hex="2C66"/>
+  <outline>
+    <component base="t"/>
+    <contour>
+      <point x="84" y="-98" type="qcurve" smooth="yes"/>
+      <point x="93" y="-68"/>
+      <point x="110" y="-21" type="qcurve" smooth="yes"/>
+      <point x="303" y="516" type="line" smooth="yes"/>
+      <point x="316" y="552"/>
+      <point x="331" y="580"/>
+      <point x="332" y="583" type="qcurve" smooth="yes"/>
+      <point x="332" y="597"/>
+      <point x="309" y="614" type="qcurve" smooth="yes"/>
+      <point x="299" y="620"/>
+      <point x="291" y="620" type="qcurve" smooth="yes"/>
+      <point x="286" y="620"/>
+      <point x="284" y="611" type="qcurve" smooth="yes"/>
+      <point x="275" y="575"/>
+      <point x="260" y="532" type="qcurve" smooth="yes"/>
+      <point x="69" y="-2" type="line" smooth="yes"/>
+      <point x="59" y="-30"/>
+      <point x="40" y="-63" type="qcurve" smooth="yes"/>
+      <point x="38" y="-68"/>
+      <point x="38" y="-80" type="qcurve" smooth="yes"/>
+      <point x="38" y="-87"/>
+      <point x="61" y="-107"/>
+      <point x="81" y="-107"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-09 05:04:57 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>t</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>t</string>
+    </dict>
+  </lib>
+</glyph>

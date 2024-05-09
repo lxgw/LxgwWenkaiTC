@@ -6,21 +6,21 @@
   <outline>
     <contour>
       <point x="223" y="274"/>
-      <point x="162" y="274"/>
-      <point x="118" y="307"/>
-      <point x="90" y="357"/>
-      <point x="90" y="418"/>
-      <point x="132" y="465"/>
-      <point x="193" y="465"/>
-      <point x="237" y="432"/>
-      <point x="266" y="382"/>
       <point x="266" y="318"/>
+      <point x="266" y="382"/>
+      <point x="237" y="432"/>
+      <point x="193" y="465"/>
+      <point x="132" y="465"/>
+      <point x="90" y="418"/>
+      <point x="90" y="357"/>
+      <point x="118" y="307"/>
+      <point x="162" y="274"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-07 04:32:27 +0000</string>
+      <string>2024-05-08 13:28:52 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2C64" format="2">
+  <advance width="635"/>
+  <unicode hex="2C64"/>
+  <outline>
+    <component base="R"/>
+    <contour>
+      <point x="146" y="-87" type="qcurve" smooth="yes"/>
+      <point x="167" y="-107"/>
+      <point x="252" y="-107"/>
+      <point x="305" y="-78"/>
+      <point x="305" y="-49"/>
+      <point x="296" y="-35" type="qcurve" smooth="yes"/>
+      <point x="280" y="-10"/>
+      <point x="261" y="-32" type="qcurve" smooth="yes"/>
+      <point x="243" y="-55"/>
+      <point x="207" y="-55" type="qcurve" smooth="yes"/>
+      <point x="187" y="-55"/>
+      <point x="167" y="-13"/>
+      <point x="166" y="19" type="qcurve"/>
+      <point x="106" y="19" type="line"/>
+      <point x="109" y="-53"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-09 05:05:14 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>R</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>R</string>
+    </dict>
+  </lib>
+</glyph>

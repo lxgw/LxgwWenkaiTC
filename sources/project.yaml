@@ -1,9 +1,9 @@
 sources:
-  # - build/LXGWWenKaiMonoTC-Bold.ufo
-  # - build/LXGWWenKaiMonoTC-Light.ufo
+  - build/LXGWWenKaiMonoTC-Bold.ufo
+  - build/LXGWWenKaiMonoTC-Light.ufo
   - build/LXGWWenKaiMonoTC-Regular.ufo
-  # - build/LXGWWenKaiTC-Bold.ufo
-  # - build/LXGWWenKaiTC-Light.ufo
+  - build/LXGWWenKaiTC-Bold.ufo
+  - build/LXGWWenKaiTC-Light.ufo
   - build/LXGWWenKaiTC-Regular.ufo
 removeOutlineOverlaps: False
 buildOTF: False

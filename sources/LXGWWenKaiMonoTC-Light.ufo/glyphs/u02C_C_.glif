@@ -4,34 +4,34 @@
   <unicode hex="02CC"/>
   <outline>
     <contour>
-      <point x="234" y="0" type="line" smooth="yes"/>
-      <point x="236" y="11"/>
-      <point x="246" y="11" type="qcurve" smooth="yes"/>
-      <point x="265" y="11"/>
-      <point x="266" y="0" type="qcurve" smooth="yes"/>
+      <point x="282" y="-252" type="qcurve" smooth="yes"/>
       <point x="282" y="-251" type="line"/>
-      <point x="282" y="-252" type="line" smooth="yes"/>
-      <point x="282" y="-259"/>
-      <point x="264" y="-268"/>
-      <point x="236" y="-268"/>
+      <point x="266" y="0" type="line" smooth="yes"/>
+      <point x="265" y="11"/>
+      <point x="246" y="11" type="qcurve" smooth="yes"/>
+      <point x="236" y="11"/>
+      <point x="234" y="0" type="qcurve" smooth="yes"/>
+      <point x="218" y="-251" type="line" smooth="yes"/>
       <point x="217" y="-258"/>
-      <point x="218" y="-251" type="qcurve" smooth="yes"/>
+      <point x="236" y="-268"/>
+      <point x="264" y="-268"/>
+      <point x="282" y="-259"/>
     </contour>
     <contour>
-      <point x="234" y="0" type="qcurve"/>
-      <point x="234" y="-1" type="line"/>
+      <point x="234" y="-1" type="qcurve"/>
+      <point x="234" y="0" type="line"/>
       <point x="234" y="-1"/>
     </contour>
     <contour>
-      <point x="266" y="0" type="line"/>
+      <point x="266" y="-1" type="line"/>
       <point x="266" y="-1"/>
-      <point x="266" y="-1" type="qcurve"/>
+      <point x="266" y="0" type="qcurve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-07 04:44:19 +0000</string>
+      <string>2024-05-08 13:31:56 +0000</string>
       <key>public.markColor</key>
       <string>0.85,0.26,0.06,1</string>
     </dict>

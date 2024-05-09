@@ -5,14 +5,14 @@
   <outline>
     <contour>
       <point x="251" y="368" type="line"/>
-      <point x="170" y="515" type="line"/>
       <point x="330" y="515" type="line"/>
+      <point x="170" y="515" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-07 04:45:10 +0000</string>
+      <string>2024-05-08 13:28:59 +0000</string>
       <key>public.markColor</key>
       <string>0.85,0.26,0.06,1</string>
     </dict>

@@ -7,8 +7,7 @@
     <key>capHeight</key>
     <integer>695</integer>
     <key>copyright</key>
-    <string>Copyright 2022-2024 LXGW (https://github.com/lxgw/LxgwWenkaiTC)
-Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)</string>
+    <string>Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC)</string>
     <key>descender</key>
     <integer>-120</integer>
     <key>familyName</key>
@@ -18,9 +17,9 @@ Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee
     <key>openTypeHeadCreated</key>
     <string>2020/12/15 00:00:00</string>
     <key>openTypeHheaAscender</key>
-    <integer>928</integer>
+    <integer>1032</integer>
     <key>openTypeHheaDescender</key>
-    <integer>-241</integer>
+    <integer>-285</integer>
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameDesigner</key>
@@ -41,8 +40,6 @@ Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee
     <string>酌貪泉而覺爽，處涸轍以猶歡。</string>
     <key>openTypeNameUniqueID</key>
     <string>LXGW WenKai Mono TC Bold:Version 1.330</string>
-    <key>openTypeNameVersion</key>
-    <string>Version 1.330;April 28, 2024</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
@@ -156,9 +153,9 @@ Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee
     <key>openTypeOS2WidthClass</key>
     <integer>5</integer>
     <key>openTypeOS2WinAscent</key>
-    <integer>928</integer>
+    <integer>1032</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>241</integer>
+    <integer>285</integer>
     <key>postscriptFontName</key>
     <string>LXGWWenKaiMonoTC-Bold</string>
     <key>postscriptUnderlinePosition</key>

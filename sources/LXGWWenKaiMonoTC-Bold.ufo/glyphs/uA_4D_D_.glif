@@ -5,58 +5,58 @@
   <outline>
     <contour>
       <point x="134" y="-15" type="qcurve" smooth="yes"/>
-      <point x="118" y="-15"/>
-      <point x="78" y="3"/>
-      <point x="78" y="19" type="qcurve" smooth="yes"/>
-      <point x="79" y="81"/>
-      <point x="79" y="342" type="qcurve"/>
-      <point x="69" y="348"/>
-      <point x="55" y="382"/>
-      <point x="55" y="393" type="qcurve" smooth="yes"/>
-      <point x="57" y="410"/>
-      <point x="75" y="410" type="qcurve" smooth="yes"/>
-      <point x="78" y="409"/>
-      <point x="79" y="409" type="qcurve"/>
-      <point x="79" y="649"/>
-      <point x="76" y="675"/>
-      <point x="76" y="685" type="qcurve" smooth="yes"/>
-      <point x="76" y="705"/>
-      <point x="96" y="705" type="qcurve" smooth="yes"/>
-      <point x="111" y="705"/>
-      <point x="147" y="692" type="qcurve"/>
-      <point x="371" y="707"/>
-      <point x="391" y="710" type="qcurve" smooth="yes"/>
-      <point x="417" y="714"/>
-      <point x="426" y="714" type="qcurve" smooth="yes"/>
-      <point x="444" y="714"/>
-      <point x="465" y="673"/>
-      <point x="465" y="656" type="qcurve" smooth="yes"/>
-      <point x="465" y="635"/>
-      <point x="444" y="635" type="qcurve" smooth="yes"/>
-      <point x="380" y="635" type="line" smooth="yes"/>
-      <point x="368" y="635"/>
-      <point x="159" y="620" type="qcurve"/>
-      <point x="159" y="410" type="line"/>
-      <point x="324" y="423"/>
-      <point x="340" y="425" type="qcurve" smooth="yes"/>
-      <point x="367" y="429"/>
-      <point x="375" y="429" type="qcurve" smooth="yes"/>
-      <point x="394" y="429"/>
-      <point x="414" y="388"/>
-      <point x="414" y="371" type="qcurve" smooth="yes"/>
-      <point x="414" y="350"/>
-      <point x="393" y="350" type="qcurve" smooth="yes"/>
-      <point x="317" y="350"/>
-      <point x="159" y="338" type="qcurve"/>
-      <point x="159" y="149"/>
-      <point x="161" y="1" type="qcurve" smooth="yes"/>
       <point x="161" y="-15"/>
+      <point x="161" y="1" type="qcurve" smooth="yes"/>
+      <point x="159" y="149"/>
+      <point x="159" y="338" type="qcurve"/>
+      <point x="317" y="350"/>
+      <point x="393" y="350" type="qcurve" smooth="yes"/>
+      <point x="414" y="350"/>
+      <point x="414" y="371" type="qcurve" smooth="yes"/>
+      <point x="414" y="388"/>
+      <point x="394" y="429"/>
+      <point x="375" y="429" type="qcurve" smooth="yes"/>
+      <point x="367" y="429"/>
+      <point x="340" y="425" type="qcurve" smooth="yes"/>
+      <point x="324" y="423"/>
+      <point x="159" y="410" type="qcurve"/>
+      <point x="159" y="620" type="line"/>
+      <point x="368" y="635"/>
+      <point x="380" y="635" type="qcurve" smooth="yes"/>
+      <point x="444" y="635" type="line" smooth="yes"/>
+      <point x="465" y="635"/>
+      <point x="465" y="656" type="qcurve" smooth="yes"/>
+      <point x="465" y="673"/>
+      <point x="444" y="714"/>
+      <point x="426" y="714" type="qcurve" smooth="yes"/>
+      <point x="417" y="714"/>
+      <point x="391" y="710" type="qcurve" smooth="yes"/>
+      <point x="371" y="707"/>
+      <point x="147" y="692" type="qcurve"/>
+      <point x="111" y="705"/>
+      <point x="96" y="705" type="qcurve" smooth="yes"/>
+      <point x="76" y="705"/>
+      <point x="76" y="685" type="qcurve" smooth="yes"/>
+      <point x="76" y="675"/>
+      <point x="79" y="649"/>
+      <point x="79" y="409" type="qcurve"/>
+      <point x="78" y="409"/>
+      <point x="75" y="410" type="qcurve" smooth="yes"/>
+      <point x="57" y="410"/>
+      <point x="55" y="393" type="qcurve" smooth="yes"/>
+      <point x="55" y="382"/>
+      <point x="69" y="348"/>
+      <point x="79" y="342" type="qcurve"/>
+      <point x="79" y="81"/>
+      <point x="78" y="19" type="qcurve" smooth="yes"/>
+      <point x="78" y="3"/>
+      <point x="118" y="-15"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-07 04:45:10 +0000</string>
+      <string>2024-05-08 13:28:59 +0000</string>
       <key>public.markColor</key>
       <string>0.85,0.26,0.06,1</string>
     </dict>

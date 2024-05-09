@@ -4,6 +4,12 @@
   <unicode hex="02CB"/>
   <outline>
     <contour>
+      <point x="465" y="435" type="line" smooth="yes"/>
+      <point x="479" y="423"/>
+      <point x="487" y="423"/>
+      <point x="491" y="428"/>
+      <point x="490" y="437"/>
+      <point x="488" y="438" type="qcurve" smooth="yes"/>
       <point x="169" y="806" type="line" smooth="yes"/>
       <point x="164" y="812"/>
       <point x="133" y="812"/>
@@ -11,18 +17,12 @@
       <point x="93" y="780"/>
       <point x="93" y="765"/>
       <point x="96" y="762" type="qcurve" smooth="yes"/>
-      <point x="465" y="435" type="line" smooth="yes"/>
-      <point x="479" y="423"/>
-      <point x="487" y="423"/>
-      <point x="491" y="428"/>
-      <point x="490" y="437"/>
-      <point x="488" y="438" type="qcurve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-07 04:31:09 +0000</string>
+      <string>2024-05-08 13:29:04 +0000</string>
     </dict>
   </lib>
 </glyph>

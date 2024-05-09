@@ -4,36 +4,36 @@
   <unicode hex="201B"/>
   <outline>
     <contour>
-      <point x="216" y="611" type="qcurve" smooth="yes"/>
-      <point x="207" y="613" type="line"/>
-      <point x="164" y="632"/>
-      <point x="104" y="709"/>
-      <point x="104" y="745" type="qcurve" smooth="yes"/>
-      <point x="105" y="755" type="line" smooth="yes"/>
-      <point x="108" y="780"/>
-      <point x="139" y="820"/>
-      <point x="185" y="820"/>
-      <point x="221" y="793"/>
-      <point x="221" y="768" type="qcurve" smooth="yes"/>
-      <point x="221" y="750"/>
-      <point x="202" y="724"/>
-      <point x="194" y="717" type="qcurve" smooth="yes"/>
-      <point x="187" y="710"/>
-      <point x="175" y="710" type="qcurve"/>
-      <point x="179" y="698"/>
-      <point x="194" y="680" type="qcurve" smooth="yes"/>
-      <point x="210" y="660"/>
-      <point x="228" y="648" type="qcurve" smooth="yes"/>
-      <point x="237" y="642"/>
-      <point x="237" y="631" type="qcurve" smooth="yes"/>
-      <point x="237" y="624"/>
+      <point x="216" y="611" type="line" smooth="yes"/>
       <point x="227" y="611"/>
+      <point x="237" y="624"/>
+      <point x="237" y="631" type="qcurve" smooth="yes"/>
+      <point x="237" y="642"/>
+      <point x="228" y="648" type="qcurve" smooth="yes"/>
+      <point x="210" y="660"/>
+      <point x="194" y="680" type="qcurve" smooth="yes"/>
+      <point x="179" y="698"/>
+      <point x="175" y="710" type="qcurve"/>
+      <point x="187" y="710"/>
+      <point x="194" y="717" type="qcurve" smooth="yes"/>
+      <point x="202" y="724"/>
+      <point x="221" y="750"/>
+      <point x="221" y="768" type="qcurve" smooth="yes"/>
+      <point x="221" y="793"/>
+      <point x="185" y="820"/>
+      <point x="139" y="820"/>
+      <point x="108" y="780"/>
+      <point x="105" y="755" type="qcurve" smooth="yes"/>
+      <point x="104" y="745" type="line" smooth="yes"/>
+      <point x="104" y="709"/>
+      <point x="164" y="632"/>
+      <point x="207" y="613" type="qcurve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-07 04:27:08 +0000</string>
+      <string>2024-05-08 13:31:30 +0000</string>
     </dict>
   </lib>
 </glyph>

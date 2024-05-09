@@ -4,26 +4,26 @@
   <unicode hex="030D"/>
   <outline>
     <contour>
-      <point x="-112" y="785"/>
-      <point x="-99" y="785" type="qcurve" smooth="yes"/>
-      <point x="-87" y="785"/>
-      <point x="-69" y="775"/>
-      <point x="-69" y="766" type="qcurve" smooth="yes"/>
-      <point x="-69" y="578" type="line" smooth="yes"/>
-      <point x="-69" y="569"/>
-      <point x="-87" y="560"/>
       <point x="-100" y="560" type="qcurve" smooth="yes"/>
-      <point x="-112" y="560"/>
-      <point x="-131" y="570"/>
-      <point x="-131" y="579" type="qcurve" smooth="yes"/>
-      <point x="-131" y="767" type="line" smooth="yes"/>
+      <point x="-87" y="560"/>
+      <point x="-69" y="569"/>
+      <point x="-69" y="578" type="qcurve" smooth="yes"/>
+      <point x="-69" y="766" type="line" smooth="yes"/>
+      <point x="-69" y="775"/>
+      <point x="-87" y="785"/>
+      <point x="-99" y="785" type="qcurve" smooth="yes"/>
+      <point x="-112" y="785"/>
       <point x="-131" y="776"/>
+      <point x="-131" y="767" type="qcurve" smooth="yes"/>
+      <point x="-131" y="579" type="line" smooth="yes"/>
+      <point x="-131" y="570"/>
+      <point x="-112" y="560"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-07 04:32:27 +0000</string>
+      <string>2024-05-08 13:28:52 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -4,35 +4,35 @@
   <unicode hex="207E"/>
   <outline>
     <contour>
-      <point x="190" y="265" type="qcurve" smooth="yes"/>
-      <point x="175" y="251"/>
       <point x="167" y="251" type="qcurve" smooth="yes"/>
-      <point x="148" y="251"/>
-      <point x="148" y="272" type="qcurve" smooth="yes"/>
-      <point x="148" y="282"/>
-      <point x="155" y="289" type="qcurve" smooth="yes"/>
-      <point x="183" y="317"/>
-      <point x="218" y="434"/>
-      <point x="218" y="541"/>
-      <point x="180" y="679"/>
-      <point x="149" y="715" type="qcurve" smooth="yes"/>
-      <point x="144" y="720"/>
-      <point x="144" y="729" type="qcurve" smooth="yes"/>
-      <point x="144" y="748"/>
-      <point x="165" y="748" type="qcurve" smooth="yes"/>
-      <point x="175" y="748"/>
-      <point x="190" y="732" type="qcurve" smooth="yes"/>
-      <point x="220" y="699"/>
-      <point x="246" y="638" type="qcurve" smooth="yes"/>
-      <point x="278" y="562"/>
-      <point x="278" y="410"/>
+      <point x="175" y="251"/>
+      <point x="190" y="265" type="qcurve" smooth="yes"/>
       <point x="220" y="292"/>
+      <point x="278" y="410"/>
+      <point x="278" y="562"/>
+      <point x="246" y="638" type="qcurve" smooth="yes"/>
+      <point x="220" y="699"/>
+      <point x="190" y="732" type="qcurve" smooth="yes"/>
+      <point x="175" y="748"/>
+      <point x="165" y="748" type="qcurve" smooth="yes"/>
+      <point x="144" y="748"/>
+      <point x="144" y="729" type="qcurve" smooth="yes"/>
+      <point x="144" y="720"/>
+      <point x="149" y="715" type="qcurve" smooth="yes"/>
+      <point x="180" y="679"/>
+      <point x="218" y="541"/>
+      <point x="218" y="434"/>
+      <point x="183" y="317"/>
+      <point x="155" y="289" type="qcurve" smooth="yes"/>
+      <point x="148" y="282"/>
+      <point x="148" y="272" type="qcurve" smooth="yes"/>
+      <point x="148" y="251"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-07 04:43:34 +0000</string>
+      <string>2024-05-08 13:31:43 +0000</string>
       <key>public.markColor</key>
       <string>0.85,0.26,0.06,1</string>
     </dict>

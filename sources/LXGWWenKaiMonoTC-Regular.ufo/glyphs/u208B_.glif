@@ -4,32 +4,32 @@
   <unicode hex="208B"/>
   <outline>
     <contour>
-      <point x="322" y="204" type="line" smooth="yes"/>
-      <point x="336" y="204"/>
-      <point x="357" y="205" type="qcurve" smooth="yes"/>
-      <point x="358" y="205" type="line" smooth="yes"/>
-      <point x="369" y="205"/>
-      <point x="379" y="184"/>
-      <point x="379" y="152"/>
-      <point x="360" y="152" type="qcurve" smooth="yes"/>
-      <point x="321" y="153" type="line"/>
-      <point x="182" y="153" type="line" smooth="yes"/>
+      <point x="144" y="151" type="qcurve" smooth="yes"/>
+      <point x="145" y="151" type="line" smooth="yes"/>
       <point x="154" y="153"/>
-      <point x="145" y="151" type="qcurve" smooth="yes"/>
-      <point x="144" y="151" type="line" smooth="yes"/>
-      <point x="132" y="151"/>
-      <point x="123" y="173"/>
-      <point x="123" y="182" type="qcurve" smooth="yes"/>
-      <point x="123" y="205"/>
-      <point x="142" y="205" type="qcurve" smooth="yes"/>
+      <point x="182" y="153" type="qcurve" smooth="yes"/>
+      <point x="321" y="153" type="line"/>
+      <point x="360" y="152" type="line" smooth="yes"/>
+      <point x="379" y="152"/>
+      <point x="379" y="184"/>
+      <point x="369" y="205"/>
+      <point x="358" y="205" type="qcurve" smooth="yes"/>
+      <point x="357" y="205" type="line" smooth="yes"/>
+      <point x="336" y="204"/>
+      <point x="322" y="204" type="qcurve" smooth="yes"/>
+      <point x="182" y="204" type="line" smooth="yes"/>
       <point x="157" y="204"/>
-      <point x="182" y="204" type="qcurve" smooth="yes"/>
+      <point x="142" y="205" type="qcurve" smooth="yes"/>
+      <point x="123" y="205"/>
+      <point x="123" y="182" type="qcurve" smooth="yes"/>
+      <point x="123" y="173"/>
+      <point x="132" y="151"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-07 04:43:34 +0000</string>
+      <string>2024-05-08 13:31:43 +0000</string>
       <key>public.markColor</key>
       <string>0.85,0.26,0.06,1</string>
     </dict>

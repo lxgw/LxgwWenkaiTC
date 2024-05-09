@@ -330,6 +330,8 @@
     <string>abreve.glif</string>
     <key>acircumflex</key>
     <string>acircumflex.glif</string>
+    <key>acute</key>
+    <string>acute.glif</string>
     <key>acutecomb</key>
     <string>acutecomb.glif</string>
     <key>adieresis</key>
@@ -426,6 +428,8 @@
     <string>degree.glif</string>
     <key>delta</key>
     <string>delta.glif</string>
+    <key>dieresis</key>
+    <string>dieresis.glif</string>
     <key>dieresistonos</key>
     <string>dieresistonos.glif</string>
     <key>divide</key>
@@ -3318,6 +3322,28 @@
     <string>uhungarumlaut.glif</string>
     <key>umacron</key>
     <string>umacron.glif</string>
+    <key>uni04F5</key>
+    <string>uni04F_5.glif</string>
+    <key>uni2C64</key>
+    <string>uni2C_64.glif</string>
+    <key>uni2C65</key>
+    <string>uni2C_65.glif</string>
+    <key>uni2C66</key>
+    <string>uni2C_66.glif</string>
+    <key>uniA78D</key>
+    <string>uniA_78D_.glif</string>
+    <key>uniA7AA</key>
+    <string>uniA_7A_A_.glif</string>
+    <key>uniA7AD</key>
+    <string>uniA_7A_D_.glif</string>
+    <key>uniA7AE</key>
+    <string>uniA_7A_E_.glif</string>
+    <key>uniA7B2</key>
+    <string>uniA_7B_2.glif</string>
+    <key>uniA7B3</key>
+    <string>uniA_7B_3.glif</string>
+    <key>uniA7B4</key>
+    <string>uniA_7B_4.glif</string>
     <key>uogonek</key>
     <string>uogonek.glif</string>
     <key>upsilon</key>

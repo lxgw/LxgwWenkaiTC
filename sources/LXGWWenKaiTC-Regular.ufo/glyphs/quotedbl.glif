@@ -4,38 +4,38 @@
   <unicode hex="0022"/>
   <outline>
     <contour>
-      <point x="270" y="492" type="line" smooth="yes"/>
-      <point x="270" y="476"/>
       <point x="239" y="476" type="qcurve" smooth="yes"/>
-      <point x="228" y="476"/>
-      <point x="208" y="484"/>
-      <point x="208" y="492" type="qcurve" smooth="yes"/>
-      <point x="202" y="703" type="line" smooth="yes"/>
-      <point x="202" y="714"/>
-      <point x="226" y="725"/>
-      <point x="253" y="725"/>
+      <point x="270" y="476"/>
+      <point x="270" y="492" type="qcurve" smooth="yes"/>
+      <point x="276" y="703" type="line" smooth="yes"/>
       <point x="276" y="714"/>
-      <point x="276" y="703" type="qcurve" smooth="yes"/>
+      <point x="253" y="725"/>
+      <point x="226" y="725"/>
+      <point x="202" y="714"/>
+      <point x="202" y="703" type="qcurve" smooth="yes"/>
+      <point x="208" y="492" type="line" smooth="yes"/>
+      <point x="208" y="484"/>
+      <point x="228" y="476"/>
     </contour>
     <contour>
-      <point x="142" y="492" type="line" smooth="yes"/>
-      <point x="142" y="476"/>
       <point x="111" y="476" type="qcurve" smooth="yes"/>
-      <point x="100" y="476"/>
-      <point x="80" y="484"/>
-      <point x="80" y="492" type="qcurve" smooth="yes"/>
-      <point x="74" y="703" type="line" smooth="yes"/>
-      <point x="74" y="714"/>
-      <point x="98" y="725"/>
-      <point x="125" y="725"/>
+      <point x="142" y="476"/>
+      <point x="142" y="492" type="qcurve" smooth="yes"/>
+      <point x="148" y="703" type="line" smooth="yes"/>
       <point x="148" y="714"/>
-      <point x="148" y="703" type="qcurve" smooth="yes"/>
+      <point x="125" y="725"/>
+      <point x="98" y="725"/>
+      <point x="74" y="714"/>
+      <point x="74" y="703" type="qcurve" smooth="yes"/>
+      <point x="80" y="492" type="line" smooth="yes"/>
+      <point x="80" y="484"/>
+      <point x="100" y="476"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-07 04:32:27 +0000</string>
+      <string>2024-05-08 13:28:52 +0000</string>
     </dict>
   </lib>
 </glyph>

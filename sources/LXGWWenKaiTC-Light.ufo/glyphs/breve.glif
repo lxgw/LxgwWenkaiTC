@@ -5,33 +5,33 @@
   <outline>
     <contour>
       <point x="250" y="583" type="qcurve" smooth="yes"/>
-      <point x="184" y="583"/>
-      <point x="138" y="626" type="qcurve" smooth="yes"/>
-      <point x="102" y="658"/>
-      <point x="102" y="676" type="qcurve" smooth="yes"/>
-      <point x="102" y="682"/>
-      <point x="126" y="702"/>
-      <point x="138" y="702" type="qcurve" smooth="yes"/>
-      <point x="148" y="702"/>
-      <point x="152" y="694" type="qcurve" smooth="yes"/>
-      <point x="186" y="633"/>
-      <point x="253" y="633" type="qcurve" smooth="yes"/>
-      <point x="320" y="633"/>
-      <point x="352" y="694" type="qcurve" smooth="yes"/>
-      <point x="357" y="703"/>
-      <point x="368" y="703" type="qcurve" smooth="yes"/>
-      <point x="379" y="703"/>
-      <point x="401" y="683"/>
-      <point x="401" y="675" type="qcurve" smooth="yes"/>
-      <point x="401" y="657"/>
-      <point x="363" y="623" type="qcurve" smooth="yes"/>
       <point x="316" y="583"/>
+      <point x="363" y="623" type="qcurve" smooth="yes"/>
+      <point x="401" y="657"/>
+      <point x="401" y="675" type="qcurve" smooth="yes"/>
+      <point x="401" y="683"/>
+      <point x="379" y="703"/>
+      <point x="368" y="703" type="qcurve" smooth="yes"/>
+      <point x="357" y="703"/>
+      <point x="352" y="694" type="qcurve" smooth="yes"/>
+      <point x="320" y="633"/>
+      <point x="253" y="633" type="qcurve" smooth="yes"/>
+      <point x="186" y="633"/>
+      <point x="152" y="694" type="qcurve" smooth="yes"/>
+      <point x="148" y="702"/>
+      <point x="138" y="702" type="qcurve" smooth="yes"/>
+      <point x="126" y="702"/>
+      <point x="102" y="682"/>
+      <point x="102" y="676" type="qcurve" smooth="yes"/>
+      <point x="102" y="658"/>
+      <point x="138" y="626" type="qcurve" smooth="yes"/>
+      <point x="184" y="583"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-07 04:31:09 +0000</string>
+      <string>2024-05-08 13:29:04 +0000</string>
     </dict>
   </lib>
 </glyph>

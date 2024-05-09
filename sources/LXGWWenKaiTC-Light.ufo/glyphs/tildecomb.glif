@@ -4,38 +4,38 @@
   <unicode hex="0303"/>
   <outline>
     <contour>
-      <point x="-98" y="683" type="qcurve" smooth="yes"/>
-      <point x="-98" y="680"/>
-      <point x="-99" y="677" type="qcurve" smooth="yes"/>
-      <point x="-106" y="647"/>
-      <point x="-153" y="594"/>
-      <point x="-218" y="594"/>
-      <point x="-256" y="618"/>
-      <point x="-289" y="645"/>
-      <point x="-310" y="645" type="qcurve" smooth="yes"/>
-      <point x="-354" y="645"/>
-      <point x="-375" y="600" type="qcurve" smooth="yes"/>
-      <point x="-380" y="591"/>
       <point x="-384" y="591" type="qcurve" smooth="yes"/>
-      <point x="-397" y="591"/>
-      <point x="-397" y="616"/>
-      <point x="-375" y="658"/>
-      <point x="-334" y="692"/>
-      <point x="-277" y="692"/>
-      <point x="-239" y="667"/>
-      <point x="-206" y="641"/>
-      <point x="-185" y="641" type="qcurve" smooth="yes"/>
-      <point x="-141" y="641"/>
-      <point x="-120" y="686" type="qcurve" smooth="yes"/>
-      <point x="-115" y="695"/>
-      <point x="-110" y="695" type="qcurve" smooth="yes"/>
+      <point x="-380" y="591"/>
+      <point x="-375" y="600" type="qcurve" smooth="yes"/>
+      <point x="-354" y="645"/>
+      <point x="-310" y="645" type="qcurve" smooth="yes"/>
+      <point x="-289" y="645"/>
+      <point x="-256" y="618"/>
+      <point x="-218" y="594"/>
+      <point x="-153" y="594"/>
+      <point x="-106" y="647"/>
+      <point x="-99" y="677" type="qcurve" smooth="yes"/>
+      <point x="-98" y="680"/>
+      <point x="-98" y="683" type="qcurve" smooth="yes"/>
       <point x="-98" y="695"/>
+      <point x="-110" y="695" type="qcurve" smooth="yes"/>
+      <point x="-115" y="695"/>
+      <point x="-120" y="686" type="qcurve" smooth="yes"/>
+      <point x="-141" y="641"/>
+      <point x="-185" y="641" type="qcurve" smooth="yes"/>
+      <point x="-206" y="641"/>
+      <point x="-239" y="667"/>
+      <point x="-277" y="692"/>
+      <point x="-334" y="692"/>
+      <point x="-375" y="658"/>
+      <point x="-397" y="616"/>
+      <point x="-397" y="591"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-07 04:31:09 +0000</string>
+      <string>2024-05-08 13:29:04 +0000</string>
     </dict>
   </lib>
 </glyph>

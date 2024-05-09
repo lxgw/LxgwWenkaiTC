@@ -8,7 +8,7 @@ if os.path.exists("sources/temp"):
     archive_list = Path("sources/temp/").glob("*.ufo")
 
     for file in archive_list:
-        print ("Packaging - "+str(file).split("/")[1])
+        print ("Packaging - "+str(file).split("/")[2])
         try:
             ufo = ufoLib2.Font.open(file)
             ufo.save(str(file).replace("temp","")+"z",structure="zip",overwrite=True)

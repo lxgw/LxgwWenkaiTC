@@ -5,61 +5,61 @@
   <outline>
     <contour>
       <point x="237" y="-24" type="qcurve" smooth="yes"/>
-      <point x="187" y="-24"/>
-      <point x="103" y="28"/>
-      <point x="53" y="127"/>
-      <point x="53" y="194" type="qcurve" smooth="yes"/>
-      <point x="53" y="311"/>
-      <point x="128" y="403" type="qcurve"/>
-      <point x="207" y="492"/>
-      <point x="294" y="492" type="qcurve" smooth="yes"/>
-      <point x="366" y="492"/>
-      <point x="404" y="450" type="qcurve" smooth="yes"/>
-      <point x="433" y="419"/>
-      <point x="433" y="401" type="qcurve" smooth="yes"/>
-      <point x="433" y="384"/>
-      <point x="402" y="349"/>
-      <point x="386" y="349" type="qcurve" smooth="yes"/>
-      <point x="373" y="349"/>
-      <point x="367" y="363" type="qcurve" smooth="yes"/>
-      <point x="358" y="390"/>
-      <point x="342" y="403" type="qcurve" smooth="yes"/>
-      <point x="320" y="421"/>
-      <point x="296" y="421" type="qcurve" smooth="yes"/>
-      <point x="246" y="421"/>
-      <point x="190" y="357" type="qcurve" smooth="yes"/>
-      <point x="133" y="288"/>
-      <point x="133" y="199" type="qcurve" smooth="yes"/>
-      <point x="133" y="147"/>
-      <point x="166" y="79"/>
-      <point x="215" y="46"/>
-      <point x="237" y="46" type="qcurve" smooth="yes"/>
-      <point x="326" y="46"/>
-      <point x="412" y="143" type="qcurve" smooth="yes"/>
-      <point x="428" y="161"/>
-      <point x="442" y="161" type="qcurve" smooth="yes"/>
-      <point x="458" y="161"/>
-      <point x="458" y="143" type="qcurve" smooth="yes"/>
-      <point x="458" y="137"/>
-      <point x="432" y="84"/>
-      <point x="379" y="23"/>
       <point x="296" y="-24"/>
+      <point x="379" y="23"/>
+      <point x="432" y="84"/>
+      <point x="458" y="137"/>
+      <point x="458" y="143" type="qcurve" smooth="yes"/>
+      <point x="458" y="161"/>
+      <point x="442" y="161" type="qcurve" smooth="yes"/>
+      <point x="428" y="161"/>
+      <point x="412" y="143" type="qcurve" smooth="yes"/>
+      <point x="326" y="46"/>
+      <point x="237" y="46" type="qcurve" smooth="yes"/>
+      <point x="215" y="46"/>
+      <point x="166" y="79"/>
+      <point x="133" y="147"/>
+      <point x="133" y="199" type="qcurve" smooth="yes"/>
+      <point x="133" y="288"/>
+      <point x="190" y="357" type="qcurve" smooth="yes"/>
+      <point x="246" y="421"/>
+      <point x="296" y="421" type="qcurve" smooth="yes"/>
+      <point x="320" y="421"/>
+      <point x="342" y="403" type="qcurve" smooth="yes"/>
+      <point x="358" y="390"/>
+      <point x="367" y="363" type="qcurve" smooth="yes"/>
+      <point x="373" y="349"/>
+      <point x="386" y="349" type="qcurve" smooth="yes"/>
+      <point x="402" y="349"/>
+      <point x="433" y="384"/>
+      <point x="433" y="401" type="qcurve" smooth="yes"/>
+      <point x="433" y="419"/>
+      <point x="404" y="450" type="qcurve" smooth="yes"/>
+      <point x="366" y="492"/>
+      <point x="294" y="492" type="qcurve" smooth="yes"/>
+      <point x="207" y="492"/>
+      <point x="128" y="403" type="qcurve"/>
+      <point x="53" y="311"/>
+      <point x="53" y="194" type="qcurve" smooth="yes"/>
+      <point x="53" y="127"/>
+      <point x="103" y="28"/>
+      <point x="187" y="-24"/>
     </contour>
     <contour>
       <point x="246" y="174"/>
-      <point x="209" y="219"/>
-      <point x="209" y="265"/>
-      <point x="236" y="295"/>
-      <point x="284" y="295"/>
-      <point x="322" y="252"/>
-      <point x="322" y="204"/>
       <point x="294" y="174"/>
+      <point x="322" y="204"/>
+      <point x="322" y="252"/>
+      <point x="284" y="295"/>
+      <point x="236" y="295"/>
+      <point x="209" y="265"/>
+      <point x="209" y="219"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-07 04:45:10 +0000</string>
+      <string>2024-05-08 13:28:59 +0000</string>
       <key>public.markColor</key>
       <string>0.85,0.26,0.06,1</string>
     </dict>

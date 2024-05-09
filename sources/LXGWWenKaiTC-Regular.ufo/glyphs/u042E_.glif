@@ -4,62 +4,62 @@
   <unicode hex="042E"/>
   <outline>
     <contour>
-      <point x="100" y="17" type="qcurve" smooth="yes"/>
-      <point x="102" y="106" type="line"/>
-      <point x="102" y="589" type="line"/>
-      <point x="99" y="695" type="line" smooth="yes"/>
-      <point x="99" y="705"/>
-      <point x="137" y="705"/>
-      <point x="176" y="690"/>
-      <point x="176" y="677" type="qcurve" smooth="yes"/>
-      <point x="174" y="588" type="line"/>
-      <point x="174" y="407" type="line"/>
-      <point x="295" y="410" type="line"/>
-      <point x="307" y="552"/>
-      <point x="372" y="646" type="qcurve" smooth="yes"/>
-      <point x="380" y="658"/>
-      <point x="405" y="658"/>
-      <point x="416" y="650" type="qcurve"/>
-      <point x="470" y="713"/>
-      <point x="611" y="713"/>
-      <point x="710" y="619"/>
-      <point x="761" y="457"/>
-      <point x="761" y="369" type="qcurve" smooth="yes"/>
-      <point x="761" y="200"/>
-      <point x="637" y="-18"/>
-      <point x="408" y="-18"/>
-      <point x="292" y="176"/>
-      <point x="292" y="346" type="qcurve"/>
-      <point x="174" y="343" type="line"/>
+      <point x="177" y="-1" type="qcurve" smooth="yes"/>
       <point x="174" y="105" type="line"/>
-      <point x="177" y="-1" type="line" smooth="yes"/>
-      <point x="177" y="-11"/>
-      <point x="139" y="-11"/>
+      <point x="174" y="343" type="line"/>
+      <point x="292" y="346" type="line"/>
+      <point x="292" y="176"/>
+      <point x="408" y="-18"/>
+      <point x="637" y="-18"/>
+      <point x="761" y="200"/>
+      <point x="761" y="369" type="qcurve" smooth="yes"/>
+      <point x="761" y="457"/>
+      <point x="710" y="619"/>
+      <point x="611" y="713"/>
+      <point x="470" y="713"/>
+      <point x="416" y="650" type="qcurve"/>
+      <point x="405" y="658"/>
+      <point x="380" y="658"/>
+      <point x="372" y="646" type="qcurve" smooth="yes"/>
+      <point x="307" y="552"/>
+      <point x="295" y="410" type="qcurve"/>
+      <point x="174" y="407" type="line"/>
+      <point x="174" y="588" type="line"/>
+      <point x="176" y="677" type="line" smooth="yes"/>
+      <point x="176" y="690"/>
+      <point x="137" y="705"/>
+      <point x="99" y="705"/>
+      <point x="99" y="695" type="qcurve" smooth="yes"/>
+      <point x="102" y="589" type="line"/>
+      <point x="102" y="106" type="line"/>
+      <point x="100" y="17" type="line" smooth="yes"/>
       <point x="100" y="4"/>
+      <point x="139" y="-11"/>
+      <point x="177" y="-11"/>
     </contour>
     <contour>
       <point x="444" y="70" type="qcurve" smooth="yes"/>
-      <point x="475" y="47"/>
-      <point x="580" y="47"/>
-      <point x="616" y="89" type="qcurve" smooth="yes"/>
-      <point x="689" y="172"/>
-      <point x="689" y="360" type="qcurve" smooth="yes"/>
-      <point x="689" y="481"/>
-      <point x="654" y="560" type="qcurve" smooth="yes"/>
-      <point x="615" y="648"/>
-      <point x="535" y="648" type="qcurve" smooth="yes"/>
-      <point x="511" y="648"/>
-      <point x="452" y="609"/>
-      <point x="425" y="570" type="qcurve" smooth="yes"/>
-      <point x="364" y="482"/>
-      <point x="364" y="339" type="qcurve" smooth="yes"/>
       <point x="364" y="131"/>
+      <point x="364" y="339" type="qcurve" smooth="yes"/>
+      <point x="364" y="482"/>
+      <point x="425" y="570" type="qcurve" smooth="yes"/>
+      <point x="452" y="609"/>
+      <point x="511" y="648"/>
+      <point x="535" y="648" type="qcurve" smooth="yes"/>
+      <point x="615" y="648"/>
+      <point x="654" y="560" type="qcurve" smooth="yes"/>
+      <point x="689" y="481"/>
+      <point x="689" y="360" type="qcurve" smooth="yes"/>
+      <point x="689" y="172"/>
+      <point x="616" y="89" type="qcurve" smooth="yes"/>
+      <point x="580" y="47"/>
+      <point x="475" y="47"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-07 04:32:27 +0000</string>
+      <string>2024-05-08 13:28:52 +0000</string>
     </dict>
   </lib>
 </glyph>
