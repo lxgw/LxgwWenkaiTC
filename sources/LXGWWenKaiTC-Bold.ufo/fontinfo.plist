@@ -164,10 +164,8 @@
     <integer>50</integer>
     <key>postscriptWeightName</key>
     <string>Bold</string>
-    <key>styleMapFamilyName</key>
-    <string>LXGW WenKai TC Bold</string>
     <key>styleMapStyleName</key>
-    <string>regular</string>
+    <string>bold</string>
     <key>styleName</key>
     <string>Bold</string>
     <key>unitsPerEm</key>
