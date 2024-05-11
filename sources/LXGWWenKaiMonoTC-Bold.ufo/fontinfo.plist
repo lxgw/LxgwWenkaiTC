@@ -17,9 +17,9 @@
     <key>openTypeHeadCreated</key>
     <string>2020/12/15 00:00:00</string>
     <key>openTypeHheaAscender</key>
-    <integer>1032</integer>
+    <integer>928</integer>
     <key>openTypeHheaDescender</key>
-    <integer>-285</integer>
+    <integer>-241</integer>
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameDesigner</key>
@@ -36,6 +36,285 @@
     <string>https://github.com/lxgw</string>
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Bold</string>
+    <key>openTypeNameRecords</key>
+    <array>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1028</integer>
+        <key>nameID</key>
+        <integer>1</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>霞鶩文楷等寬 TC</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>1</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>LXGW WenKai Mono TC</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>2052</integer>
+        <key>nameID</key>
+        <integer>1</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>霞鹜文楷等宽 TC</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>3076</integer>
+        <key>nameID</key>
+        <integer>1</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>霞鶩文楷等寬 TC</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>5124</integer>
+        <key>nameID</key>
+        <integer>1</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>霞鶩文楷等寬 TC</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1028</integer>
+        <key>nameID</key>
+        <integer>2</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>Bold</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>2</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>Bold</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>2052</integer>
+        <key>nameID</key>
+        <integer>2</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>Bold</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>3076</integer>
+        <key>nameID</key>
+        <integer>2</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>Bold</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>5124</integer>
+        <key>nameID</key>
+        <integer>2</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>Bold</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>3</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>LXGW WenKai Mono TC Bold:Version 1.330</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>4</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>LXGW WenKai Mono TC Bold</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>5</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>Version 1.330;April 28, 2024</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>6</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>LXGWWenKaiMonoTC-Bold</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>8</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>LXGW / Fontworks Inc.</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>9</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>LXGW / Fontworks Inc.</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>11</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>https://github.com/lxgw</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>12</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>https://github.com/lxgw</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>13</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>14</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>https://scripts.sil.org/OFL</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1028</integer>
+        <key>nameID</key>
+        <integer>19</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>爽籟發而清風生，纖歌凝而白雲遏。</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>3076</integer>
+        <key>nameID</key>
+        <integer>19</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>爽籟發而清風生，纖歌凝而白雲遏。</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>5124</integer>
+        <key>nameID</key>
+        <integer>19</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>爽籟發而清風生，纖歌凝而白雲遏。</string>
+      </dict>
+    </array>
     <key>openTypeNameSampleText</key>
     <string>酌貪泉而覺爽，處涸轍以猶歡。</string>
     <key>openTypeNameUniqueID</key>
@@ -153,9 +432,9 @@
     <key>openTypeOS2WidthClass</key>
     <integer>5</integer>
     <key>openTypeOS2WinAscent</key>
-    <integer>1032</integer>
+    <integer>928</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>285</integer>
+    <integer>241</integer>
     <key>postscriptFontName</key>
     <string>LXGWWenKaiMonoTC-Bold</string>
     <key>postscriptUnderlinePosition</key>
