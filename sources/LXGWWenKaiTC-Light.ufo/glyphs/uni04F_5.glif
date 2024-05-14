@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni04F5" format="2">
-  <advance width="574"/>
+  <advance height="1000" width="574"/>
   <unicode hex="04F5"/>
   <outline>
     <component base="u0447"/>
@@ -8,12 +8,14 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>u0447</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>u0447</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-09 05:04:05 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>u0447</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>u0447</string>
+      <string>2024/05/13 22:25:14</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
     </dict>
   </lib>
 </glyph>

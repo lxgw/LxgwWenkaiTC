@@ -1,6 +1,8 @@
 venv
 sources/temp
-sources/build
+sources/build/*.ufo
+sources/build/instance_ufos
 .DS_Store
 sources/.ninja_log
 sources/build.ninja
+*.glyphs

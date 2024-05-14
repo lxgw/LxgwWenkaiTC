@@ -1,13 +1,12 @@
 sources:
-  - build/LXGWWenKaiMonoTC-Bold.ufo
-  - build/LXGWWenKaiMonoTC-Light.ufo
-  - build/LXGWWenKaiMonoTC-Regular.ufo
-  - build/LXGWWenKaiTC-Bold.ufo
-  - build/LXGWWenKaiTC-Light.ufo
-  - build/LXGWWenKaiTC-Regular.ufo
+  - build/LXGWWenKaiMonoTC-Bold.designspace
+  - build/LXGWWenKaiMonoTC-Light.designspace
+  - build/LXGWWenKaiMonoTC-Regular.designspace
+  - build/LXGWWenKaiTC-Bold.designspace
+  - build/LXGWWenKaiTC-Light.designspace
+  - build/LXGWWenKaiTC-Regular.designspace
 removeOutlineOverlaps: False
 buildOTF: False
 buildTTF: True
 buildWebfont: False
 autohintTTF: False
-version: "1.330"

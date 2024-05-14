@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="xi" format="2">
-  <advance width="528" height="528"/>
+  <advance height="1000" width="528"/>
   <unicode hex="03BE"/>
   <outline>
     <contour>
@@ -93,7 +93,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-08 13:31:30 +0000</string>
+      <string>2024/05/13 22:25:19</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
     </dict>
   </lib>
 </glyph>

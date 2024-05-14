@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniA78D" format="2">
-  <advance width="500"/>
+  <advance height="1000" width="500"/>
   <unicode hex="A78D"/>
   <outline>
     <contour>
@@ -51,12 +51,14 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>u04BA</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>u04BA</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-09 04:17:05 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>u04BA</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>u04BA</string>
+      <string>2024/05/13 21:33:14</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
     </dict>
   </lib>
 </glyph>

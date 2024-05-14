@@ -5,6 +5,7 @@ languagesystem hani dflt;
 languagesystem kana dflt;
 languagesystem latn dflt;
 
+
 # Prefix: Prefix
 # GSUB 
 lookup afrcVerticalFractionslookup0 {
@@ -2945,4 +2946,3 @@ feature salt {
      language dflt ;
       lookup saltStylisticAlternativeslookup9;
 } salt;
-

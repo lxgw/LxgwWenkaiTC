@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="percent" format="2">
-  <advance width="800" height="800"/>
+  <advance height="1000" width="800"/>
   <unicode hex="0025"/>
   <outline>
     <contour>
@@ -93,7 +93,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-08 13:28:52 +0000</string>
+      <string>2024/05/13 22:25:24</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
     </dict>
   </lib>
 </glyph>

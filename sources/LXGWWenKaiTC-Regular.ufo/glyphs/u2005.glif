@@ -1,13 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="u2005" format="2">
-  <advance width="250" height="250"/>
+  <advance height="1000" width="250"/>
   <unicode hex="2005"/>
   <outline>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-07 04:32:27 +0000</string>
+      <string>2024/05/13 22:25:24</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
     </dict>
   </lib>
 </glyph>

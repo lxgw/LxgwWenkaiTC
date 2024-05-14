@@ -37,3 +37,7 @@ for file in SOURCE.glob("*.ufo"):
 
     coreUFO.features.text = features
     coreUFO.save(EXPORT/str(file).split("/")[1],overwrite=True,validate=False)
+
+    ds = str(file)[:-3]+"designspace"
+    if os.path.exists(ds):
+        shutil.move(ds,ds.replace("sources/","sources/build/"))

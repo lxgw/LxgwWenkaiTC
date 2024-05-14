@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniA7AE" format="2">
-  <advance width="304"/>
+  <advance height="1000" width="304"/>
   <unicode hex="A7AE"/>
   <outline>
     <component base="I"/>
@@ -8,7 +8,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-09 05:02:45 +0000</string>
+      <string>2024/05/13 22:25:19</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
     </dict>
   </lib>
 </glyph>

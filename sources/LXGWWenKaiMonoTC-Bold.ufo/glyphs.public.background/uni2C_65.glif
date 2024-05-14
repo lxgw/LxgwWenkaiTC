@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni2C65" format="2">
-  <advance width="500"/>
   <outline>
     <contour>
       <point x="132" y="-118" type="qcurve" smooth="yes"/>

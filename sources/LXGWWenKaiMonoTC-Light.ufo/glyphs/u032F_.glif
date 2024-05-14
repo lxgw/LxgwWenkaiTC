@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="u032F" format="2">
-  <advance width="0" height="0"/>
+  <advance height="1000"/>
   <unicode hex="032F"/>
   <outline>
     <contour>
@@ -31,9 +31,11 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-08 13:31:56 +0000</string>
+      <string>2024/05/13 21:33:14</string>
       <key>public.markColor</key>
       <string>0.85,0.26,0.06,1</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
     </dict>
   </lib>
 </glyph>

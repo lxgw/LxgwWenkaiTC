@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniA7AA" format="2">
-  <advance width="500"/>
+  <advance height="1000" width="500"/>
   <unicode hex="A7AA"/>
   <outline>
     <contour>
@@ -68,10 +68,12 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-09 04:55:08 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/13 21:33:14</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
     </dict>
   </lib>
 </glyph>

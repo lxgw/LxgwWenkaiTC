@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni2C65" format="2">
-  <advance width="575"/>
+  <advance height="1000" width="575"/>
   <unicode hex="2C65"/>
   <outline>
-    <component base="a"/>
     <contour>
       <point x="162" y="-118" type="qcurve" smooth="yes"/>
       <point x="180" y="-118"/>
@@ -29,15 +28,20 @@
       <point x="117" y="-92"/>
       <point x="147" y="-118"/>
     </contour>
+    <component base="a"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>a</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>a</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-09 05:02:32 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>a</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>a</string>
+      <string>2024/05/13 22:25:18</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
     </dict>
   </lib>
 </glyph>

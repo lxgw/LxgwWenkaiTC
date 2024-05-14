@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ldot" format="2">
-  <advance width="547" height="547"/>
+  <advance height="1000" width="547"/>
   <unicode hex="013F"/>
   <outline>
     <contour>
@@ -50,7 +50,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-08 13:28:52 +0000</string>
+      <string>2024/05/13 22:25:24</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
     </dict>
   </lib>
 </glyph>

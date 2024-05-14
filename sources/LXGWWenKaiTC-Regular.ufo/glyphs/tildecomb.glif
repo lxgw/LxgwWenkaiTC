@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tildecomb" format="2">
-  <advance width="0" height="0"/>
+  <advance height="1000"/>
   <unicode hex="0303"/>
   <outline>
     <contour>
@@ -36,7 +36,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-08 13:28:52 +0000</string>
+      <string>2024/05/13 22:25:24</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
     </dict>
   </lib>
 </glyph>

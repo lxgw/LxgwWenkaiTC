@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="u1E91" format="2">
-  <advance width="490" height="490"/>
+  <advance height="1000" width="490"/>
   <unicode hex="1E91"/>
   <outline>
     <contour>
@@ -78,7 +78,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-08 13:28:52 +0000</string>
+      <string>2024/05/13 22:25:24</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
     </dict>
   </lib>
 </glyph>

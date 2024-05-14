@@ -5,6 +5,7 @@ languagesystem hani dflt;
 languagesystem kana dflt;
 languagesystem latn dflt;
 
+
 # Prefix: Prefix
 # GSUB 
 lookup afrcVerticalFractionslookup0 {
@@ -2950,4 +2951,3 @@ feature liga {
      language dflt ;
       lookup ligaStandardLigaturesinHiraganaKatakanalookup9;
 } liga;
-
