@@ -1,0 +1,12 @@
+sources:
+  - LXGWWenKaiMonoTC-Bold.designspace
+  - LXGWWenKaiMonoTC-Light.designspace
+  - LXGWWenKaiMonoTC-Regular.designspace
+  - LXGWWenKaiTC-Bold.designspace
+  - LXGWWenKaiTC-Light.designspace
+  - LXGWWenKaiTC-Regular.designspace
+removeOutlineOverlaps: False
+buildOTF: False
+buildTTF: True
+buildWebfont: False
+autohintTTF: False
