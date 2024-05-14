@@ -22,7 +22,7 @@ merge:
 export:
 	. venv/bin/activate; gftools builder sources/project.yaml
 
-build: venv merge export
+build: venv extract merge export
 	. venv/bin/activate; python3 sources/scripts/post.py;
 
 # converter:
