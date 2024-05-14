@@ -5,10 +5,6 @@ import os
 import ufoLib2
 from ufomerge import merge_ufos
 
-if os.path.exists("sources/build"):
-    shutil.rmtree("sources/build")
-os.mkdir("sources/build")
-
 SOURCE = Path("sources")
 EXPORT = Path("sources/build")
 
