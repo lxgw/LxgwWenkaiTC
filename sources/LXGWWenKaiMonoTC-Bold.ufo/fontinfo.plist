@@ -46,7 +46,7 @@
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>霞鹜文楷等宽 TC</string>
+        <string>霞鶩文楷等寬 TC</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -70,7 +70,7 @@
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>霞鹜文楷等宽 TC</string>
+        <string>霞鶩文楷等寬 TC</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -82,23 +82,15 @@
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>霞鹜文楷等宽 TC</string>
+        <string>霞鶩文楷等寬 TC</string>
       </dict>
     </array>
     <key>openTypeNameSampleText</key>
     <string>酌貪泉而覺爽，處涸轍以猶歡。</string>
-    <key>openTypeOS2Panose</key>
+    <key>openTypeOS2CodePageRanges</key>
     <array>
-      <integer>2</integer>
-      <integer>2</integer>
-      <integer>8</integer>
-      <integer>9</integer>
       <integer>0</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-      <integer>0</integer>
+      <integer>20</integer>
     </array>
     <key>openTypeOS2StrikeoutPosition</key>
     <integer>300</integer>
