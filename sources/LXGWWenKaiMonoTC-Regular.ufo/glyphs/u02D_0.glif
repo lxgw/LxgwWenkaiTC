@@ -5,19 +5,19 @@
   <outline>
     <contour>
       <point x="180" y="-3" type="line"/>
-      <point x="320" y="-3" type="line"/>
       <point x="251" y="126" type="line"/>
+      <point x="320" y="-3" type="line"/>
     </contour>
     <contour>
       <point x="251" y="381" type="line"/>
-      <point x="320" y="509" type="line"/>
       <point x="180" y="509" type="line"/>
+      <point x="320" y="509" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024/05/13 21:33:03</string>
+      <string>2024/05/16 16:54:16</string>
       <key>public.markColor</key>
       <string>0.85,0.26,0.06,1</string>
       <key>public.verticalOrigin</key>

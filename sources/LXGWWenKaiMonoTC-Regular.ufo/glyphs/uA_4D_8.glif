@@ -5,59 +5,59 @@
   <outline>
     <contour>
       <point x="116" y="-11" type="qcurve" smooth="yes"/>
-      <point x="127" y="-11"/>
-      <point x="133" y="-5" type="qcurve" smooth="yes"/>
-      <point x="162" y="34"/>
-      <point x="301" y="198"/>
-      <point x="373" y="271" type="qcurve"/>
-      <point x="373" y="80"/>
-      <point x="371" y="29"/>
-      <point x="371" y="5"/>
-      <point x="406" y="-11"/>
-      <point x="423" y="-11" type="qcurve" smooth="yes"/>
-      <point x="444" y="-11"/>
-      <point x="444" y="-1" type="qcurve" smooth="yes"/>
-      <point x="441" y="107"/>
-      <point x="441" y="343" type="qcurve" smooth="yes"/>
-      <point x="441" y="610"/>
-      <point x="443" y="665"/>
-      <point x="443" y="689"/>
-      <point x="407" y="705"/>
-      <point x="391" y="705" type="qcurve" smooth="yes"/>
-      <point x="370" y="705"/>
-      <point x="370" y="695" type="qcurve" smooth="yes"/>
-      <point x="370" y="678"/>
-      <point x="373" y="617"/>
-      <point x="373" y="360" type="qcurve"/>
-      <point x="353" y="340" type="line"/>
-      <point x="153" y="633"/>
-      <point x="133" y="658" type="qcurve" smooth="yes"/>
-      <point x="125" y="669"/>
-      <point x="119" y="679" type="qcurve" smooth="yes"/>
-      <point x="105" y="703"/>
-      <point x="81" y="703" type="qcurve" smooth="yes"/>
-      <point x="61" y="703"/>
-      <point x="23" y="683"/>
-      <point x="23" y="674" type="qcurve" smooth="yes"/>
-      <point x="23" y="670"/>
-      <point x="41" y="654" type="qcurve" smooth="yes"/>
-      <point x="107" y="594"/>
-      <point x="310" y="294" type="qcurve"/>
-      <point x="207" y="188"/>
-      <point x="133" y="99" type="qcurve" smooth="yes"/>
-      <point x="109" y="73"/>
-      <point x="89" y="55" type="qcurve" smooth="yes"/>
-      <point x="58" y="30"/>
-      <point x="58" y="24" type="qcurve" smooth="yes"/>
-      <point x="58" y="17"/>
-      <point x="77" y="1"/>
       <point x="104" y="-11"/>
+      <point x="77" y="1"/>
+      <point x="58" y="17"/>
+      <point x="58" y="24" type="qcurve" smooth="yes"/>
+      <point x="58" y="30"/>
+      <point x="89" y="55" type="qcurve" smooth="yes"/>
+      <point x="109" y="73"/>
+      <point x="133" y="99" type="qcurve" smooth="yes"/>
+      <point x="207" y="188"/>
+      <point x="310" y="294" type="qcurve"/>
+      <point x="107" y="594"/>
+      <point x="41" y="654" type="qcurve" smooth="yes"/>
+      <point x="23" y="670"/>
+      <point x="23" y="674" type="qcurve" smooth="yes"/>
+      <point x="23" y="683"/>
+      <point x="61" y="703"/>
+      <point x="81" y="703" type="qcurve" smooth="yes"/>
+      <point x="105" y="703"/>
+      <point x="119" y="679" type="qcurve" smooth="yes"/>
+      <point x="125" y="669"/>
+      <point x="133" y="658" type="qcurve" smooth="yes"/>
+      <point x="153" y="633"/>
+      <point x="353" y="340" type="qcurve"/>
+      <point x="373" y="360" type="line"/>
+      <point x="373" y="617"/>
+      <point x="370" y="678"/>
+      <point x="370" y="695" type="qcurve" smooth="yes"/>
+      <point x="370" y="705"/>
+      <point x="391" y="705" type="qcurve" smooth="yes"/>
+      <point x="407" y="705"/>
+      <point x="443" y="689"/>
+      <point x="443" y="665"/>
+      <point x="441" y="610"/>
+      <point x="441" y="343" type="qcurve" smooth="yes"/>
+      <point x="441" y="107"/>
+      <point x="444" y="-1" type="qcurve" smooth="yes"/>
+      <point x="444" y="-11"/>
+      <point x="423" y="-11" type="qcurve" smooth="yes"/>
+      <point x="406" y="-11"/>
+      <point x="371" y="5"/>
+      <point x="371" y="29"/>
+      <point x="373" y="80"/>
+      <point x="373" y="271" type="qcurve"/>
+      <point x="301" y="198"/>
+      <point x="162" y="34"/>
+      <point x="133" y="-5" type="qcurve" smooth="yes"/>
+      <point x="127" y="-11"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024/05/13 21:33:03</string>
+      <string>2024/05/16 16:54:16</string>
       <key>public.markColor</key>
       <string>0.85,0.26,0.06,1</string>
       <key>public.verticalOrigin</key>

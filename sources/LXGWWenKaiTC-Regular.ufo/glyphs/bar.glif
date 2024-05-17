@@ -5,15 +5,15 @@
   <outline>
     <contour>
       <point x="140" y="-17" type="line"/>
-      <point x="209" y="-17" type="line"/>
-      <point x="209" y="718" type="line"/>
       <point x="140" y="718" type="line"/>
+      <point x="209" y="718" type="line"/>
+      <point x="209" y="-17" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024/05/13 22:25:24</string>
+      <string>2024/05/16 16:53:20</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

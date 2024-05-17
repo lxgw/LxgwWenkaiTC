@@ -4,26 +4,26 @@
   <unicode hex="0339"/>
   <outline>
     <contour>
-      <point x="5" y="-193" type="line"/>
-      <point x="38" y="-191"/>
-      <point x="89" y="-140"/>
-      <point x="89" y="-68"/>
-      <point x="62" y="-42" type="qcurve" smooth="yes"/>
-      <point x="39" y="-18"/>
-      <point x="6" y="-15" type="qcurve"/>
-      <point x="6" y="-53" type="line"/>
-      <point x="24" y="-55"/>
-      <point x="51" y="-82"/>
-      <point x="51" y="-125"/>
-      <point x="35" y="-141" type="qcurve" smooth="yes"/>
+      <point x="5" y="-193" type="qcurve"/>
+      <point x="5" y="-155" type="line"/>
       <point x="23" y="-153"/>
-      <point x="5" y="-155" type="qcurve"/>
+      <point x="35" y="-141" type="qcurve" smooth="yes"/>
+      <point x="51" y="-125"/>
+      <point x="51" y="-82"/>
+      <point x="24" y="-55"/>
+      <point x="6" y="-53" type="qcurve"/>
+      <point x="6" y="-15" type="line"/>
+      <point x="39" y="-18"/>
+      <point x="62" y="-42" type="qcurve" smooth="yes"/>
+      <point x="89" y="-68"/>
+      <point x="89" y="-140"/>
+      <point x="38" y="-191"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024/05/13 21:33:14</string>
+      <string>2024/05/16 16:54:21</string>
       <key>public.markColor</key>
       <string>0.85,0.26,0.06,1</string>
       <key>public.verticalOrigin</key>

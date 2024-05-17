@@ -5,17 +5,17 @@
   <outline>
     <contour>
       <point x="9" y="593" type="line"/>
-      <point x="61" y="593" type="line"/>
-      <point x="61" y="735" type="line"/>
-      <point x="-141" y="735" type="line"/>
-      <point x="-141" y="690" type="line"/>
       <point x="9" y="690" type="line"/>
+      <point x="-141" y="690" type="line"/>
+      <point x="-141" y="735" type="line"/>
+      <point x="61" y="735" type="line"/>
+      <point x="61" y="593" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024/05/13 22:25:13</string>
+      <string>2024/05/16 16:54:03</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

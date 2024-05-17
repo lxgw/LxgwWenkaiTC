@@ -4,57 +4,57 @@
   <unicode hex="03A8"/>
   <outline>
     <contour>
-      <point x="415" y="0" type="qcurve" smooth="yes"/>
-      <point x="412" y="106" type="line"/>
-      <point x="412" y="193" type="line"/>
-      <point x="487" y="201"/>
-      <point x="595" y="268"/>
-      <point x="652" y="376"/>
-      <point x="652" y="443" type="qcurve" smooth="yes"/>
-      <point x="652" y="584" type="line"/>
-      <point x="655" y="672" type="line" smooth="yes"/>
-      <point x="655" y="684"/>
-      <point x="619" y="698"/>
-      <point x="578" y="698"/>
-      <point x="578" y="687" type="qcurve" smooth="yes"/>
-      <point x="582" y="585" type="line"/>
-      <point x="582" y="455" type="line" smooth="yes"/>
-      <point x="582" y="377"/>
-      <point x="495" y="272"/>
-      <point x="412" y="259" type="qcurve"/>
-      <point x="412" y="601" type="line"/>
-      <point x="414" y="690" type="line" smooth="yes"/>
-      <point x="414" y="703"/>
-      <point x="375" y="718"/>
-      <point x="337" y="718"/>
-      <point x="337" y="708" type="qcurve" smooth="yes"/>
-      <point x="340" y="602" type="line"/>
-      <point x="340" y="256" type="line"/>
-      <point x="252" y="263"/>
-      <point x="172" y="337"/>
-      <point x="172" y="423" type="qcurve" smooth="yes"/>
-      <point x="172" y="574" type="line"/>
-      <point x="174" y="670" type="line" smooth="yes"/>
-      <point x="174" y="683"/>
-      <point x="140" y="697"/>
-      <point x="99" y="697"/>
-      <point x="99" y="685" type="qcurve" smooth="yes"/>
-      <point x="102" y="576" type="line"/>
-      <point x="102" y="411" type="line" smooth="yes"/>
-      <point x="102" y="313"/>
-      <point x="216" y="196"/>
-      <point x="340" y="191" type="qcurve"/>
-      <point x="340" y="107" type="line"/>
-      <point x="338" y="18" type="line" smooth="yes"/>
-      <point x="338" y="5"/>
-      <point x="377" y="-10"/>
+      <point x="415" y="0" type="line" smooth="yes"/>
       <point x="415" y="-10"/>
+      <point x="377" y="-10"/>
+      <point x="338" y="5"/>
+      <point x="338" y="18" type="qcurve" smooth="yes"/>
+      <point x="340" y="107" type="line"/>
+      <point x="340" y="191" type="line"/>
+      <point x="216" y="196"/>
+      <point x="102" y="313"/>
+      <point x="102" y="411" type="qcurve" smooth="yes"/>
+      <point x="102" y="576" type="line"/>
+      <point x="99" y="685" type="line" smooth="yes"/>
+      <point x="99" y="697"/>
+      <point x="140" y="697"/>
+      <point x="174" y="683"/>
+      <point x="174" y="670" type="qcurve" smooth="yes"/>
+      <point x="172" y="574" type="line"/>
+      <point x="172" y="423" type="line" smooth="yes"/>
+      <point x="172" y="337"/>
+      <point x="252" y="263"/>
+      <point x="340" y="256" type="qcurve"/>
+      <point x="340" y="602" type="line"/>
+      <point x="337" y="708" type="line" smooth="yes"/>
+      <point x="337" y="718"/>
+      <point x="375" y="718"/>
+      <point x="414" y="703"/>
+      <point x="414" y="690" type="qcurve" smooth="yes"/>
+      <point x="412" y="601" type="line"/>
+      <point x="412" y="259" type="line"/>
+      <point x="495" y="272"/>
+      <point x="582" y="377"/>
+      <point x="582" y="455" type="qcurve" smooth="yes"/>
+      <point x="582" y="585" type="line"/>
+      <point x="578" y="687" type="line" smooth="yes"/>
+      <point x="578" y="698"/>
+      <point x="619" y="698"/>
+      <point x="655" y="684"/>
+      <point x="655" y="672" type="qcurve" smooth="yes"/>
+      <point x="652" y="584" type="line"/>
+      <point x="652" y="443" type="line" smooth="yes"/>
+      <point x="652" y="376"/>
+      <point x="595" y="268"/>
+      <point x="487" y="201"/>
+      <point x="412" y="193" type="qcurve"/>
+      <point x="412" y="106" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024/05/13 22:25:24</string>
+      <string>2024/05/16 16:53:20</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

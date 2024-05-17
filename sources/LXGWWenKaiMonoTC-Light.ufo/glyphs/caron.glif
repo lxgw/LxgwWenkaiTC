@@ -5,36 +5,36 @@
   <outline>
     <contour>
       <point x="421" y="475" type="qcurve" smooth="yes"/>
-      <point x="432" y="457"/>
-      <point x="463" y="457"/>
-      <point x="475" y="475" type="qcurve" smooth="yes"/>
-      <point x="505" y="515"/>
-      <point x="551" y="585"/>
-      <point x="680" y="825" type="qcurve" smooth="yes"/>
-      <point x="687" y="839"/>
-      <point x="686" y="855"/>
-      <point x="682" y="856" type="qcurve" smooth="yes"/>
-      <point x="679" y="856"/>
-      <point x="672" y="852" type="qcurve" smooth="yes"/>
-      <point x="664" y="845"/>
-      <point x="470" y="565" type="qcurve" smooth="yes"/>
-      <point x="458" y="549"/>
-      <point x="435" y="549"/>
-      <point x="427" y="561" type="qcurve" smooth="yes"/>
-      <point x="387" y="616"/>
-      <point x="313" y="709"/>
-      <point x="306" y="714" type="qcurve"/>
-      <point x="305" y="711"/>
-      <point x="305" y="709" type="qcurve" smooth="yes"/>
-      <point x="305" y="706" type="line" smooth="yes"/>
-      <point x="305" y="696"/>
       <point x="379" y="540"/>
+      <point x="305" y="696"/>
+      <point x="305" y="706" type="qcurve" smooth="yes"/>
+      <point x="305" y="709" type="line" smooth="yes"/>
+      <point x="305" y="711"/>
+      <point x="306" y="714" type="qcurve"/>
+      <point x="313" y="709"/>
+      <point x="387" y="616"/>
+      <point x="427" y="561" type="qcurve" smooth="yes"/>
+      <point x="435" y="549"/>
+      <point x="458" y="549"/>
+      <point x="470" y="565" type="qcurve" smooth="yes"/>
+      <point x="664" y="845"/>
+      <point x="672" y="852" type="qcurve" smooth="yes"/>
+      <point x="679" y="856"/>
+      <point x="682" y="856" type="qcurve" smooth="yes"/>
+      <point x="686" y="855"/>
+      <point x="687" y="839"/>
+      <point x="680" y="825" type="qcurve" smooth="yes"/>
+      <point x="551" y="585"/>
+      <point x="505" y="515"/>
+      <point x="475" y="475" type="qcurve" smooth="yes"/>
+      <point x="463" y="457"/>
+      <point x="432" y="457"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024/05/13 21:33:14</string>
+      <string>2024/05/16 16:54:21</string>
       <key>public.markColor</key>
       <string>0.85,0.26,0.06,1</string>
       <key>public.verticalOrigin</key>

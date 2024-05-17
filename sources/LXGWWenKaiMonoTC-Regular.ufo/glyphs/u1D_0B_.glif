@@ -5,58 +5,58 @@
   <outline>
     <contour>
       <point x="421" y="-13" type="qcurve" smooth="yes"/>
-      <point x="439" y="-13"/>
-      <point x="478" y="6"/>
-      <point x="478" y="15" type="qcurve" smooth="yes"/>
-      <point x="478" y="19"/>
-      <point x="475" y="20" type="qcurve" smooth="yes"/>
-      <point x="444" y="55"/>
-      <point x="278" y="275" type="qcurve"/>
-      <point x="421" y="418"/>
-      <point x="436" y="435" type="qcurve" smooth="yes"/>
-      <point x="441" y="438"/>
-      <point x="440" y="443" type="qcurve" smooth="yes"/>
-      <point x="439" y="459"/>
-      <point x="414" y="474" type="qcurve" smooth="yes"/>
-      <point x="401" y="482"/>
-      <point x="383" y="482"/>
-      <point x="378" y="479" type="qcurve" smooth="yes"/>
-      <point x="364" y="454"/>
-      <point x="152" y="238" type="qcurve"/>
-      <point x="152" y="405" type="line" smooth="yes"/>
-      <point x="155" y="446"/>
-      <point x="155" y="456" type="qcurve" smooth="yes"/>
-      <point x="155" y="469"/>
-      <point x="118" y="484"/>
-      <point x="102" y="484" type="qcurve" smooth="yes"/>
-      <point x="83" y="484"/>
-      <point x="82" y="474" type="qcurve" smooth="yes"/>
-      <point x="82" y="454"/>
-      <point x="84" y="398" type="qcurve" smooth="yes"/>
-      <point x="85" y="378"/>
-      <point x="85" y="81" type="qcurve"/>
-      <point x="83" y="18" type="line" smooth="yes"/>
-      <point x="83" y="5"/>
-      <point x="120" y="-10"/>
-      <point x="136" y="-10" type="qcurve" smooth="yes"/>
-      <point x="156" y="-10"/>
-      <point x="156" y="0" type="qcurve" smooth="yes"/>
-      <point x="156" y="17"/>
-      <point x="154" y="46" type="qcurve" smooth="yes"/>
-      <point x="152" y="60"/>
-      <point x="152" y="149" type="qcurve"/>
-      <point x="236" y="233" type="line"/>
-      <point x="342" y="85"/>
-      <point x="365" y="50" type="qcurve" smooth="yes"/>
-      <point x="383" y="24" type="line" smooth="yes"/>
-      <point x="396" y="5"/>
       <point x="405" y="-13"/>
+      <point x="396" y="5"/>
+      <point x="383" y="24" type="qcurve" smooth="yes"/>
+      <point x="365" y="50" type="line" smooth="yes"/>
+      <point x="342" y="85"/>
+      <point x="236" y="233" type="qcurve"/>
+      <point x="152" y="149" type="line"/>
+      <point x="152" y="60"/>
+      <point x="154" y="46" type="qcurve" smooth="yes"/>
+      <point x="156" y="17"/>
+      <point x="156" y="0" type="qcurve" smooth="yes"/>
+      <point x="156" y="-10"/>
+      <point x="136" y="-10" type="qcurve" smooth="yes"/>
+      <point x="120" y="-10"/>
+      <point x="83" y="5"/>
+      <point x="83" y="18" type="qcurve" smooth="yes"/>
+      <point x="85" y="81" type="line"/>
+      <point x="85" y="378"/>
+      <point x="84" y="398" type="qcurve" smooth="yes"/>
+      <point x="82" y="454"/>
+      <point x="82" y="474" type="qcurve" smooth="yes"/>
+      <point x="83" y="484"/>
+      <point x="102" y="484" type="qcurve" smooth="yes"/>
+      <point x="118" y="484"/>
+      <point x="155" y="469"/>
+      <point x="155" y="456" type="qcurve" smooth="yes"/>
+      <point x="155" y="446"/>
+      <point x="152" y="405" type="qcurve" smooth="yes"/>
+      <point x="152" y="238" type="line"/>
+      <point x="364" y="454"/>
+      <point x="378" y="479" type="qcurve" smooth="yes"/>
+      <point x="383" y="482"/>
+      <point x="401" y="482"/>
+      <point x="414" y="474" type="qcurve" smooth="yes"/>
+      <point x="439" y="459"/>
+      <point x="440" y="443" type="qcurve" smooth="yes"/>
+      <point x="441" y="438"/>
+      <point x="436" y="435" type="qcurve" smooth="yes"/>
+      <point x="421" y="418"/>
+      <point x="278" y="275" type="qcurve"/>
+      <point x="444" y="55"/>
+      <point x="475" y="20" type="qcurve" smooth="yes"/>
+      <point x="478" y="19"/>
+      <point x="478" y="15" type="qcurve" smooth="yes"/>
+      <point x="478" y="6"/>
+      <point x="439" y="-13"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024/05/13 21:33:02</string>
+      <string>2024/05/16 16:54:16</string>
       <key>public.markColor</key>
       <string>0.85,0.26,0.06,1</string>
       <key>public.verticalOrigin</key>

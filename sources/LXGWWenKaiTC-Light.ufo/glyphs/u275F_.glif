@@ -5,33 +5,33 @@
   <outline>
     <contour>
       <point x="100" y="-95" type="qcurve" smooth="yes"/>
-      <point x="100" y="-99"/>
-      <point x="115" y="-99"/>
-      <point x="162" y="-82"/>
-      <point x="204" y="-47" type="qcurve" smooth="yes"/>
-      <point x="298" y="36"/>
-      <point x="300" y="149" type="qcurve" smooth="yes"/>
-      <point x="300" y="209"/>
-      <point x="233" y="274"/>
-      <point x="182" y="274" type="qcurve" smooth="yes"/>
-      <point x="130" y="274"/>
-      <point x="67" y="199"/>
-      <point x="67" y="152" type="qcurve" smooth="yes"/>
-      <point x="67" y="106"/>
-      <point x="136" y="47"/>
-      <point x="205" y="47"/>
-      <point x="221" y="54" type="qcurve" smooth="yes"/>
-      <point x="234" y="59" type="line"/>
-      <point x="227" y="47" type="line"/>
-      <point x="195" y="-17"/>
-      <point x="117" y="-75" type="qcurve" smooth="yes"/>
       <point x="100" y="-88"/>
+      <point x="117" y="-75" type="qcurve" smooth="yes"/>
+      <point x="195" y="-17"/>
+      <point x="227" y="47" type="qcurve"/>
+      <point x="234" y="59" type="line"/>
+      <point x="221" y="54" type="line" smooth="yes"/>
+      <point x="205" y="47"/>
+      <point x="136" y="47"/>
+      <point x="67" y="106"/>
+      <point x="67" y="152" type="qcurve" smooth="yes"/>
+      <point x="67" y="199"/>
+      <point x="130" y="274"/>
+      <point x="182" y="274" type="qcurve" smooth="yes"/>
+      <point x="233" y="274"/>
+      <point x="300" y="209"/>
+      <point x="300" y="149" type="qcurve" smooth="yes"/>
+      <point x="298" y="36"/>
+      <point x="204" y="-47" type="qcurve" smooth="yes"/>
+      <point x="162" y="-82"/>
+      <point x="115" y="-99"/>
+      <point x="100" y="-99"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024/05/13 22:25:13</string>
+      <string>2024/05/16 16:54:03</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

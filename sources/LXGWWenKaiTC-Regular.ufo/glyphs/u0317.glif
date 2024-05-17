@@ -5,26 +5,26 @@
   <outline>
     <contour>
       <point x="100" y="-148" type="qcurve" smooth="yes"/>
-      <point x="107" y="-145"/>
-      <point x="107" y="-138" type="qcurve" smooth="yes"/>
-      <point x="107" y="-118"/>
-      <point x="71" y="-93" type="qcurve" smooth="yes"/>
-      <point x="58" y="-84"/>
-      <point x="44" y="-84"/>
-      <point x="42" y="-85" type="qcurve" smooth="yes"/>
-      <point x="-70" y="-160"/>
-      <point x="-108" y="-200"/>
-      <point x="-108" y="-213"/>
-      <point x="-98" y="-223"/>
-      <point x="-86" y="-223"/>
-      <point x="-46" y="-200"/>
       <point x="51" y="-166"/>
+      <point x="-46" y="-200"/>
+      <point x="-86" y="-223"/>
+      <point x="-98" y="-223"/>
+      <point x="-108" y="-213"/>
+      <point x="-108" y="-200"/>
+      <point x="-70" y="-160"/>
+      <point x="42" y="-85" type="qcurve" smooth="yes"/>
+      <point x="44" y="-84"/>
+      <point x="58" y="-84"/>
+      <point x="71" y="-93" type="qcurve" smooth="yes"/>
+      <point x="107" y="-118"/>
+      <point x="107" y="-138" type="qcurve" smooth="yes"/>
+      <point x="107" y="-145"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024/05/13 22:25:24</string>
+      <string>2024/05/16 16:53:20</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

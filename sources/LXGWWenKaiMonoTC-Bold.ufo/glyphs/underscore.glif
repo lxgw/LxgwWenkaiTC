@@ -4,20 +4,22 @@
   <unicode hex="005F"/>
   <outline>
     <contour>
-      <point x="471" y="-168" type="qcurve" smooth="yes"/>
-      <point x="30" y="-168" type="line" smooth="yes"/>
-      <point x="4" y="-168"/>
-      <point x="4" y="-132" type="qcurve" smooth="yes"/>
-      <point x="4" y="-95"/>
-      <point x="30" y="-95" type="qcurve" smooth="yes"/>
-      <point x="471" y="-95" type="line" smooth="yes"/>
-      <point x="497" y="-95"/>
-      <point x="497" y="-132" type="qcurve" smooth="yes"/>
+      <point x="471" y="-168" type="line" smooth="yes"/>
       <point x="497" y="-168"/>
+      <point x="497" y="-132" type="qcurve" smooth="yes"/>
+      <point x="497" y="-95"/>
+      <point x="471" y="-95" type="qcurve" smooth="yes"/>
+      <point x="30" y="-95" type="line" smooth="yes"/>
+      <point x="4" y="-95"/>
+      <point x="4" y="-132" type="qcurve" smooth="yes"/>
+      <point x="4" y="-168"/>
+      <point x="30" y="-168" type="qcurve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:53:57</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

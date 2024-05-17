@@ -5,34 +5,34 @@
   <outline>
     <contour>
       <point x="272" y="-78" type="qcurve" smooth="yes"/>
-      <point x="291" y="-78"/>
-      <point x="291" y="-57" type="qcurve" smooth="yes"/>
-      <point x="291" y="-47"/>
-      <point x="283" y="-40" type="qcurve" smooth="yes"/>
-      <point x="255" y="-12"/>
-      <point x="221" y="105"/>
-      <point x="221" y="212"/>
-      <point x="258" y="350"/>
-      <point x="289" y="386" type="qcurve" smooth="yes"/>
-      <point x="295" y="391"/>
-      <point x="295" y="400" type="qcurve" smooth="yes"/>
-      <point x="295" y="419"/>
-      <point x="274" y="419" type="qcurve" smooth="yes"/>
-      <point x="264" y="419"/>
-      <point x="249" y="403" type="qcurve" smooth="yes"/>
-      <point x="219" y="370"/>
-      <point x="161" y="233"/>
-      <point x="161" y="81"/>
-      <point x="193" y="16" type="qcurve" smooth="yes"/>
-      <point x="219" y="-36"/>
-      <point x="249" y="-64" type="qcurve" smooth="yes"/>
       <point x="263" y="-78"/>
+      <point x="249" y="-64" type="qcurve" smooth="yes"/>
+      <point x="219" y="-36"/>
+      <point x="193" y="16" type="qcurve" smooth="yes"/>
+      <point x="161" y="81"/>
+      <point x="161" y="233"/>
+      <point x="219" y="370"/>
+      <point x="249" y="403" type="qcurve" smooth="yes"/>
+      <point x="264" y="419"/>
+      <point x="274" y="419" type="qcurve" smooth="yes"/>
+      <point x="295" y="419"/>
+      <point x="295" y="400" type="qcurve" smooth="yes"/>
+      <point x="295" y="391"/>
+      <point x="289" y="386" type="qcurve" smooth="yes"/>
+      <point x="258" y="350"/>
+      <point x="221" y="212"/>
+      <point x="221" y="105"/>
+      <point x="255" y="-12"/>
+      <point x="283" y="-40" type="qcurve" smooth="yes"/>
+      <point x="291" y="-47"/>
+      <point x="291" y="-57" type="qcurve" smooth="yes"/>
+      <point x="291" y="-78"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024/05/13 22:25:24</string>
+      <string>2024/05/16 16:53:20</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

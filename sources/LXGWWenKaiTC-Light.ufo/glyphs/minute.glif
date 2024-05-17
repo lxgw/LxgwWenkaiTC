@@ -4,24 +4,24 @@
   <unicode hex="2032"/>
   <outline>
     <contour>
-      <point x="126" y="590" type="qcurve" smooth="yes"/>
-      <point x="203" y="786" type="line" smooth="yes"/>
-      <point x="204" y="788"/>
-      <point x="204" y="803"/>
-      <point x="180" y="818"/>
-      <point x="151" y="818"/>
-      <point x="147" y="807" type="qcurve" smooth="yes"/>
-      <point x="81" y="607" type="line" smooth="yes"/>
-      <point x="80" y="606"/>
-      <point x="80" y="594"/>
-      <point x="101" y="582"/>
+      <point x="126" y="590" type="line" smooth="yes"/>
       <point x="123" y="582"/>
+      <point x="101" y="582"/>
+      <point x="80" y="594"/>
+      <point x="80" y="606"/>
+      <point x="81" y="607" type="qcurve" smooth="yes"/>
+      <point x="147" y="807" type="line" smooth="yes"/>
+      <point x="151" y="818"/>
+      <point x="180" y="818"/>
+      <point x="204" y="803"/>
+      <point x="204" y="788"/>
+      <point x="203" y="786" type="qcurve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024/05/13 22:25:13</string>
+      <string>2024/05/16 16:54:03</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

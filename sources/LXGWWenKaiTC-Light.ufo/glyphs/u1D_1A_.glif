@@ -5,60 +5,60 @@
   <outline>
     <contour>
       <point x="262" y="-11" type="qcurve" smooth="yes"/>
-      <point x="308" y="-11"/>
-      <point x="332" y="-8" type="qcurve" smooth="yes"/>
-      <point x="472" y="8"/>
-      <point x="475" y="23" type="qcurve" smooth="yes"/>
-      <point x="475" y="34"/>
-      <point x="450" y="58"/>
-      <point x="441" y="58" type="qcurve" smooth="yes"/>
-      <point x="432" y="58" type="line"/>
-      <point x="432" y="63" type="line" smooth="yes"/>
-      <point x="432" y="410"/>
-      <point x="433" y="425" type="qcurve" smooth="yes"/>
-      <point x="434" y="462" type="line" smooth="yes"/>
-      <point x="434" y="473"/>
-      <point x="402" y="485"/>
-      <point x="373" y="485"/>
-      <point x="373" y="480" type="qcurve" smooth="yes"/>
-      <point x="377" y="393"/>
-      <point x="377" y="265" type="qcurve" smooth="yes"/>
-      <point x="377" y="259" type="line"/>
-      <point x="353" y="264"/>
-      <point x="279" y="258" type="qcurve"/>
-      <point x="226" y="332"/>
-      <point x="141" y="446"/>
-      <point x="118" y="479" type="qcurve" smooth="yes"/>
-      <point x="115" y="484"/>
-      <point x="90" y="484"/>
-      <point x="55" y="465"/>
-      <point x="55" y="458" type="qcurve" smooth="yes"/>
-      <point x="55" y="455"/>
-      <point x="61" y="450" type="qcurve" smooth="yes"/>
-      <point x="104" y="411"/>
-      <point x="224" y="250" type="qcurve"/>
-      <point x="216" y="249" type="line"/>
-      <point x="63" y="223"/>
-      <point x="63" y="103" type="qcurve" smooth="yes"/>
-      <point x="63" y="49"/>
       <point x="154" y="-11"/>
+      <point x="63" y="49"/>
+      <point x="63" y="103" type="qcurve" smooth="yes"/>
+      <point x="63" y="223"/>
+      <point x="216" y="249" type="qcurve"/>
+      <point x="224" y="250" type="line"/>
+      <point x="104" y="411"/>
+      <point x="61" y="450" type="qcurve" smooth="yes"/>
+      <point x="55" y="455"/>
+      <point x="55" y="458" type="qcurve" smooth="yes"/>
+      <point x="55" y="465"/>
+      <point x="90" y="484"/>
+      <point x="115" y="484"/>
+      <point x="118" y="479" type="qcurve" smooth="yes"/>
+      <point x="141" y="446"/>
+      <point x="226" y="332"/>
+      <point x="279" y="258" type="qcurve"/>
+      <point x="353" y="264"/>
+      <point x="377" y="259" type="qcurve"/>
+      <point x="377" y="265" type="line" smooth="yes"/>
+      <point x="377" y="393"/>
+      <point x="373" y="480" type="qcurve" smooth="yes"/>
+      <point x="373" y="485"/>
+      <point x="402" y="485"/>
+      <point x="434" y="473"/>
+      <point x="434" y="462" type="qcurve" smooth="yes"/>
+      <point x="433" y="425" type="line" smooth="yes"/>
+      <point x="432" y="410"/>
+      <point x="432" y="63" type="qcurve" smooth="yes"/>
+      <point x="432" y="58" type="line"/>
+      <point x="441" y="58" type="line" smooth="yes"/>
+      <point x="450" y="58"/>
+      <point x="475" y="34"/>
+      <point x="475" y="23" type="qcurve" smooth="yes"/>
+      <point x="472" y="8"/>
+      <point x="332" y="-8" type="qcurve" smooth="yes"/>
+      <point x="308" y="-11"/>
     </contour>
     <contour>
-      <point x="377" y="51" type="line"/>
-      <point x="320" y="38"/>
-      <point x="191" y="38"/>
-      <point x="122" y="78"/>
-      <point x="122" y="108" type="qcurve" smooth="yes"/>
-      <point x="122" y="210"/>
-      <point x="369" y="223" type="qcurve"/>
-      <point x="369" y="223" type="line"/>
+      <point x="377" y="51" type="qcurve"/>
       <point x="377" y="223" type="line"/>
+      <point x="369" y="223" type="line"/>
+      <point x="369" y="223" type="line"/>
+      <point x="122" y="210"/>
+      <point x="122" y="108" type="qcurve" smooth="yes"/>
+      <point x="122" y="78"/>
+      <point x="191" y="38"/>
+      <point x="320" y="38"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024/05/13 22:25:13</string>
+      <string>2024/05/16 16:54:03</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

@@ -5,29 +5,29 @@
   <outline>
     <contour>
       <point x="219" y="465"/>
-      <point x="246" y="493"/>
-      <point x="246" y="539"/>
-      <point x="209" y="585"/>
-      <point x="163" y="585"/>
-      <point x="130" y="559"/>
-      <point x="130" y="511"/>
       <point x="165" y="465"/>
+      <point x="130" y="511"/>
+      <point x="130" y="559"/>
+      <point x="163" y="585"/>
+      <point x="209" y="585"/>
+      <point x="246" y="539"/>
+      <point x="246" y="493"/>
     </contour>
     <contour>
       <point x="219" y="94"/>
-      <point x="246" y="122"/>
-      <point x="246" y="168"/>
-      <point x="209" y="214"/>
-      <point x="163" y="214"/>
-      <point x="130" y="188"/>
-      <point x="130" y="140"/>
       <point x="165" y="94"/>
+      <point x="130" y="140"/>
+      <point x="130" y="188"/>
+      <point x="163" y="214"/>
+      <point x="209" y="214"/>
+      <point x="246" y="168"/>
+      <point x="246" y="122"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024/05/13 22:25:13</string>
+      <string>2024/05/16 16:54:03</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

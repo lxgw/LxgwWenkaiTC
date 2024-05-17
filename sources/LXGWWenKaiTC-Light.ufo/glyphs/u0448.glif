@@ -4,58 +4,58 @@
   <unicode hex="0448"/>
   <outline>
     <contour>
-      <point x="129" y="-13" type="qcurve" smooth="yes"/>
-      <point x="132" y="-13" type="line"/>
-      <point x="217" y="4"/>
-      <point x="538" y="4" type="qcurve" smooth="yes"/>
-      <point x="587" y="4" type="line" smooth="yes"/>
-      <point x="654" y="2"/>
-      <point x="689" y="-7" type="qcurve"/>
-      <point x="692" y="-7" type="line" smooth="yes"/>
-      <point x="701" y="-7"/>
-      <point x="701" y="18"/>
-      <point x="683" y="53"/>
-      <point x="663" y="53" type="qcurve"/>
-      <point x="663" y="370" type="line"/>
-      <point x="665" y="454" type="line" smooth="yes"/>
-      <point x="665" y="466"/>
-      <point x="635" y="481"/>
-      <point x="606" y="481"/>
-      <point x="606" y="472" type="qcurve" smooth="yes"/>
-      <point x="609" y="370" type="line"/>
-      <point x="609" y="55" type="line"/>
-      <point x="407" y="55" type="line"/>
-      <point x="407" y="368" type="line"/>
-      <point x="409" y="452" type="line" smooth="yes"/>
-      <point x="409" y="464"/>
-      <point x="379" y="479"/>
-      <point x="350" y="479"/>
-      <point x="350" y="470" type="qcurve" smooth="yes"/>
-      <point x="353" y="368" type="line"/>
-      <point x="353" y="55" type="line"/>
-      <point x="278" y="53"/>
-      <point x="169" y="47" type="qcurve" smooth="yes"/>
-      <point x="150" y="46" type="line"/>
-      <point x="150" y="366" type="line"/>
-      <point x="152" y="450" type="line" smooth="yes"/>
-      <point x="152" y="462"/>
-      <point x="122" y="477"/>
-      <point x="93" y="477"/>
-      <point x="93" y="468" type="qcurve" smooth="yes"/>
-      <point x="96" y="366" type="line"/>
-      <point x="96" y="64" type="line" smooth="yes"/>
-      <point x="96" y="52"/>
-      <point x="89" y="41"/>
-      <point x="89" y="34" type="qcurve" smooth="yes"/>
-      <point x="89" y="27"/>
-      <point x="96" y="16" type="qcurve" smooth="yes"/>
+      <point x="129" y="-13" type="line" smooth="yes"/>
       <point x="113" y="-13"/>
+      <point x="96" y="16" type="qcurve" smooth="yes"/>
+      <point x="89" y="27"/>
+      <point x="89" y="34" type="qcurve" smooth="yes"/>
+      <point x="89" y="41"/>
+      <point x="96" y="52"/>
+      <point x="96" y="64" type="qcurve" smooth="yes"/>
+      <point x="96" y="366" type="line"/>
+      <point x="93" y="468" type="line" smooth="yes"/>
+      <point x="93" y="477"/>
+      <point x="122" y="477"/>
+      <point x="152" y="462"/>
+      <point x="152" y="450" type="qcurve" smooth="yes"/>
+      <point x="150" y="366" type="line"/>
+      <point x="150" y="46" type="line"/>
+      <point x="169" y="47" type="line" smooth="yes"/>
+      <point x="278" y="53"/>
+      <point x="353" y="55" type="qcurve"/>
+      <point x="353" y="368" type="line"/>
+      <point x="350" y="470" type="line" smooth="yes"/>
+      <point x="350" y="479"/>
+      <point x="379" y="479"/>
+      <point x="409" y="464"/>
+      <point x="409" y="452" type="qcurve" smooth="yes"/>
+      <point x="407" y="368" type="line"/>
+      <point x="407" y="55" type="line"/>
+      <point x="609" y="55" type="line"/>
+      <point x="609" y="370" type="line"/>
+      <point x="606" y="472" type="line" smooth="yes"/>
+      <point x="606" y="481"/>
+      <point x="635" y="481"/>
+      <point x="665" y="466"/>
+      <point x="665" y="454" type="qcurve" smooth="yes"/>
+      <point x="663" y="370" type="line"/>
+      <point x="663" y="53" type="line"/>
+      <point x="683" y="53"/>
+      <point x="701" y="18"/>
+      <point x="701" y="-7"/>
+      <point x="692" y="-7" type="qcurve" smooth="yes"/>
+      <point x="689" y="-7" type="line"/>
+      <point x="654" y="2"/>
+      <point x="587" y="4" type="qcurve" smooth="yes"/>
+      <point x="538" y="4" type="line" smooth="yes"/>
+      <point x="217" y="4"/>
+      <point x="132" y="-13" type="qcurve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024/05/13 22:25:13</string>
+      <string>2024/05/16 16:54:03</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

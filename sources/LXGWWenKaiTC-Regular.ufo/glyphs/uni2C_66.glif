@@ -5,26 +5,26 @@
   <outline>
     <contour>
       <point x="82" y="-110" type="qcurve" smooth="yes"/>
-      <point x="91" y="-81"/>
-      <point x="108" y="-34" type="qcurve" smooth="yes"/>
-      <point x="318" y="534" type="line" smooth="yes"/>
-      <point x="331" y="570"/>
-      <point x="347" y="600"/>
-      <point x="347" y="603" type="qcurve" smooth="yes"/>
-      <point x="347" y="619"/>
-      <point x="322" y="638" type="qcurve" smooth="yes"/>
-      <point x="311" y="645"/>
-      <point x="292" y="645"/>
-      <point x="289" y="632" type="qcurve" smooth="yes"/>
-      <point x="280" y="596"/>
-      <point x="265" y="554" type="qcurve" smooth="yes"/>
-      <point x="57" y="-11" type="line" smooth="yes"/>
-      <point x="47" y="-39"/>
-      <point x="29" y="-72" type="qcurve" smooth="yes"/>
-      <point x="26" y="-78"/>
-      <point x="26" y="-100"/>
-      <point x="52" y="-123"/>
       <point x="78" y="-123"/>
+      <point x="52" y="-123"/>
+      <point x="26" y="-100"/>
+      <point x="26" y="-78"/>
+      <point x="29" y="-72" type="qcurve" smooth="yes"/>
+      <point x="47" y="-39"/>
+      <point x="57" y="-11" type="qcurve" smooth="yes"/>
+      <point x="265" y="554" type="line" smooth="yes"/>
+      <point x="280" y="596"/>
+      <point x="289" y="632" type="qcurve" smooth="yes"/>
+      <point x="292" y="645"/>
+      <point x="311" y="645"/>
+      <point x="322" y="638" type="qcurve" smooth="yes"/>
+      <point x="347" y="619"/>
+      <point x="347" y="603" type="qcurve" smooth="yes"/>
+      <point x="347" y="600"/>
+      <point x="331" y="570"/>
+      <point x="318" y="534" type="qcurve" smooth="yes"/>
+      <point x="108" y="-34" type="line" smooth="yes"/>
+      <point x="91" y="-81"/>
     </contour>
     <component base="t"/>
   </outline>
@@ -35,7 +35,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>t</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024/05/13 22:25:24</string>
+      <string>2024/05/16 16:53:20</string>
       <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
       <string>CP</string>
       <key>public.verticalOrigin</key>

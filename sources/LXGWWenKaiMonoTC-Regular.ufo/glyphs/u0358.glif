@@ -5,23 +5,23 @@
   <outline>
     <contour>
       <point x="-250" y="495" type="qcurve" smooth="yes"/>
-      <point x="-228" y="495"/>
-      <point x="-201" y="522"/>
-      <point x="-201" y="541" type="qcurve" smooth="yes"/>
-      <point x="-201" y="563"/>
-      <point x="-232" y="603"/>
-      <point x="-250" y="603" type="qcurve" smooth="yes"/>
-      <point x="-274" y="603"/>
-      <point x="-300" y="576"/>
-      <point x="-300" y="555" type="qcurve" smooth="yes"/>
-      <point x="-300" y="533"/>
       <point x="-269" y="495"/>
+      <point x="-300" y="533"/>
+      <point x="-300" y="555" type="qcurve" smooth="yes"/>
+      <point x="-300" y="576"/>
+      <point x="-274" y="603"/>
+      <point x="-250" y="603" type="qcurve" smooth="yes"/>
+      <point x="-232" y="603"/>
+      <point x="-201" y="563"/>
+      <point x="-201" y="541" type="qcurve" smooth="yes"/>
+      <point x="-201" y="522"/>
+      <point x="-228" y="495"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024/05/13 21:33:03</string>
+      <string>2024/05/16 16:54:16</string>
       <key>public.markColor</key>
       <string>0.85,0.26,0.06,1</string>
       <key>public.verticalOrigin</key>

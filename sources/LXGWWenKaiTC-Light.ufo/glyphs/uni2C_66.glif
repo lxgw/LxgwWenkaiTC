@@ -5,28 +5,28 @@
   <outline>
     <contour>
       <point x="84" y="-98" type="qcurve" smooth="yes"/>
-      <point x="93" y="-68"/>
-      <point x="110" y="-21" type="qcurve" smooth="yes"/>
-      <point x="303" y="516" type="line" smooth="yes"/>
-      <point x="316" y="552"/>
-      <point x="331" y="580"/>
-      <point x="332" y="583" type="qcurve" smooth="yes"/>
-      <point x="332" y="597"/>
-      <point x="309" y="614" type="qcurve" smooth="yes"/>
-      <point x="299" y="620"/>
-      <point x="291" y="620" type="qcurve" smooth="yes"/>
-      <point x="286" y="620"/>
-      <point x="284" y="611" type="qcurve" smooth="yes"/>
-      <point x="275" y="575"/>
-      <point x="260" y="532" type="qcurve" smooth="yes"/>
-      <point x="69" y="-2" type="line" smooth="yes"/>
-      <point x="59" y="-30"/>
-      <point x="40" y="-63" type="qcurve" smooth="yes"/>
-      <point x="38" y="-68"/>
-      <point x="38" y="-80" type="qcurve" smooth="yes"/>
-      <point x="38" y="-87"/>
-      <point x="61" y="-107"/>
       <point x="81" y="-107"/>
+      <point x="61" y="-107"/>
+      <point x="38" y="-87"/>
+      <point x="38" y="-80" type="qcurve" smooth="yes"/>
+      <point x="38" y="-68"/>
+      <point x="40" y="-63" type="qcurve" smooth="yes"/>
+      <point x="59" y="-30"/>
+      <point x="69" y="-2" type="qcurve" smooth="yes"/>
+      <point x="260" y="532" type="line" smooth="yes"/>
+      <point x="275" y="575"/>
+      <point x="284" y="611" type="qcurve" smooth="yes"/>
+      <point x="286" y="620"/>
+      <point x="291" y="620" type="qcurve" smooth="yes"/>
+      <point x="299" y="620"/>
+      <point x="309" y="614" type="qcurve" smooth="yes"/>
+      <point x="332" y="597"/>
+      <point x="332" y="583" type="qcurve" smooth="yes"/>
+      <point x="331" y="580"/>
+      <point x="316" y="552"/>
+      <point x="303" y="516" type="qcurve" smooth="yes"/>
+      <point x="110" y="-21" type="line" smooth="yes"/>
+      <point x="93" y="-68"/>
     </contour>
     <component base="t"/>
   </outline>
@@ -37,7 +37,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>t</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024/05/13 22:25:13</string>
+      <string>2024/05/16 16:54:03</string>
       <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
       <string>CP</string>
       <key>public.verticalOrigin</key>
