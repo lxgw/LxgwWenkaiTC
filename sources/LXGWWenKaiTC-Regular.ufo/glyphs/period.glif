@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period" format="2">
+  <advance height="1000" width="350"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="238" y="67"/>
+      <point x="238" y="19"/>
+      <point x="201" y="-14"/>
+      <point x="158" y="-14"/>
+      <point x="123" y="30"/>
+      <point x="123" y="78"/>
+      <point x="156" y="110"/>
+      <point x="200" y="110"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:53:20</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

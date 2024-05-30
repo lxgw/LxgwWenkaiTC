@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caron" format="2">
+  <advance height="1000" width="599"/>
+  <unicode hex="02C7"/>
+  <outline>
+    <contour>
+      <point x="220" y="475" type="qcurve" smooth="yes"/>
+      <point x="178" y="540"/>
+      <point x="104" y="696"/>
+      <point x="104" y="706" type="qcurve" smooth="yes"/>
+      <point x="104" y="709" type="line" smooth="yes"/>
+      <point x="104" y="711"/>
+      <point x="105" y="714" type="qcurve"/>
+      <point x="112" y="709"/>
+      <point x="186" y="616"/>
+      <point x="226" y="561" type="qcurve" smooth="yes"/>
+      <point x="234" y="549"/>
+      <point x="257" y="549"/>
+      <point x="269" y="565" type="qcurve" smooth="yes"/>
+      <point x="463" y="845"/>
+      <point x="471" y="852" type="qcurve" smooth="yes"/>
+      <point x="478" y="856"/>
+      <point x="481" y="856" type="qcurve" smooth="yes"/>
+      <point x="485" y="855"/>
+      <point x="486" y="839"/>
+      <point x="479" y="825" type="qcurve" smooth="yes"/>
+      <point x="350" y="585"/>
+      <point x="304" y="515"/>
+      <point x="274" y="475" type="qcurve" smooth="yes"/>
+      <point x="262" y="457"/>
+      <point x="231" y="457"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:54:03</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

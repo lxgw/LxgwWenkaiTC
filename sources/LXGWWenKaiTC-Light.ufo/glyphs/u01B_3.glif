@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u01B3" format="2">
+  <advance height="1000" width="600"/>
+  <unicode hex="01B3"/>
+  <outline>
+    <contour>
+      <point x="328" y="1" type="line" smooth="yes"/>
+      <point x="328" y="-4"/>
+      <point x="296" y="-4"/>
+      <point x="261" y="9"/>
+      <point x="261" y="19" type="qcurve" smooth="yes"/>
+      <point x="263" y="108" type="line"/>
+      <point x="263" y="293" type="line"/>
+      <point x="166" y="469"/>
+      <point x="56" y="629" type="qcurve" smooth="yes"/>
+      <point x="35" y="659"/>
+      <point x="21" y="676"/>
+      <point x="20" y="679" type="qcurve" smooth="yes"/>
+      <point x="20" y="686"/>
+      <point x="53" y="696"/>
+      <point x="87" y="696"/>
+      <point x="90" y="692" type="qcurve" smooth="yes"/>
+      <point x="98" y="680"/>
+      <point x="116" y="645"/>
+      <point x="165" y="564"/>
+      <point x="250" y="427"/>
+      <point x="294" y="350" type="qcurve"/>
+      <point x="456" y="612" type="line" smooth="yes"/>
+      <point x="500" y="689"/>
+      <point x="546" y="701" type="qcurve" smooth="yes"/>
+      <point x="574" y="710"/>
+      <point x="646" y="672"/>
+      <point x="678" y="622"/>
+      <point x="665" y="597"/>
+      <point x="636" y="580"/>
+      <point x="622" y="586"/>
+      <point x="619" y="601" type="qcurve" smooth="yes"/>
+      <point x="614" y="629"/>
+      <point x="583" y="646" type="qcurve" smooth="yes"/>
+      <point x="566" y="655"/>
+      <point x="534" y="630"/>
+      <point x="435" y="480"/>
+      <point x="335" y="312"/>
+      <point x="325" y="294" type="qcurve"/>
+      <point x="325" y="107" type="line"/>
+    </contour>
+    <contour>
+      <point x="619" y="601" type="move"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:54:03</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

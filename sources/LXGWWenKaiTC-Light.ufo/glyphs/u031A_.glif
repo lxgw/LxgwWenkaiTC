@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u031A" format="2">
+  <advance height="1000"/>
+  <unicode hex="031A"/>
+  <outline>
+    <contour>
+      <point x="9" y="593" type="line"/>
+      <point x="9" y="690" type="line"/>
+      <point x="-141" y="690" type="line"/>
+      <point x="-141" y="735" type="line"/>
+      <point x="61" y="735" type="line"/>
+      <point x="61" y="593" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:54:03</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

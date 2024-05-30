@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotesingle" format="2">
+  <advance height="1000" width="350"/>
+  <unicode hex="0027"/>
+  <outline>
+    <contour>
+      <point x="144" y="492" type="qcurve" smooth="yes"/>
+      <point x="138" y="703" type="line" smooth="yes"/>
+      <point x="138" y="714"/>
+      <point x="162" y="725"/>
+      <point x="175" y="725" type="qcurve" smooth="yes"/>
+      <point x="212" y="725"/>
+      <point x="212" y="704" type="qcurve" smooth="yes"/>
+      <point x="212" y="703" type="line"/>
+      <point x="206" y="492" type="line" smooth="yes"/>
+      <point x="206" y="476"/>
+      <point x="146" y="476"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:53:20</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

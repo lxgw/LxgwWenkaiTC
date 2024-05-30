@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u2034" format="2">
+  <advance height="1000" width="500"/>
+  <unicode hex="2034"/>
+  <outline>
+    <contour>
+      <point x="374" y="586" type="line" smooth="yes"/>
+      <point x="371" y="577"/>
+      <point x="344" y="577"/>
+      <point x="315" y="593"/>
+      <point x="315" y="606"/>
+      <point x="316" y="607" type="qcurve" smooth="yes"/>
+      <point x="382" y="807" type="line" smooth="yes"/>
+      <point x="385" y="819"/>
+      <point x="420" y="819"/>
+      <point x="453" y="800"/>
+      <point x="453" y="787" type="qcurve" smooth="yes"/>
+      <point x="453" y="784"/>
+      <point x="452" y="782" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="113" y="586" type="line" smooth="yes"/>
+      <point x="110" y="577"/>
+      <point x="83" y="577"/>
+      <point x="54" y="593"/>
+      <point x="54" y="606"/>
+      <point x="55" y="607" type="qcurve" smooth="yes"/>
+      <point x="121" y="807" type="line" smooth="yes"/>
+      <point x="124" y="819"/>
+      <point x="159" y="819"/>
+      <point x="192" y="800"/>
+      <point x="192" y="787" type="qcurve" smooth="yes"/>
+      <point x="192" y="784"/>
+      <point x="191" y="782" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="245" y="586" type="line" smooth="yes"/>
+      <point x="242" y="577"/>
+      <point x="215" y="577"/>
+      <point x="186" y="593"/>
+      <point x="186" y="606"/>
+      <point x="187" y="607" type="qcurve" smooth="yes"/>
+      <point x="253" y="807" type="line" smooth="yes"/>
+      <point x="256" y="819"/>
+      <point x="291" y="819"/>
+      <point x="324" y="800"/>
+      <point x="324" y="787" type="qcurve" smooth="yes"/>
+      <point x="324" y="784"/>
+      <point x="323" y="782" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:54:16</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

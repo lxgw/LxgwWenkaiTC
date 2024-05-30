@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="registered" format="2">
+  <advance height="1000" width="500"/>
+  <unicode hex="00AE"/>
+  <outline>
+    <contour>
+      <point x="249" y="102" type="qcurve" smooth="yes"/>
+      <point x="151" y="102"/>
+      <point x="83" y="172" type="qcurve" smooth="yes"/>
+      <point x="13" y="241"/>
+      <point x="13" y="338" type="qcurve" smooth="yes"/>
+      <point x="13" y="437"/>
+      <point x="151" y="575"/>
+      <point x="249" y="575" type="qcurve" smooth="yes"/>
+      <point x="348" y="575"/>
+      <point x="417" y="506" type="qcurve" smooth="yes"/>
+      <point x="450" y="473"/>
+      <point x="486" y="387"/>
+      <point x="486" y="290"/>
+      <point x="450" y="205"/>
+      <point x="417" y="172" type="qcurve" smooth="yes"/>
+      <point x="348" y="102"/>
+    </contour>
+    <contour>
+      <point x="250" y="144" type="qcurve" smooth="yes"/>
+      <point x="322" y="144"/>
+      <point x="375" y="190" type="qcurve"/>
+      <point x="370" y="189"/>
+      <point x="364" y="189" type="qcurve" smooth="yes"/>
+      <point x="337" y="189"/>
+      <point x="316" y="204" type="qcurve" smooth="yes"/>
+      <point x="278" y="238"/>
+      <point x="244" y="282" type="qcurve" smooth="yes"/>
+      <point x="215" y="319"/>
+      <point x="207" y="322" type="qcurve"/>
+      <point x="207" y="235"/>
+      <point x="208" y="222" type="qcurve" smooth="yes"/>
+      <point x="208" y="200" type="line" smooth="yes"/>
+      <point x="208" y="191"/>
+      <point x="190" y="191" type="qcurve" smooth="yes"/>
+      <point x="181" y="191"/>
+      <point x="159" y="199"/>
+      <point x="159" y="208" type="qcurve" smooth="yes"/>
+      <point x="160" y="225" type="line"/>
+      <point x="160" y="445" type="line"/>
+      <point x="155" y="449"/>
+      <point x="146" y="466"/>
+      <point x="146" y="473" type="qcurve" smooth="yes"/>
+      <point x="146" y="485"/>
+      <point x="160" y="486"/>
+      <point x="166" y="488" type="qcurve" smooth="yes"/>
+      <point x="180" y="490"/>
+      <point x="197" y="493" type="qcurve" smooth="yes"/>
+      <point x="218" y="498"/>
+      <point x="259" y="498" type="qcurve" smooth="yes"/>
+      <point x="296" y="498"/>
+      <point x="339" y="476"/>
+      <point x="359" y="441"/>
+      <point x="359" y="421" type="qcurve" smooth="yes"/>
+      <point x="359" y="395"/>
+      <point x="329" y="357"/>
+      <point x="280" y="333"/>
+      <point x="257" y="332" type="qcurve"/>
+      <point x="271" y="317"/>
+      <point x="294" y="289" type="qcurve" smooth="yes"/>
+      <point x="345" y="227"/>
+      <point x="366" y="219" type="qcurve" smooth="yes"/>
+      <point x="376" y="216"/>
+      <point x="382" y="210" type="qcurve" smooth="yes"/>
+      <point x="387" y="206"/>
+      <point x="389" y="203" type="qcurve"/>
+      <point x="444" y="259"/>
+      <point x="444" y="338" type="qcurve" smooth="yes"/>
+      <point x="444" y="419"/>
+      <point x="330" y="533"/>
+      <point x="170" y="533"/>
+      <point x="56" y="419"/>
+      <point x="56" y="258"/>
+      <point x="170" y="144"/>
+    </contour>
+    <contour>
+      <point x="215" y="369" type="qcurve" smooth="yes"/>
+      <point x="218" y="369"/>
+      <point x="230" y="369" type="qcurve" smooth="yes"/>
+      <point x="271" y="369"/>
+      <point x="312" y="401"/>
+      <point x="312" y="420" type="qcurve" smooth="yes"/>
+      <point x="312" y="454"/>
+      <point x="258" y="454" type="qcurve" smooth="yes"/>
+      <point x="229" y="454"/>
+      <point x="207" y="448" type="qcurve"/>
+      <point x="207" y="373" type="line" smooth="yes"/>
+      <point x="204" y="370"/>
+      <point x="214" y="370"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:54:16</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u0331" format="2">
+  <advance height="1000"/>
+  <unicode hex="0331"/>
+  <outline>
+    <contour>
+      <point x="-114" y="-185" type="line" smooth="yes"/>
+      <point x="-125" y="-185"/>
+      <point x="-137" y="-166"/>
+      <point x="-137" y="-143"/>
+      <point x="-125" y="-123"/>
+      <point x="-113" y="-123" type="qcurve" smooth="yes"/>
+      <point x="115" y="-123" type="line" smooth="yes"/>
+      <point x="126" y="-123"/>
+      <point x="137" y="-142"/>
+      <point x="137" y="-165"/>
+      <point x="125" y="-185"/>
+      <point x="114" y="-185" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:53:20</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

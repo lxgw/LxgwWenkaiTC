@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u208B" format="2">
+  <advance height="1000" width="380"/>
+  <unicode hex="208B"/>
+  <outline>
+    <contour>
+      <point x="84" y="151" type="line" smooth="yes"/>
+      <point x="72" y="151"/>
+      <point x="63" y="173"/>
+      <point x="63" y="182" type="qcurve" smooth="yes"/>
+      <point x="63" y="205"/>
+      <point x="82" y="205" type="qcurve" smooth="yes"/>
+      <point x="97" y="204"/>
+      <point x="122" y="204" type="qcurve" smooth="yes"/>
+      <point x="262" y="204" type="line" smooth="yes"/>
+      <point x="276" y="204"/>
+      <point x="297" y="205" type="qcurve" smooth="yes"/>
+      <point x="298" y="205" type="line" smooth="yes"/>
+      <point x="309" y="205"/>
+      <point x="319" y="184"/>
+      <point x="319" y="152"/>
+      <point x="300" y="152" type="qcurve" smooth="yes"/>
+      <point x="261" y="153" type="line"/>
+      <point x="122" y="153" type="line" smooth="yes"/>
+      <point x="94" y="153"/>
+      <point x="85" y="151" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:53:20</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

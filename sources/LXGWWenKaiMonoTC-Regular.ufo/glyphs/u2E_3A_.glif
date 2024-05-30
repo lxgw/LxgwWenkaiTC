@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u2E3A" format="2">
+  <advance height="1000" width="2000"/>
+  <unicode hex="2E3A"/>
+  <outline>
+    <contour>
+      <point x="35" y="349" type="line" smooth="yes"/>
+      <point x="24" y="349"/>
+      <point x="12" y="368"/>
+      <point x="12" y="391"/>
+      <point x="24" y="410"/>
+      <point x="35" y="410" type="qcurve" smooth="yes"/>
+      <point x="1965" y="410" type="line" smooth="yes"/>
+      <point x="1976" y="410"/>
+      <point x="1988" y="391"/>
+      <point x="1988" y="368"/>
+      <point x="1976" y="349"/>
+      <point x="1965" y="349" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:54:16</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

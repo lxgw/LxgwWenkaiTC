@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u0332" format="2">
+  <advance height="1000"/>
+  <unicode hex="0332"/>
+  <outline>
+    <contour>
+      <point x="-495" y="-162" type="line" smooth="yes"/>
+      <point x="-514" y="-162"/>
+      <point x="-514" y="-101"/>
+      <point x="-495" y="-101" type="qcurve" smooth="yes"/>
+      <point x="-5" y="-101" type="line" smooth="yes"/>
+      <point x="14" y="-101"/>
+      <point x="14" y="-162"/>
+      <point x="-5" y="-162" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:53:20</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

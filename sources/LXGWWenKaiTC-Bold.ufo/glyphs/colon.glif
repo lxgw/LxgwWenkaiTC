@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon" format="2">
+  <advance height="1000" width="350"/>
+  <unicode hex="003A"/>
+  <outline>
+    <contour>
+      <point x="236" y="411" type="qcurve" smooth="yes"/>
+      <point x="236" y="388"/>
+      <point x="208" y="358"/>
+      <point x="154" y="358"/>
+      <point x="119" y="403"/>
+      <point x="119" y="451"/>
+      <point x="153" y="478"/>
+      <point x="176" y="478" type="qcurve" smooth="yes"/>
+      <point x="200" y="478"/>
+      <point x="236" y="433"/>
+    </contour>
+    <contour>
+      <point x="236" y="40" type="qcurve" smooth="yes"/>
+      <point x="236" y="17"/>
+      <point x="208" y="-13"/>
+      <point x="154" y="-13"/>
+      <point x="119" y="32"/>
+      <point x="119" y="80"/>
+      <point x="153" y="107"/>
+      <point x="176" y="107" type="qcurve" smooth="yes"/>
+      <point x="200" y="107"/>
+      <point x="236" y="62"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:54:09</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2C65" format="2">
+  <advance height="1000" width="500"/>
+  <unicode hex="2C65"/>
+  <outline>
+    <contour>
+      <point x="144" y="-110" type="qcurve" smooth="yes"/>
+      <point x="140" y="-123"/>
+      <point x="114" y="-123"/>
+      <point x="88" y="-100"/>
+      <point x="88" y="-78"/>
+      <point x="91" y="-72" type="qcurve" smooth="yes"/>
+      <point x="109" y="-39"/>
+      <point x="119" y="-11" type="qcurve" smooth="yes"/>
+      <point x="307" y="514" type="line" smooth="yes"/>
+      <point x="322" y="556"/>
+      <point x="331" y="592" type="qcurve" smooth="yes"/>
+      <point x="334" y="605"/>
+      <point x="353" y="605"/>
+      <point x="364" y="598" type="qcurve" smooth="yes"/>
+      <point x="389" y="579"/>
+      <point x="389" y="563" type="qcurve" smooth="yes"/>
+      <point x="389" y="560"/>
+      <point x="373" y="530"/>
+      <point x="360" y="494" type="qcurve" smooth="yes"/>
+      <point x="170" y="-34" type="line" smooth="yes"/>
+      <point x="153" y="-81"/>
+    </contour>
+    <component base="a"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>a</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>a</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:54:16</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

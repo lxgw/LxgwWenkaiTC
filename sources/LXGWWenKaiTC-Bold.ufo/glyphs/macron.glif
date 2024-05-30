@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron" format="2">
+  <advance height="1000" width="500"/>
+  <unicode hex="00AF"/>
+  <outline>
+    <contour>
+      <point x="365" y="611" type="line" smooth="yes"/>
+      <point x="379" y="611"/>
+      <point x="394" y="635"/>
+      <point x="394" y="649" type="qcurve" smooth="yes"/>
+      <point x="394" y="662"/>
+      <point x="380" y="685"/>
+      <point x="366" y="685" type="qcurve" smooth="yes"/>
+      <point x="138" y="685" type="line" smooth="yes"/>
+      <point x="123" y="685"/>
+      <point x="108" y="661"/>
+      <point x="108" y="648" type="qcurve" smooth="yes"/>
+      <point x="108" y="634"/>
+      <point x="123" y="611"/>
+      <point x="137" y="611" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:54:09</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

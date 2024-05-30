@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave" format="2">
+  <advance height="500" width="500"/>
+  <unicode hex="0060"/>
+  <outline>
+    <contour>
+      <point x="329" y="574" type="qcurve" smooth="yes"/>
+      <point x="348" y="574"/>
+      <point x="348" y="591" type="qcurve" smooth="yes"/>
+      <point x="348" y="612"/>
+      <point x="213" y="711" type="qcurve" smooth="yes"/>
+      <point x="209" y="713"/>
+      <point x="202" y="713" type="qcurve" smooth="yes"/>
+      <point x="194" y="713"/>
+      <point x="168" y="693"/>
+      <point x="148" y="668"/>
+      <point x="148" y="660" type="qcurve" smooth="yes"/>
+      <point x="148" y="653"/>
+      <point x="155" y="649" type="qcurve" smooth="yes"/>
+      <point x="200" y="631"/>
+      <point x="287" y="598"/>
+      <point x="323" y="574"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:54:16</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

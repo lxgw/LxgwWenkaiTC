@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u0220" format="2">
+  <advance height="1000" width="500"/>
+  <unicode hex="0220"/>
+  <outline>
+    <contour>
+      <point x="419" y="-174" type="qcurve" smooth="yes"/>
+      <point x="402" y="-174"/>
+      <point x="363" y="-156"/>
+      <point x="363" y="-140" type="qcurve" smooth="yes"/>
+      <point x="364" y="-132"/>
+      <point x="364" y="-93"/>
+      <point x="365" y="-73" type="qcurve" smooth="yes"/>
+      <point x="365" y="519" type="line" smooth="yes"/>
+      <point x="365" y="578"/>
+      <point x="338" y="643"/>
+      <point x="300" y="643" type="qcurve" smooth="yes"/>
+      <point x="234" y="643"/>
+      <point x="190" y="590" type="qcurve" smooth="yes"/>
+      <point x="148" y="537"/>
+      <point x="143" y="455" type="qcurve" smooth="yes"/>
+      <point x="139" y="410"/>
+      <point x="139" y="79" type="qcurve" smooth="yes"/>
+      <point x="139" y="56"/>
+      <point x="141" y="-2" type="qcurve" smooth="yes"/>
+      <point x="141" y="-17"/>
+      <point x="115" y="-17" type="qcurve" smooth="yes"/>
+      <point x="98" y="-17"/>
+      <point x="59" y="1"/>
+      <point x="59" y="17" type="qcurve" smooth="yes"/>
+      <point x="59" y="44"/>
+      <point x="61" y="88" type="qcurve" smooth="yes"/>
+      <point x="61" y="621" type="line" smooth="yes"/>
+      <point x="58" y="684"/>
+      <point x="58" y="697" type="qcurve" smooth="yes"/>
+      <point x="58" y="713"/>
+      <point x="84" y="713" type="qcurve" smooth="yes"/>
+      <point x="101" y="713"/>
+      <point x="140" y="695"/>
+      <point x="140" y="679" type="qcurve" smooth="yes"/>
+      <point x="139" y="637" type="line"/>
+      <point x="151" y="658"/>
+      <point x="247" y="717"/>
+      <point x="300" y="717" type="qcurve" smooth="yes"/>
+      <point x="387" y="717"/>
+      <point x="419" y="650" type="qcurve" smooth="yes"/>
+      <point x="442" y="601"/>
+      <point x="442" y="523" type="qcurve" smooth="yes"/>
+      <point x="442" y="-58"/>
+      <point x="443" y="-79" type="qcurve" smooth="yes"/>
+      <point x="445" y="-124"/>
+      <point x="445" y="-159" type="qcurve" smooth="yes"/>
+      <point x="445" y="-174"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:53:57</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

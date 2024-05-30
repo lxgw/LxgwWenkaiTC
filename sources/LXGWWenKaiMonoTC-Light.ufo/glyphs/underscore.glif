@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="underscore" format="2">
+  <advance height="500" width="500"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="476" y="-160" type="line" smooth="yes"/>
+      <point x="492" y="-160"/>
+      <point x="492" y="-109"/>
+      <point x="476" y="-109" type="qcurve" smooth="yes"/>
+      <point x="26" y="-109" type="line" smooth="yes"/>
+      <point x="9" y="-109"/>
+      <point x="9" y="-160"/>
+      <point x="26" y="-160" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:54:21</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

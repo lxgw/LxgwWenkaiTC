@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon" format="2">
+  <advance height="1000" width="500"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="195" y="-1" type="qcurve" smooth="yes"/>
+      <point x="188" y="-1"/>
+      <point x="179" y="9"/>
+      <point x="179" y="24"/>
+      <point x="185" y="26" type="qcurve" smooth="yes"/>
+      <point x="245" y="69"/>
+      <point x="255" y="115" type="qcurve"/>
+      <point x="241" y="122"/>
+      <point x="239" y="123" type="qcurve" smooth="yes"/>
+      <point x="211" y="147"/>
+      <point x="211" y="179" type="qcurve" smooth="yes"/>
+      <point x="211" y="231"/>
+      <point x="260" y="231" type="qcurve" smooth="yes"/>
+      <point x="284" y="231"/>
+      <point x="315" y="191"/>
+      <point x="319" y="158"/>
+      <point x="320" y="157" type="qcurve" smooth="yes"/>
+      <point x="320" y="151" type="line" smooth="yes"/>
+      <point x="320" y="99"/>
+      <point x="219" y="-1"/>
+    </contour>
+    <contour>
+      <point x="269" y="477" type="qcurve" smooth="yes"/>
+      <point x="245" y="477"/>
+      <point x="208" y="521"/>
+      <point x="208" y="544" type="qcurve" smooth="yes"/>
+      <point x="208" y="593"/>
+      <point x="257" y="597" type="qcurve" smooth="yes"/>
+      <point x="279" y="597"/>
+      <point x="317" y="551"/>
+      <point x="317" y="527" type="qcurve" smooth="yes"/>
+      <point x="317" y="477"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:54:21</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

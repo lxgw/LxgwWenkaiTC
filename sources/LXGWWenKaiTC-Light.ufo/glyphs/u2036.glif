@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u2036" format="2">
+  <advance height="1000" width="388"/>
+  <unicode hex="2036"/>
+  <outline>
+    <contour>
+      <point x="277" y="588" type="qcurve" smooth="yes"/>
+      <point x="199" y="784" type="line" smooth="yes"/>
+      <point x="198" y="785"/>
+      <point x="198" y="787" type="qcurve" smooth="yes"/>
+      <point x="198" y="797"/>
+      <point x="227" y="814"/>
+      <point x="257" y="814"/>
+      <point x="259" y="805" type="qcurve" smooth="yes"/>
+      <point x="326" y="604" type="line" smooth="yes"/>
+      <point x="326" y="602"/>
+      <point x="326" y="596"/>
+      <point x="301" y="582"/>
+      <point x="279" y="582"/>
+    </contour>
+    <contour>
+      <point x="148" y="581" type="qcurve" smooth="yes"/>
+      <point x="70" y="777" type="line" smooth="yes"/>
+      <point x="69" y="778"/>
+      <point x="69" y="780" type="qcurve" smooth="yes"/>
+      <point x="69" y="790"/>
+      <point x="98" y="807"/>
+      <point x="128" y="807"/>
+      <point x="130" y="798" type="qcurve" smooth="yes"/>
+      <point x="197" y="597" type="line" smooth="yes"/>
+      <point x="197" y="595"/>
+      <point x="197" y="589"/>
+      <point x="172" y="575"/>
+      <point x="150" y="575"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:54:03</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

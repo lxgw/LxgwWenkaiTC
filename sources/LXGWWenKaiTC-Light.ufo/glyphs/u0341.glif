@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u0341" format="2">
+  <advance height="1000"/>
+  <unicode hex="0341"/>
+  <outline>
+    <contour>
+      <point x="-92" y="580" type="qcurve" smooth="yes"/>
+      <point x="-96" y="580"/>
+      <point x="-99" y="584" type="qcurve" smooth="yes"/>
+      <point x="-103" y="587"/>
+      <point x="-103" y="591" type="qcurve" smooth="yes"/>
+      <point x="-103" y="596"/>
+      <point x="-85" y="615" type="qcurve" smooth="yes"/>
+      <point x="-67" y="634"/>
+      <point x="44" y="709" type="qcurve" smooth="yes"/>
+      <point x="46" y="709"/>
+      <point x="51" y="709" type="qcurve" smooth="yes"/>
+      <point x="56" y="709"/>
+      <point x="68" y="701" type="qcurve" smooth="yes"/>
+      <point x="102" y="677"/>
+      <point x="102" y="660" type="qcurve" smooth="yes"/>
+      <point x="102" y="656"/>
+      <point x="98" y="655" type="qcurve" smooth="yes"/>
+      <point x="49" y="637"/>
+      <point x="1" y="620" type="qcurve" smooth="yes"/>
+      <point x="-48" y="603"/>
+      <point x="-68" y="591" type="qcurve" smooth="yes"/>
+      <point x="-87" y="580"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:54:03</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal" format="2">
+  <advance height="1000" width="600"/>
+  <unicode hex="003D"/>
+  <outline>
+    <contour>
+      <point x="79" y="318" type="line" smooth="yes"/>
+      <point x="71" y="318"/>
+      <point x="61" y="339"/>
+      <point x="61" y="350" type="qcurve" smooth="yes"/>
+      <point x="61" y="371"/>
+      <point x="76" y="371" type="qcurve" smooth="yes"/>
+      <point x="106" y="369"/>
+      <point x="158" y="369" type="qcurve" smooth="yes"/>
+      <point x="445" y="369" type="line" smooth="yes"/>
+      <point x="474" y="369"/>
+      <point x="516" y="372" type="qcurve" smooth="yes"/>
+      <point x="517" y="372" type="line" smooth="yes"/>
+      <point x="527" y="372"/>
+      <point x="539" y="349"/>
+      <point x="539" y="319"/>
+      <point x="525" y="319" type="qcurve" smooth="yes"/>
+      <point x="444" y="321" type="line"/>
+      <point x="157" y="321" type="line" smooth="yes"/>
+      <point x="99" y="321"/>
+      <point x="81" y="318" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="79" y="128" type="line" smooth="yes"/>
+      <point x="71" y="128"/>
+      <point x="61" y="149"/>
+      <point x="61" y="160" type="qcurve" smooth="yes"/>
+      <point x="61" y="181"/>
+      <point x="76" y="181" type="qcurve" smooth="yes"/>
+      <point x="106" y="179"/>
+      <point x="158" y="179" type="qcurve" smooth="yes"/>
+      <point x="445" y="179" type="line" smooth="yes"/>
+      <point x="474" y="179"/>
+      <point x="516" y="182" type="qcurve" smooth="yes"/>
+      <point x="517" y="182" type="line" smooth="yes"/>
+      <point x="527" y="182"/>
+      <point x="539" y="159"/>
+      <point x="539" y="129"/>
+      <point x="525" y="129" type="qcurve" smooth="yes"/>
+      <point x="444" y="131" type="line"/>
+      <point x="157" y="131" type="line" smooth="yes"/>
+      <point x="99" y="131"/>
+      <point x="81" y="128" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:54:03</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

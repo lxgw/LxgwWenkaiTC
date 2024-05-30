@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1FC0" format="2">
+  <advance height="1000" width="500"/>
+  <unicode hex="1FC0"/>
+  <outline>
+    <contour>
+      <point x="113" y="591" type="qcurve" smooth="yes"/>
+      <point x="100" y="591"/>
+      <point x="100" y="603" type="qcurve" smooth="yes"/>
+      <point x="100" y="616"/>
+      <point x="111" y="637" type="qcurve" smooth="yes"/>
+      <point x="122" y="658"/>
+      <point x="143" y="675" type="qcurve" smooth="yes"/>
+      <point x="163" y="692"/>
+      <point x="191" y="692" type="qcurve" smooth="yes"/>
+      <point x="220" y="692"/>
+      <point x="238" y="680" type="qcurve" smooth="yes"/>
+      <point x="258" y="667"/>
+      <point x="274" y="655" type="qcurve" smooth="yes"/>
+      <point x="291" y="641"/>
+      <point x="312" y="641" type="qcurve" smooth="yes"/>
+      <point x="356" y="641"/>
+      <point x="377" y="686" type="qcurve" smooth="yes"/>
+      <point x="382" y="695"/>
+      <point x="387" y="695" type="qcurve" smooth="yes"/>
+      <point x="399" y="695"/>
+      <point x="399" y="683" type="qcurve" smooth="yes"/>
+      <point x="399" y="680"/>
+      <point x="398" y="678" type="qcurve" smooth="yes"/>
+      <point x="398" y="677" type="line"/>
+      <point x="391" y="647"/>
+      <point x="367" y="620" type="qcurve" smooth="yes"/>
+      <point x="344" y="594"/>
+      <point x="312" y="594" type="qcurve" smooth="yes"/>
+      <point x="279" y="594"/>
+      <point x="261" y="606" type="qcurve" smooth="yes"/>
+      <point x="241" y="618"/>
+      <point x="225" y="631" type="qcurve" smooth="yes"/>
+      <point x="208" y="645"/>
+      <point x="187" y="645" type="qcurve" smooth="yes"/>
+      <point x="143" y="645"/>
+      <point x="122" y="600" type="qcurve" smooth="yes"/>
+      <point x="117" y="591"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:54:21</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

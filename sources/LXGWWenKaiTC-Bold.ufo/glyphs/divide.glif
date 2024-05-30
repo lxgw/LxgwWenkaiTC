@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divide" format="2">
+  <advance height="1000" width="600"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="54" y="216" type="qcurve" smooth="yes"/>
+      <point x="39" y="216"/>
+      <point x="24" y="248"/>
+      <point x="24" y="263" type="qcurve" smooth="yes"/>
+      <point x="24" y="295"/>
+      <point x="49" y="295" type="qcurve" smooth="yes"/>
+      <point x="79" y="293"/>
+      <point x="301" y="293" type="qcurve" smooth="yes"/>
+      <point x="477" y="293"/>
+      <point x="540" y="296" type="qcurve" smooth="yes"/>
+      <point x="557" y="296"/>
+      <point x="574" y="264"/>
+      <point x="574" y="248" type="qcurve" smooth="yes"/>
+      <point x="574" y="217"/>
+      <point x="550" y="217" type="qcurve" smooth="yes"/>
+      <point x="469" y="219" type="line"/>
+      <point x="73" y="219"/>
+    </contour>
+    <contour>
+      <point x="369" y="64" type="qcurve" smooth="yes"/>
+      <point x="369" y="29"/>
+      <point x="335" y="-7"/>
+      <point x="285" y="-7"/>
+      <point x="250" y="19"/>
+      <point x="229" y="57"/>
+      <point x="229" y="107"/>
+      <point x="262" y="144"/>
+      <point x="288" y="144" type="qcurve" smooth="yes"/>
+      <point x="312" y="144"/>
+      <point x="330" y="131" type="qcurve" smooth="yes"/>
+      <point x="369" y="100"/>
+    </contour>
+    <contour>
+      <point x="369" y="438" type="qcurve" smooth="yes"/>
+      <point x="369" y="403"/>
+      <point x="335" y="367"/>
+      <point x="285" y="367"/>
+      <point x="250" y="393"/>
+      <point x="229" y="431"/>
+      <point x="229" y="481"/>
+      <point x="262" y="518"/>
+      <point x="288" y="518" type="qcurve" smooth="yes"/>
+      <point x="312" y="518"/>
+      <point x="330" y="505" type="qcurve" smooth="yes"/>
+      <point x="369" y="474"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:54:09</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

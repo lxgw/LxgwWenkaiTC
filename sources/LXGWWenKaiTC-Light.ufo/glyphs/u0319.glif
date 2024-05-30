@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u0319" format="2">
+  <advance height="1000"/>
+  <unicode hex="0319"/>
+  <outline>
+    <contour>
+      <point x="-376" y="-205" type="line"/>
+      <point x="-376" y="-63" type="line"/>
+      <point x="-324" y="-63" type="line"/>
+      <point x="-324" y="-112" type="line"/>
+      <point x="-159" y="-112" type="line"/>
+      <point x="-159" y="-156" type="line"/>
+      <point x="-324" y="-156" type="line"/>
+      <point x="-324" y="-205" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:54:03</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

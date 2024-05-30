@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u309A" format="2">
+  <advance height="1000"/>
+  <unicode hex="309A"/>
+  <outline>
+    <contour>
+      <point x="217" y="745"/>
+      <point x="217" y="666"/>
+      <point x="161" y="610"/>
+      <point x="82" y="610"/>
+      <point x="27" y="666"/>
+      <point x="27" y="745"/>
+      <point x="82" y="800"/>
+      <point x="161" y="800"/>
+    </contour>
+    <contour>
+      <point x="96" y="643"/>
+      <point x="147" y="643"/>
+      <point x="183" y="681"/>
+      <point x="183" y="730"/>
+      <point x="147" y="767"/>
+      <point x="96" y="767"/>
+      <point x="60" y="730"/>
+      <point x="60" y="681"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:54:03</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

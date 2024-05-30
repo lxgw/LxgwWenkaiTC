@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotadieresis" format="2">
+  <advance height="1000" width="294"/>
+  <unicode hex="03CA"/>
+  <outline>
+    <contour>
+      <point x="185" y="-6" type="qcurve" smooth="yes"/>
+      <point x="79" y="-6"/>
+      <point x="85" y="143" type="qcurve" smooth="yes"/>
+      <point x="92" y="364" type="line" smooth="yes"/>
+      <point x="95" y="418"/>
+      <point x="93" y="470" type="qcurve" smooth="yes"/>
+      <point x="94" y="474"/>
+      <point x="111" y="474"/>
+      <point x="125" y="469" type="qcurve" smooth="yes"/>
+      <point x="156" y="458"/>
+      <point x="158" y="443" type="qcurve" smooth="yes"/>
+      <point x="158" y="442" type="line"/>
+      <point x="159" y="440" type="line"/>
+      <point x="152" y="353" type="line"/>
+      <point x="147" y="135" type="line" smooth="yes"/>
+      <point x="146" y="109"/>
+      <point x="151" y="58"/>
+      <point x="185" y="47"/>
+      <point x="201" y="47" type="qcurve" smooth="yes"/>
+      <point x="247" y="47"/>
+      <point x="277" y="72" type="qcurve" smooth="yes"/>
+      <point x="292" y="84"/>
+      <point x="300" y="84" type="qcurve" smooth="yes"/>
+      <point x="306" y="84"/>
+      <point x="308" y="63"/>
+      <point x="274" y="23"/>
+      <point x="217" y="-6"/>
+    </contour>
+    <contour>
+      <point x="6" y="629" type="qcurve" smooth="yes"/>
+      <point x="-1" y="641"/>
+      <point x="-1" y="673"/>
+      <point x="20" y="696"/>
+      <point x="58" y="696"/>
+      <point x="90" y="660"/>
+      <point x="90" y="620"/>
+      <point x="68" y="597"/>
+      <point x="23" y="597"/>
+    </contour>
+    <contour>
+      <point x="251" y="597"/>
+      <point x="213" y="597"/>
+      <point x="182" y="635"/>
+      <point x="182" y="673"/>
+      <point x="203" y="696"/>
+      <point x="241" y="696"/>
+      <point x="273" y="660"/>
+      <point x="273" y="620"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:54:03</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

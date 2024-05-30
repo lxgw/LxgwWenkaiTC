@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u02CA" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="02CA"/>
+  <outline>
+    <contour>
+      <point x="344" y="428" type="qcurve" smooth="yes"/>
+      <point x="340" y="425"/>
+      <point x="321" y="430" type="qcurve"/>
+      <point x="287" y="453"/>
+      <point x="283" y="455" type="qcurve" smooth="yes"/>
+      <point x="269" y="463"/>
+      <point x="296" y="484" type="qcurve" smooth="yes"/>
+      <point x="429" y="594"/>
+      <point x="522" y="683" type="qcurve" smooth="yes"/>
+      <point x="664" y="824" type="line" smooth="yes"/>
+      <point x="672" y="830"/>
+      <point x="680" y="830"/>
+      <point x="683" y="827" type="qcurve" smooth="yes"/>
+      <point x="686" y="824"/>
+      <point x="686" y="815"/>
+      <point x="667" y="789"/>
+      <point x="419" y="482"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:54:21</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

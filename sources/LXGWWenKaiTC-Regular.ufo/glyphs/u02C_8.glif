@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u02C8" format="2">
+  <advance height="1000" width="200"/>
+  <unicode hex="02C8"/>
+  <outline>
+    <contour>
+      <point x="100" y="528" type="qcurve" smooth="yes"/>
+      <point x="93" y="528"/>
+      <point x="80" y="536"/>
+      <point x="79" y="544" type="qcurve" smooth="yes"/>
+      <point x="63" y="795" type="line" smooth="yes"/>
+      <point x="62" y="805"/>
+      <point x="85" y="817"/>
+      <point x="115" y="817"/>
+      <point x="137" y="806"/>
+      <point x="137" y="796" type="qcurve" smooth="yes"/>
+      <point x="137" y="795" type="line"/>
+      <point x="121" y="544" type="line" smooth="yes"/>
+      <point x="120" y="536"/>
+      <point x="108" y="528"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:53:20</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

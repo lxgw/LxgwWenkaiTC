@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u033B" format="2">
+  <advance height="1000"/>
+  <unicode hex="033B"/>
+  <outline>
+    <contour>
+      <point x="-381" y="-210" type="line"/>
+      <point x="-381" y="-58" type="line"/>
+      <point x="-119" y="-58" type="line"/>
+      <point x="-119" y="-210" type="line"/>
+    </contour>
+    <contour>
+      <point x="-319" y="-165" type="line"/>
+      <point x="-181" y="-165" type="line"/>
+      <point x="-181" y="-103" type="line"/>
+      <point x="-319" y="-103" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:53:20</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

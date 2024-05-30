@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uA4FC" format="2">
+  <advance height="1000" width="373"/>
+  <unicode hex="A4FC"/>
+  <outline>
+    <contour>
+      <point x="123" y="-13" type="qcurve" smooth="yes"/>
+      <point x="114" y="-13"/>
+      <point x="106" y="-2"/>
+      <point x="106" y="4" type="qcurve" smooth="yes"/>
+      <point x="106" y="14"/>
+      <point x="113" y="19" type="qcurve" smooth="yes"/>
+      <point x="137" y="34"/>
+      <point x="177" y="81"/>
+      <point x="182" y="104" type="qcurve" smooth="yes"/>
+      <point x="179" y="106"/>
+      <point x="158" y="110"/>
+      <point x="155" y="112" type="qcurve" smooth="yes"/>
+      <point x="144" y="121"/>
+      <point x="125" y="149"/>
+      <point x="125" y="169" type="qcurve" smooth="yes"/>
+      <point x="125" y="195"/>
+      <point x="164" y="224"/>
+      <point x="189" y="224" type="qcurve" smooth="yes"/>
+      <point x="213" y="224"/>
+      <point x="246" y="182"/>
+      <point x="250" y="152" type="qcurve" smooth="yes"/>
+      <point x="250" y="148"/>
+      <point x="251" y="147" type="qcurve" smooth="yes"/>
+      <point x="251" y="141" type="line" smooth="yes"/>
+      <point x="251" y="100"/>
+      <point x="183" y="13"/>
+      <point x="132" y="-10" type="qcurve" smooth="yes"/>
+      <point x="131" y="-10"/>
+      <point x="128" y="-13"/>
+    </contour>
+    <contour>
+      <point x="190" y="460" type="qcurve" smooth="yes"/>
+      <point x="165" y="460"/>
+      <point x="127" y="509"/>
+      <point x="127" y="532" type="qcurve" smooth="yes"/>
+      <point x="127" y="561"/>
+      <point x="163" y="590"/>
+      <point x="190" y="590" type="qcurve" smooth="yes"/>
+      <point x="213" y="590"/>
+      <point x="253" y="541"/>
+      <point x="253" y="515" type="qcurve" smooth="yes"/>
+      <point x="253" y="491"/>
+      <point x="223" y="460"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:53:20</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

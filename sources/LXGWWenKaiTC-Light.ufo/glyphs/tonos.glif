@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tonos" format="2">
+  <advance height="1000" width="286"/>
+  <unicode hex="0384"/>
+  <outline>
+    <contour>
+      <point x="131" y="578" type="line" smooth="yes"/>
+      <point x="129" y="572"/>
+      <point x="107" y="572"/>
+      <point x="82" y="586"/>
+      <point x="82" y="590" type="qcurve" smooth="yes"/>
+      <point x="82" y="594" type="line"/>
+      <point x="133" y="750" type="line" smooth="yes"/>
+      <point x="135" y="759"/>
+      <point x="165" y="759"/>
+      <point x="194" y="742"/>
+      <point x="194" y="732" type="qcurve" smooth="yes"/>
+      <point x="194" y="730"/>
+      <point x="193" y="729" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:54:03</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

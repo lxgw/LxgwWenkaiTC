@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period" format="2">
+  <advance height="1000" width="350"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="180" y="-8" type="qcurve" smooth="yes"/>
+      <point x="159" y="-8"/>
+      <point x="127" y="32"/>
+      <point x="127" y="51" type="qcurve" smooth="yes"/>
+      <point x="127" y="97"/>
+      <point x="170" y="97" type="qcurve" smooth="yes"/>
+      <point x="189" y="97"/>
+      <point x="223" y="58"/>
+      <point x="223" y="37" type="qcurve" smooth="yes"/>
+      <point x="223" y="-8"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:54:03</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>
