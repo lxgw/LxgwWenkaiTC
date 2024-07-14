@@ -103,7 +103,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 
 ## 更多「霞鶩」系列字型
 ### 「霞鶩文楷」系列
-- 霞鶩文楷 TC / LXGW WenKai TC(https://github.com/lxgw/LxgwWenKaiTC)
+- 霞鶩文楷 TC / LXGW WenKai TC
 - [霞鶩文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenKaiGB) | [Lite](https://github.com/lxgw/LxgwWenKaiGB-Lite)
 - [霞鶩文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [Lite](https://github.com/lxgw/LxgwWenKai-Lite)
 ### 「晰緻尚銘」系列
