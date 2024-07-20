@@ -98,7 +98,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 ## 由本字型衍生的字型
 - [皓月楷 & 繁星楷](https://github.com/GuiWonder/MoonStarsKai)
 - [末綺楷書 / Astalia](https://github.com/Ayaginu-Sue/Astalia)
-- [Ｙ式書體 / YshiShuti](https://github.com/Steve-Yuu/YshiShuti)
+- [Ｙ式筆書體 / YshiPen-Shuti](https://github.com/Steve-Yuu/YshiPen-Shuti)
 - [混菜寫楷 / Mixed-VsWeKai](https://github.com/FWHP-Enfun/Mixed-VsWeKai)
 
 ## 更多「霞鶩」系列字型
