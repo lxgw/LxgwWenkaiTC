@@ -1,19 +1,79 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uni04F5" format="2">
+<glyph name="u04F5" format="2">
   <advance height="1000" width="578"/>
   <unicode hex="04F5"/>
   <outline>
-    <component base="u0447"/>
-    <component base="u0308" xOffset="535"/>
+    <contour>
+      <point x="219" y="592"/>
+      <point x="177" y="592"/>
+      <point x="143" y="633"/>
+      <point x="143" y="675"/>
+      <point x="167" y="701"/>
+      <point x="209" y="701"/>
+      <point x="244" y="662"/>
+      <point x="244" y="618"/>
+    </contour>
+    <contour>
+      <point x="402" y="592"/>
+      <point x="360" y="592"/>
+      <point x="326" y="633"/>
+      <point x="326" y="675"/>
+      <point x="350" y="701"/>
+      <point x="392" y="701"/>
+      <point x="427" y="662"/>
+      <point x="427" y="618"/>
+    </contour>
+    <contour>
+      <point x="489" y="0" type="line"/>
+      <point x="489" y="-10"/>
+      <point x="454" y="-10"/>
+      <point x="417" y="5"/>
+      <point x="417" y="18" type="qcurve"/>
+      <point x="419" y="106" type="line"/>
+      <point x="419" y="205" type="line"/>
+      <point x="391" y="145"/>
+      <point x="300" y="81"/>
+      <point x="184" y="81"/>
+      <point x="151" y="108" type="qcurve"/>
+      <point x="91" y="157"/>
+      <point x="91" y="271" type="qcurve"/>
+      <point x="91" y="364" type="line"/>
+      <point x="89" y="470" type="line"/>
+      <point x="89" y="481"/>
+      <point x="125" y="481"/>
+      <point x="160" y="465"/>
+      <point x="160" y="452" type="qcurve"/>
+      <point x="158" y="364" type="line"/>
+      <point x="158" y="275" type="line"/>
+      <point x="158" y="208"/>
+      <point x="196" y="144"/>
+      <point x="287" y="144"/>
+      <point x="368" y="208"/>
+      <point x="419" y="318"/>
+      <point x="419" y="385" type="qcurve"/>
+      <point x="417" y="463" type="line"/>
+      <point x="417" y="473" type="line"/>
+      <point x="417" y="483"/>
+      <point x="452" y="483"/>
+      <point x="488" y="467"/>
+      <point x="488" y="454" type="qcurve"/>
+      <point x="486" y="365" type="line"/>
+      <point x="486" y="106" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>u0447</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>u0447</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024/05/13 22:25:24</string>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>6700ea47477b8dbb7d20202d1b853ab7484d18c6becf11a3df450e3177cca7184732d197ffbfa4fd77be3b49241ba00293990783c5e5ee186d7de36f4f6c1e8c</string>
+      </dict>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

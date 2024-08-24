@@ -476,8 +476,6 @@
     <string>epsilontonos.glif</string>
     <key>equal</key>
     <string>equal.glif</string>
-    <key>estimated</key>
-    <string>estimated.glif</string>
     <key>eta</key>
     <string>eta.glif</string>
     <key>etatonos</key>
@@ -3450,5 +3448,43 @@
     <string>zero.glif</string>
     <key>zeta</key>
     <string>zeta.glif</string>
+    <key>u1EFC</key>
+    <string>u1E_F_C_.glif</string>
+    <key>u1EFD</key>
+    <string>u1E_F_D_.glif</string>
+    <key>u1EFE</key>
+    <string>u1E_F_E_.glif</string>
+    <key>u1EFF</key>
+    <string>u1E_F_F_.glif</string>
+    <key>u20B0</key>
+    <string>u20B_0.glif</string>
+    <key>u20B1</key>
+    <string>u20B_1.glif</string>
+    <key>u20B2</key>
+    <string>u20B_2.glif</string>
+    <key>u20B3</key>
+    <string>u20B_3.glif</string>
+    <key>u20B5</key>
+    <string>u20B_5.glif</string>
+    <key>u20B6</key>
+    <string>u20B_6.glif</string>
+    <key>u20B7</key>
+    <string>u20B_7.glif</string>
+    <key>u20B8</key>
+    <string>u20B_8.glif</string>
+    <key>u20BA</key>
+    <string>u20B_A_.glif</string>
+    <key>u20BB</key>
+    <string>u20B_B_.glif</string>
+    <key>u20BC</key>
+    <string>u20B_C_.glif</string>
+    <key>u20BE</key>
+    <string>u20B_E_.glif</string>
+    <key>u20BF</key>
+    <string>u20B_F_.glif</string>
+    <key>u20C0</key>
+    <string>u20C_0.glif</string>
+    <key>u2120</key>
+    <string>u2120.glif</string>
   </dict>
 </plist>

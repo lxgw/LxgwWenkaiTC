@@ -10,3 +10,4 @@ buildOTF: False
 buildTTF: True
 buildWebfont: False
 autohintTTF: False
+reverseOutlineDirection: False

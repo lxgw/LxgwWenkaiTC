@@ -4,103 +4,144 @@
   <unicode hex="1E28"/>
   <outline>
     <contour>
-      <point x="-15" y="-163" type="qcurve" smooth="yes"/>
-      <point x="-28" y="-155"/>
-      <point x="-28" y="-136" type="qcurve" smooth="yes"/>
-      <point x="-28" y="-120"/>
-      <point x="-16" y="-91"/>
-      <point x="-6" y="-91" type="qcurve" smooth="yes"/>
-      <point x="1" y="-91"/>
-      <point x="14" y="-100" type="qcurve" smooth="yes"/>
-      <point x="41" y="-119"/>
-      <point x="97" y="-119"/>
-      <point x="114" y="-110"/>
-      <point x="114" y="-98" type="qcurve" smooth="yes"/>
-      <point x="114" y="-78"/>
-      <point x="83" y="-78" type="qcurve" smooth="yes"/>
-      <point x="70" y="-78"/>
-      <point x="50" y="-82" type="qcurve"/>
-      <point x="44" y="-82" type="line" smooth="yes"/>
-      <point x="29" y="-82"/>
-      <point x="6" y="-61"/>
-      <point x="6" y="-49" type="qcurve" smooth="yes"/>
-      <point x="6" y="-40"/>
-      <point x="17" y="-10"/>
-      <point x="23" y="8" type="qcurve" smooth="yes"/>
-      <point x="30" y="29" type="line"/>
-      <point x="57" y="27" type="line"/>
-      <point x="58" y="55" type="line" smooth="yes"/>
-      <point x="59" y="80"/>
+      <point x="58" y="21" type="line"/>
+      <point x="59" y="54"/>
+      <point x="59" y="209"/>
       <point x="59" y="327" type="qcurve"/>
-      <point x="41" y="328"/>
-      <point x="32" y="348" type="qcurve" smooth="yes"/>
-      <point x="23" y="370"/>
-      <point x="23" y="385" type="qcurve" smooth="yes"/>
+      <point x="50" y="328"/>
+      <point x="37" y="340"/>
+      <point x="28" y="358"/>
+      <point x="23" y="378"/>
+      <point x="23" y="385" type="qcurve"/>
       <point x="23" y="408"/>
-      <point x="42" y="408" type="qcurve" smooth="yes"/>
+      <point x="42" y="408" type="qcurve"/>
       <point x="59" y="407" type="line"/>
-      <point x="59" y="621"/>
-      <point x="56" y="678"/>
-      <point x="56" y="695" type="qcurve" smooth="yes"/>
+      <point x="59" y="514"/>
+      <point x="58" y="635"/>
+      <point x="58" y="649" type="qcurve"/>
+      <point x="57" y="663"/>
+      <point x="56" y="687"/>
+      <point x="56" y="695" type="qcurve"/>
       <point x="56" y="711"/>
-      <point x="83" y="711" type="qcurve" smooth="yes"/>
-      <point x="101" y="711"/>
-      <point x="140" y="693"/>
-      <point x="140" y="677" type="qcurve" smooth="yes"/>
-      <point x="140" y="665"/>
-      <point x="138" y="614"/>
+      <point x="83" y="711" type="qcurve"/>
+      <point x="102" y="711"/>
+      <point x="140" y="691"/>
+      <point x="140" y="677" type="qcurve"/>
+      <point x="140" y="671"/>
+      <point x="140" y="652"/>
+      <point x="139" y="639" type="qcurve"/>
+      <point x="138" y="626"/>
+      <point x="138" y="514"/>
       <point x="138" y="407" type="qcurve"/>
       <point x="286" y="414" type="line"/>
-      <point x="354" y="421" type="line"/>
+      <point x="303" y="416"/>
+      <point x="337" y="419"/>
+      <point x="354" y="421" type="qcurve"/>
       <point x="366" y="422" type="line"/>
-      <point x="366" y="621"/>
-      <point x="363" y="678"/>
-      <point x="363" y="695" type="qcurve" smooth="yes"/>
+      <point x="366" y="522"/>
+      <point x="365" y="635"/>
+      <point x="365" y="649" type="qcurve"/>
+      <point x="364" y="663"/>
+      <point x="363" y="687"/>
+      <point x="363" y="695" type="qcurve"/>
       <point x="363" y="711"/>
-      <point x="390" y="711" type="qcurve" smooth="yes"/>
-      <point x="407" y="711"/>
-      <point x="447" y="693"/>
-      <point x="447" y="665"/>
-      <point x="446" y="614"/>
-      <point x="446" y="106" type="qcurve" smooth="yes"/>
-      <point x="446" y="75"/>
-      <point x="448" y="17"/>
-      <point x="448" y="0" type="qcurve" smooth="yes"/>
+      <point x="390" y="711" type="qcurve"/>
+      <point x="399" y="711"/>
+      <point x="419" y="706"/>
+      <point x="436" y="697"/>
+      <point x="447" y="684"/>
+      <point x="447" y="677" type="qcurve"/>
+      <point x="447" y="671"/>
+      <point x="447" y="652"/>
+      <point x="446" y="639" type="qcurve"/>
+      <point x="446" y="106" type="line"/>
+      <point x="446" y="88"/>
+      <point x="447" y="53"/>
+      <point x="447" y="38" type="qcurve"/>
+      <point x="448" y="27"/>
+      <point x="448" y="8"/>
+      <point x="448" y="0" type="qcurve"/>
       <point x="448" y="-16"/>
-      <point x="421" y="-16" type="qcurve" smooth="yes"/>
-      <point x="405" y="-16"/>
-      <point x="364" y="2"/>
-      <point x="364" y="18" type="qcurve" smooth="yes"/>
-      <point x="364" y="30"/>
-      <point x="366" y="82"/>
+      <point x="421" y="-16" type="qcurve"/>
+      <point x="413" y="-16"/>
+      <point x="393" y="-11"/>
+      <point x="376" y="-2"/>
+      <point x="364" y="11"/>
+      <point x="364" y="18" type="qcurve"/>
+      <point x="364" y="24"/>
+      <point x="364" y="43"/>
+      <point x="365" y="56" type="qcurve"/>
+      <point x="366" y="70"/>
+      <point x="366" y="208"/>
       <point x="366" y="341" type="qcurve"/>
-      <point x="334" y="344"/>
-      <point x="310" y="344" type="qcurve" smooth="yes"/>
+      <point x="332" y="344"/>
+      <point x="310" y="344" type="qcurve"/>
       <point x="138" y="336" type="line"/>
-      <point x="138" y="74"/>
-      <point x="141" y="16"/>
-      <point x="141" y="-1" type="qcurve" smooth="yes"/>
-      <point x="141" y="-17"/>
-      <point x="114" y="-17" type="qcurve" smooth="yes"/>
-      <point x="102" y="-17"/>
-      <point x="96" y="-15" type="qcurve"/>
-      <point x="94" y="-19" type="line"/>
-      <point x="89" y="-20"/>
-      <point x="100" y="-20"/>
-      <point x="105" y="-20" type="qcurve" smooth="yes"/>
-      <point x="143" y="-20"/>
-      <point x="189" y="-59"/>
-      <point x="189" y="-139"/>
-      <point x="129" y="-186"/>
-      <point x="31" y="-186"/>
+      <point x="138" y="203"/>
+      <point x="138" y="60"/>
+      <point x="139" y="45" type="qcurve"/>
+      <point x="140" y="31"/>
+      <point x="141" y="7"/>
+      <point x="141" y="-1" type="qcurve"/>
+      <point x="141" y="-13"/>
+      <point x="126" y="-16" type="qcurve"/>
+      <point x="125" y="-20" type="line"/>
+      <point x="129" y="-20" type="line"/>
+      <point x="170" y="-20"/>
+      <point x="220" y="-54"/>
+      <point x="220" y="-99" type="qcurve"/>
+      <point x="220" y="-122"/>
+      <point x="201" y="-155"/>
+      <point x="170" y="-176"/>
+      <point x="131" y="-186"/>
+      <point x="111" y="-186" type="qcurve"/>
+      <point x="62" y="-186"/>
+      <point x="16" y="-163" type="qcurve"/>
+      <point x="9" y="-159"/>
+      <point x="3" y="-143"/>
+      <point x="3" y="-134" type="qcurve"/>
+      <point x="3" y="-130"/>
+      <point x="5" y="-115"/>
+      <point x="11" y="-101"/>
+      <point x="19" y="-91"/>
+      <point x="25" y="-91" type="qcurve"/>
+      <point x="33" y="-91"/>
+      <point x="45" y="-100" type="qcurve"/>
+      <point x="61" y="-111"/>
+      <point x="93" y="-119"/>
+      <point x="107" y="-119" type="qcurve"/>
+      <point x="120" y="-119"/>
+      <point x="145" y="-114"/>
+      <point x="145" y="-98" type="qcurve"/>
+      <point x="145" y="-78"/>
+      <point x="114" y="-78" type="qcurve"/>
+      <point x="98" y="-78"/>
+      <point x="81" y="-82" type="qcurve"/>
+      <point x="75" y="-82" type="line"/>
+      <point x="59" y="-82"/>
+      <point x="37" y="-60"/>
+      <point x="37" y="-50" type="qcurve"/>
+      <point x="37" y="-42"/>
+      <point x="43" y="-24"/>
+      <point x="47" y="-12" type="qcurve"/>
+      <point x="49" y="-7"/>
+      <point x="52" y="3"/>
+      <point x="54" y="8" type="qcurve"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024/05/16 16:53:57</string>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>f30a22b9226dd56cd5865eb08258cd824aa164651e1787e01a802603ef5ed511169d913de0835f37a2086dd3b8b1862123ab31121198e597b05bbf98306e4dbf</string>
+      </dict>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>
