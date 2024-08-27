@@ -806,17 +806,6 @@ lookup caltContextualAlternateslookup7 {
     sub [\zero \one \two \three \four \five \six \seven \eight \nine ] [\colon ]' [\zero \one \two \three \four \five \six \seven \eight \nine ]  by [\colon.calt ];
 } caltContextualAlternateslookup7;
 
-lookup ligaStandardLigatureslookup8 {
-  lookupflag 0;
-    sub \u0255 \uniFF12FF0FFF11FF11.afrc  by \four_slash_one_one.afrc;
-    sub \u025F \uniFF12FF0FFF11FF11.afrc  by \five_slash_one_one.afrc;
-    sub \ecircumflex \uniFF12FF0FFF11FF11.afrc  by \six_slash_one_one.afrc;
-    sub \u0258 \uniFF12FF0FFF11FF11.afrc  by \u3319.vert;
-    sub \u025D \uniFF12FF0FFF11FF11.afrc  by \uni30AF30EB30B630FC30C9.dlig.1;
-    sub \u025E \uniFF12FF0FFF11FF11.afrc  by \u331A.vert;
-    sub \u0290 \uniFF12FF0FFF11FF11.afrc  by \u331B.vert;
-} ligaStandardLigatureslookup8;
-
 lookup saltStylisticAlternativeslookup9 {
   lookupflag 0;
     sub \a by \a.salt ;
@@ -2909,20 +2898,6 @@ feature calt {
      language dflt ;
       lookup caltContextualAlternateslookup7;
 } calt;
-
-feature liga {
- script DFLT;
-     language dflt ;
-      lookup ligaStandardLigatureslookup8;
-
- script hani;
-     language dflt ;
-      lookup ligaStandardLigatureslookup8;
-
- script kana;
-     language dflt ;
-      lookup ligaStandardLigatureslookup8;
-} liga;
 
 feature salt {
  script DFLT;
