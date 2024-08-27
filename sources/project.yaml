@@ -5,9 +5,13 @@ sources:
   - build/LXGWWenKaiTC-Bold.designspace
   - build/LXGWWenKaiTC-Light.designspace
   - build/LXGWWenKaiTC-Regular.designspace
+reverseOutlineDirection: False
 removeOutlineOverlaps: False
 buildOTF: False
 buildTTF: True
 buildWebfont: False
 autohintTTF: False
-reverseOutlineDirection: False
+
+outputDir: ../fonts
+ttDir: $outputDir/TTF
+otDir: $outputDir/OTF
