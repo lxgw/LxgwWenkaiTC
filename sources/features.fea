@@ -494,6 +494,10 @@ lookup vertVerticalAlternateslookup5 {
     sub \quoteright by \quoteright.vert ;
     sub \quotedblleft by \quotedblleft.vert ;
     sub \quotedblright by \u301F.vert ;
+    sub \quoteleft.full by \quoteleft.vert ;
+    sub \quoteright.full by \quoteright.vert ;
+    sub \quotedblleft.full by \quotedblleft.vert ;
+    sub \quotedblright.full by \u301F.vert ;
     sub \twodotenleader by \u205A ;
     sub \ellipsis by \u205D ;
     sub \arrowleft by \arrowup ;

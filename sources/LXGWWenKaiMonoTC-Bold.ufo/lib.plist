@@ -1847,5 +1847,30 @@
       <key>theta1</key>
       <string>uni03D1</string>
     </dict>
+    <key>public.unicodeVariationSequences</key>
+    <dict>
+      <key>FE00</key>
+      <dict>
+        <key>2018</key>
+        <string>quoteleft</string>
+        <key>2019</key>
+        <string>quoteright</string>
+        <key>201C</key>
+        <string>quotedblleft</string>
+        <key>201D</key>
+        <string>quotedblright</string>
+      </dict>
+      <key>FE01</key>
+      <dict>
+        <key>2018</key>
+        <string>quoteleft.full</string>
+        <key>2019</key>
+        <string>quoteright.full</string>
+        <key>201C</key>
+        <string>quotedblleft.full</string>
+        <key>201D</key>
+        <string>quotedblright.full</string>
+      </dict>
+    </dict>
   </dict>
 </plist>
