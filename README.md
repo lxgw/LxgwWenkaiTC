@@ -106,7 +106,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 
 ## 更多「霞鶩」系列字型
 ### 「霞鶩文楷」系列
-- 霞鶩文楷 TC / LXGW WenKai TC
+- **霞鶩文楷 TC / LXGW WenKai TC**
 - [霞鶩文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenKaiGB) | [Lite](https://github.com/lxgw/LxgwWenKaiGB-Lite)
 - [霞鶩文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [Lite](https://github.com/lxgw/LxgwWenKai-Lite)
 ### 「晰緻尚銘」系列
@@ -114,10 +114,11 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 - [霞鶩緻宋 / LXGW ZhiSong](https://github.com/lxgw/LxgwZhiSong)
 - [霞鶩新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
 - [霞鶩新緻宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)
-- [霞鶩尚智黑 / LXGW Fasmart Gothic](https://github.com/lxgw/LxgwFasmartGothic)
-- [霞鶩銘心宋 / LXGW Heart Serif](https://github.com/lxgw/LxgwHeartSerif)
+- [霞鶩尚智黑 / LXGW Fasmart Gothic](https://github.com/lxgw/LxgwFasmartGothic) 停止維護
+- [霞鶩銘心宋 / LXGW Heart Serif](https://github.com/lxgw/LxgwHeartSerif) 停止維護
 ### 其他
 - [霞鶩漫黑 / LXGW Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
+- [霞鶩臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai) 停止維護
 - [小賴字體 / Xiaolai](https://github.com/lxgw/kose-font)
 - [悠哉字體 / Yozai](https://github.com/lxgw/yozai-font)
 
