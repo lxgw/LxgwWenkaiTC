@@ -1,9 +1,9 @@
 sources:
-  - build/LXGWWenKaiMonoTC-Bold.designspace
   - build/LXGWWenKaiMonoTC-Light.designspace
+  - build/LXGWWenKaiMonoTC-Medium.designspace
   - build/LXGWWenKaiMonoTC-Regular.designspace
-  - build/LXGWWenKaiTC-Bold.designspace
   - build/LXGWWenKaiTC-Light.designspace
+  - build/LXGWWenKaiTC-Medium.designspace
   - build/LXGWWenKaiTC-Regular.designspace
 reverseOutlineDirection: False
 removeOutlineOverlaps: False

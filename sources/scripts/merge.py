@@ -13,6 +13,8 @@ for file in SOURCE.glob("*.ufo"):
     coreUFO = ufoLib2.Font.open(file)
     if "Regular" in str(file):
         commonUFO = ufoLib2.Font.open("sources/temp/LXGWWenKaiTC_common-Regular.ufo")
+    elif "Medium" in str(file):
+        commonUFO = ufoLib2.Font.open("sources/temp/LXGWWenKaiTC_common-Medium.ufo")
     elif "Bold" in str(file):
         commonUFO = ufoLib2.Font.open("sources/temp/LXGWWenKaiTC_common-Bold.ufo")
     else:

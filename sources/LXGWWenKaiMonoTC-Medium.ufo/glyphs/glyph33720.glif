@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph33720" format="2">
+  <advance height="500" width="500"/>
+  <unicode hex="E0B9"/>
+  <outline>
+    <contour>
+      <point x="437" y="-306" type="line"/>
+      <point x="500" y="-283" type="line"/>
+      <point x="0" y="967" type="line"/>
+      <point x="-63" y="944" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:53:57</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

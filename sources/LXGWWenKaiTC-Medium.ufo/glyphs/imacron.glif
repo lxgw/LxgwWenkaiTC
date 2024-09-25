@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="imacron" format="2">
+  <advance height="1000" width="263"/>
+  <unicode hex="012B"/>
+  <outline>
+    <contour>
+      <point x="152" y="-16" type="qcurve" smooth="yes"/>
+      <point x="133" y="-16"/>
+      <point x="89" y="1"/>
+      <point x="89" y="17" type="qcurve" smooth="yes"/>
+      <point x="91" y="105" type="line"/>
+      <point x="91" y="368"/>
+      <point x="88" y="475" type="qcurve" smooth="yes"/>
+      <point x="88" y="490"/>
+      <point x="112" y="490" type="qcurve" smooth="yes"/>
+      <point x="131" y="490"/>
+      <point x="174" y="473"/>
+      <point x="174" y="457" type="qcurve" smooth="yes"/>
+      <point x="172" y="368" type="line"/>
+      <point x="172" y="105"/>
+      <point x="175" y="-1" type="qcurve" smooth="yes"/>
+      <point x="175" y="-16"/>
+    </contour>
+    <contour>
+      <point x="16" y="611" type="line" smooth="yes"/>
+      <point x="-8" y="611"/>
+      <point x="-8" y="685"/>
+      <point x="17" y="685" type="qcurve" smooth="yes"/>
+      <point x="245" y="685" type="line" smooth="yes"/>
+      <point x="269" y="685"/>
+      <point x="269" y="611"/>
+      <point x="244" y="611" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024/05/16 16:54:09</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>
