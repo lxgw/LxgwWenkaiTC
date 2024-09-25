@@ -265,7 +265,7 @@ Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee
     <key>styleMapFamilyName</key>
     <string>LXGW WenKai TC</string>
     <key>styleMapStyleName</key>
-    <string>regular</string>
+    <string>bold</string>
     <key>styleName</key>
     <string>Bold</string>
     <key>unitsPerEm</key>
