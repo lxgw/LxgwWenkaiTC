@@ -2,11 +2,11 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>uniA7AA</key>
-    <string>uniA_7A_A_.glif</string>
-    <key>uniA7AD</key>
-    <string>uniA_7A_D_.glif</string>
-    <key>uniA7B2</key>
-    <string>uniA_7B_2.glif</string>
+    <key>uA7AA</key>
+    <string>uA_7A_A_.glif</string>
+    <key>uA7AD</key>
+    <string>uA_7A_D_.glif</string>
+    <key>uA7B2</key>
+    <string>uA_7B_2.glif</string>
   </dict>
 </plist>

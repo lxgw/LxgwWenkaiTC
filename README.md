@@ -5,10 +5,13 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 [![開源授權](https://img.shields.io/github/license/lxgw/LxgwWenkaiTC?style=flat-square)](https://github.com/lxgw/LxgwWenkaiTC)
 [![最新版](https://img.shields.io/github/release/lxgw/LxgwWenkaiTC?style=flat-square)](https://github.com/lxgw/LxgwWenkaiTC/releases)
 [![猫啃网](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAfCAMAAABeSlSAAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAHyUExURQAAAAAA//8AAAAA//8AAAAA/wAA//8AAAAA//8AAAAA//8A//8AAAAA//8AAAAA//8AAAAA/wD///8AAAD/////AAD/////AP//AP//////AAD/////AAD/////AP///wD/////AP//AP//////AP//////AP///wD//////wD//wD/////////AP///wD//wD//wD/////AP///////////wD/////AP///wD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f////39/f39/f39/f39/f39/f7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v////7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v////7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v///y6UHskAAACldFJOUwADAwQEBQYGBwcICAkLCwwMDQ0NDhESEhMWFxgYGRkbHBwdHR8hIyQlJygpKSwsLS4yMjQ1Njc3ODk6PD5BQkNFRkdNUFFTVldaXF1fYGdqbnBxcnZ4eXt8gIGEhYaJio6RkpWXmJqbnJ2goqOlpqirrrCxs7S1trm7vr/BwsTHyMvMzc/Q0tPU2Nrb3N3f4uTm5+jp6+zt7vDx8vP19vf4+/z9/iyQxCoAAAAJcEhZcwAAFxEAABcRAcom8z8AAAHPSURBVDhPvZDpOxtRFIdvCJ1olaCLoqW1BF1U2tpJSlpFiK17NNE1DbGVoFVL20TRoMFUDDKS83+6Z+6tJjx9Hp+8X+b+fued88xcckLcmnl9nR8PkfVizoDPewHYcRYqVRQZr0TYfYinii0A2LReVOoDEiwrtN5txPNtMTj2B8BTH6OMGHc/A0huaduEoXg52FwwIEPY+7a1+opalV5uts/KEPp0s07aqkIj2wMv1XHmDbo0AqlTQ9rklRtoJI3DWLJ+MsxHf5mtFT7A98toCG/A9/jQBkR6/gNGzqJBLHu8O4pVrRgGiecjBJsUgeiWWPYNOtwBWk99dHlZs17KDO24Ep3nVHdMlV7ffaNRI/SEsPLkMENwYApUkUfb0K/XW0N7XTElv7GbSGZGghOTWBpno29dpT8PfWd0vxQjlRmJw8yItwPM52onAPq5MX3huIbw/n8GvzBC75+mzbJIo3iZVuFn7MIIKcIX5I7TEUZLkFb+ci6Q2G5cstrQC7CQf/4rgKtmEVfYNFwgJO0dXpAs0vbLKLXFHRrBfYmPkZQe3BpFyJXJhwxV/Tc+4fw0n+KjA+Ibhvx8CmvDjf8+IYprJsuTp+0P8ng8OQjZB5l3H1123DZyAAAAAElFTkSuQmCC)](https://www.maoken.com/freefonts/16424.html)
+[![Google Fonts](https://shields.io/badge/Google%20Fonts-4285F4?style=flat-square&logo=googlefonts&logoColor=ffffff)](https://fonts.google.com/specimen/LXGW+WenKai+TC)
 
 ## 介紹
 
 本專案爲 [霞鶩文楷](https://github.com/lxgw/LxgwWenkai) 的繁體中文版。最初主要使用 [AFDKO](https://github.com/adobe-type-tools/afdko) 配合 [極限社區 Zonz 提供的傳承字形、康熙舊形 ttx 檔（現已無法訪問）](https://bbs.themex.net/showthread.php?t=16906063) 將 [Klee One](https://github.com/fontworks-fonts/Klee) 中包含的漢字轉換爲舊字形，並補入修改前的舊版「霞鶩文楷」字形，部分部件和單字進一步手動修改；而後參考 [一點字坊「傳承字形標準化文件」](https://github.com/ichitenfont/inheritedglyphs) 對大部分部件進行修改，更適合繁體中文使用者及傳承字形愛好者使用。
+
+「霞鶩文楷 TC」支援 Unicode 變體序列（Unicode Variation Sequences, UVS），用於標點符號寬度的選擇，[點擊此處查看一覽表](documentation/uvs.pdf)。
 
 ## 預覽
 
@@ -48,7 +51,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 
 ### ⅱ. 從原始碼生成
 
-請運行 `/sources/build.bat` 或 `/sources/build.sh`。需要安裝 [`fontmake`](https://github.com/googlefonts/fontmake)：`pip3 install fontmake` 和 [`fontTools`](https://github.com/fonttools/fonttools)：`pip3 install fonttools`。
+可通過 `make` 運行完整的構建流程： `make build`。目前的原始碼只能在類 Unix 系統運行，需要安裝 Python 3。
 
 ## 注意事項
 
@@ -84,7 +87,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 - [一點字坊「傳承字形標準化文件」](https://github.com/ichitenfont/inheritedglyphs) 提供部分傳承字形部件和筆畫參照。
 - 部分傳承字形與臺標同形或形近的部件借用 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui) 字體。
 - [漢文博士](https://www.cnblogs.com/hanbox/)、[國學迷](http://www.guoxuemi.com/zidian/bujian/)、[字統網](https://zi.tools/)提供部件查字服務。
-- [Aaron Bell](https://github.com/aaronbell) 優化構建流程。
+- [Aaron Bell](https://github.com/aaronbell)、[@夜煞之樂](https://github.com/NightFurySL2001) 優化構建流程。
 
 ## 關注作者
 
@@ -97,13 +100,13 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 
 ## 由本字型衍生的字型
 - [月星楷 / Moon Stars Kai](https://github.com/GuiWonder/MoonStarsKai)
-- [末綺楷書 / Astalia](https://github.com/Ayaginu-Sue/Astalia)
+- [Astalia](https://github.com/Ayaginu-Sue/Astalia)
 - [Ｙ式筆書 / YshiPen-Shuti](https://github.com/Steve-Yuu/YshiPen-Shuti)
 - [混菜寫楷 / Mixed-VsWeKai](https://github.com/FWHP-Enfun/Mixed-VsWeKai)
 
 ## 更多「霞鶩」系列字型
 ### 「霞鶩文楷」系列
-- 霞鶩文楷 TC / LXGW WenKai TC
+- **霞鶩文楷 TC / LXGW WenKai TC**
 - [霞鶩文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenKaiGB) | [Lite](https://github.com/lxgw/LxgwWenKaiGB-Lite)
 - [霞鶩文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [Lite](https://github.com/lxgw/LxgwWenKai-Lite)
 ### 「晰緻尚銘」系列
@@ -111,10 +114,11 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 - [霞鶩緻宋 / LXGW ZhiSong](https://github.com/lxgw/LxgwZhiSong)
 - [霞鶩新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
 - [霞鶩新緻宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)
-- [霞鶩尚智黑 / LXGW Fasmart Gothic](https://github.com/lxgw/LxgwFasmartGothic)
-- [霞鶩銘心宋 / LXGW Heart Serif](https://github.com/lxgw/LxgwHeartSerif)
+- [霞鶩尚智黑 / LXGW Fasmart Gothic](https://github.com/lxgw/LxgwFasmartGothic) 停止維護
+- [霞鶩銘心宋 / LXGW Heart Serif](https://github.com/lxgw/LxgwHeartSerif) 停止維護
 ### 其他
 - [霞鶩漫黑 / LXGW Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
+- [霞鶩臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai) 停止維護
 - [小賴字體 / Xiaolai](https://github.com/lxgw/kose-font)
 - [悠哉字體 / Yozai](https://github.com/lxgw/yozai-font)
 

@@ -494,6 +494,10 @@ lookup vertVerticalAlternateslookup5 {
     sub \quoteright by \quoteright.vert ;
     sub \quotedblleft by \quotedblleft.vert ;
     sub \quotedblright by \u301F.vert ;
+    sub \quoteleft.full by \quoteleft.vert ;
+    sub \quoteright.full by \quoteright.vert ;
+    sub \quotedblleft.full by \quotedblleft.vert ;
+    sub \quotedblright.full by \u301F.vert ;
     sub \twodotenleader by \u205A ;
     sub \ellipsis by \u205D ;
     sub \arrowleft by \arrowup ;
@@ -806,21 +810,98 @@ lookup caltContextualAlternateslookup7 {
     sub [\zero \one \two \three \four \five \six \seven \eight \nine ] [\colon ]' [\zero \one \two \three \four \five \six \seven \eight \nine ]  by [\colon.calt ];
 } caltContextualAlternateslookup7;
 
-lookup ligaStandardLigatureslookup8 {
-  lookupflag 0;
-    sub \u0255 \uniFF12FF0FFF11FF11.afrc  by \four_slash_one_one.afrc;
-    sub \u025F \uniFF12FF0FFF11FF11.afrc  by \five_slash_one_one.afrc;
-    sub \ecircumflex \uniFF12FF0FFF11FF11.afrc  by \six_slash_one_one.afrc;
-    sub \u0258 \uniFF12FF0FFF11FF11.afrc  by \u3319.vert;
-    sub \u025D \uniFF12FF0FFF11FF11.afrc  by \uni30AF30EB30B630FC30C9.dlig.1;
-    sub \u025E \uniFF12FF0FFF11FF11.afrc  by \u331A.vert;
-    sub \u0290 \uniFF12FF0FFF11FF11.afrc  by \u331B.vert;
-} ligaStandardLigatureslookup8;
-
 lookup saltStylisticAlternativeslookup9 {
   lookupflag 0;
     sub \a by \a.salt ;
 } saltStylisticAlternativeslookup9;
+
+lookup SinglePositioning1 {
+    lookupflag 0;
+    ;
+    pos angleleft <-500 0 -500 0>;
+    pos angleright -500;
+    pos u3001 <-250 0 -500 0>;
+    pos u3002 <-250 0 -500 0>;
+    pos u300A <-500 0 -500 0>;
+    pos u300B -500;
+    pos u300C <-500 0 -500 0>;
+    pos u300D -500;
+    pos u300E <-500 0 -500 0>;
+    pos u300F -500;
+    pos u3010 <-500 0 -500 0>;
+    pos u3011 -500;
+    pos u3014 <-500 0 -500 0>;
+    pos u3015 -500;
+    pos u3016 <-500 0 -500 0>;
+    pos u3017 -500;
+    pos u3018 <-500 0 -500 0>;
+    pos u3019 -500;
+    pos u301A <-500 0 -500 0>;
+    pos u301B -500;
+    pos u301D <-500 0 -500 0>;
+    pos u301E -500;
+    pos u301F -500;
+    pos u30FB <-250 0 -500 0>;
+    pos uFF01 <-250 0 -500 0>;
+    pos uFF08 <-500 0 -500 0>;
+    pos uFF09 -500;
+    pos uFF0C <-250 0 -500 0>;
+    pos uFF0E <-250 0 -500 0>;
+    pos uFF1A <-250 0 -500 0>;
+    pos uFF1B <-250 0 -500 0>;
+    pos uFF3B <-500 0 -500 0>;
+    pos uFF3D -500;
+    pos uFF5B <-500 0 -500 0>;
+    pos uFF5D -500;
+    pos uFF5F <-500 0 -500 0>;
+    pos uFF60 -500;
+    pos quotedblleft.full <-500 0 -500 0>;
+    pos quotedblright.full -500;
+    pos quoteleft.full <-500 0 -500 0>;
+    pos quoteright.full -500;
+} SinglePositioning1;
+
+lookup SinglePositioning2 {
+    lookupflag 0;
+    ;
+    # Original source: 1 
+    pos quotedblleft.vert <0 500 0 -500>;
+    pos u3001 <0 250 0 -500>;
+    pos u3002 <0 250 0 -500>;
+    pos u3018.vert <0 500 0 -500>;
+    pos u3019.vert <0 0 0 -500>;
+    pos u301A.vert <0 500 0 -500>;
+    pos u301B.vert <0 0 0 -500>;
+    pos u301F.vert <0 0 0 -500>;
+    pos u30FB <0 250 0 -500>;
+    pos uFE10 <0 250 0 -500>;
+    pos uFE11 <0 250 0 -500>;
+    pos uFE12 <0 250 0 -500>;
+    pos uFE17 <0 500 0 -500>;
+    pos uFE18 <0 0 0 -500>;
+    pos uFE35 <0 500 0 -500>;
+    pos uFE36 <0 0 0 -500>;
+    pos uFE37 <0 500 0 -500>;
+    pos uFE38 <0 0 0 -500>;
+    pos uFE39 <0 500 0 -500>;
+    pos uFE3A <0 0 0 -500>;
+    pos uFE3B <0 500 0 -500>;
+    pos uFE3C <0 0 0 -500>;
+    pos uFE3D <0 500 0 -500>;
+    pos uFE3E <0 0 0 -500>;
+    pos uFE3F <0 500 0 -500>;
+    pos uFE40 <0 0 0 -500>;
+    pos uFE41 <0 500 0 -500>;
+    pos uFE42 <0 0 0 -500>;
+    pos uFE43 <0 500 0 -500>;
+    pos uFE44 <0 0 0 -500>;
+    pos uFE47 <0 500 0 -500>;
+    pos uFE48 <0 0 0 -500>;
+    pos uFF0C <0 250 0 -500>;
+    pos uFF0E <0 250 0 -500>;
+    pos uFF5F.vert <0 500 0 -500>;
+    pos uFF60.vert <0 0 0 -500>;
+} SinglePositioning2;
 
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
@@ -2910,20 +2991,6 @@ feature calt {
       lookup caltContextualAlternateslookup7;
 } calt;
 
-feature liga {
- script DFLT;
-     language dflt ;
-      lookup ligaStandardLigatureslookup8;
-
- script hani;
-     language dflt ;
-      lookup ligaStandardLigatureslookup8;
-
- script kana;
-     language dflt ;
-      lookup ligaStandardLigatureslookup8;
-} liga;
-
 feature salt {
  script DFLT;
      language dflt ;
@@ -2946,3 +3013,40 @@ feature salt {
       lookup saltStylisticAlternativeslookup9;
 } salt;
 
+feature halt {
+    script DFLT;
+    language dflt;
+            lookup SinglePositioning1;
+
+    script hani;
+    language dflt;
+            lookup SinglePositioning1;
+
+    script kana;
+    language dflt;
+            lookup SinglePositioning1;
+
+    script latn;
+    language dflt;
+            lookup SinglePositioning1;
+
+} halt;
+
+feature vhal {
+    script DFLT;
+    language dflt;
+            lookup SinglePositioning2;
+
+    script hani;
+    language dflt;
+            lookup SinglePositioning2;
+
+    script kana;
+    language dflt;
+            lookup SinglePositioning2;
+
+    script latn;
+    language dflt;
+            lookup SinglePositioning2;
+
+} vhal;

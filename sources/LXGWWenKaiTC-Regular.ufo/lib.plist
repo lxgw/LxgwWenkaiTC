@@ -418,13 +418,13 @@
       <string>u1EF6</string>
       <string>u1EF8</string>
       <string>u1EFA</string>
-      <string>uni2C64</string>
-      <string>uniA78D</string>
-      <string>uniA7AA</string>
-      <string>uniA7AD</string>
-      <string>uniA7B2</string>
-      <string>uniA7B3</string>
-      <string>uniA7B4</string>
+      <string>u2C64</string>
+      <string>uA78D</string>
+      <string>uA7AA</string>
+      <string>uA7AD</string>
+      <string>uA7B2</string>
+      <string>uA7B3</string>
+      <string>uA7B4</string>
       <string>a</string>
       <string>aacute</string>
       <string>abreve</string>
@@ -878,8 +878,8 @@
       <string>uhorn</string>
       <string>uhungarumlaut</string>
       <string>umacron</string>
-      <string>uni2C65</string>
-      <string>uni2C66</string>
+      <string>u2C65</string>
+      <string>u2C66</string>
       <string>uogonek</string>
       <string>uring</string>
       <string>utilde</string>
@@ -1080,7 +1080,7 @@
       <string>u04EF</string>
       <string>u04F1</string>
       <string>u04F3</string>
-      <string>uni04F5</string>
+      <string>u04F5</string>
       <string>u04FF</string>
       <string>Alpha</string>
       <string>Beta</string>
@@ -1786,7 +1786,7 @@
       <string>uA4FD</string>
       <string>uA4FE</string>
       <string>uA4FF</string>
-      <string>uniA7AE</string>
+      <string>uA7AE</string>
       <string>uA7AF</string>
       <string>u11FB0</string>
       <string>PureWriter</string>
@@ -1822,6 +1822,31 @@
       <string>uni03C2</string>
       <key>theta1</key>
       <string>uni03D1</string>
+    </dict>
+    <key>public.unicodeVariationSequences</key>
+    <dict>
+      <key>FE00</key>
+      <dict>
+        <key>2018</key>
+        <string>quoteleft</string>
+        <key>2019</key>
+        <string>quoteright</string>
+        <key>201C</key>
+        <string>quotedblleft</string>
+        <key>201D</key>
+        <string>quotedblright</string>
+      </dict>
+      <key>FE01</key>
+      <dict>
+        <key>2018</key>
+        <string>quoteleft.full</string>
+        <key>2019</key>
+        <string>quoteright.full</string>
+        <key>201C</key>
+        <string>quotedblleft.full</string>
+        <key>201D</key>
+        <string>quotedblright.full</string>
+      </dict>
     </dict>
   </dict>
 </plist>

@@ -13,6 +13,8 @@ if os.path.exists("fonts"):
 
         if "Light" in str(file):
             font["OS/2"].panose.bWeight = 4
+        elif "Medium" in str(file):
+            font["OS/2"].panose.bWeight = 6
         elif "Bold" in str(file):
             font["OS/2"].panose.bWeight = 8
         else:
