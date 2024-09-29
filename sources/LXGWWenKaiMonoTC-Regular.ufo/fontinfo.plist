@@ -259,7 +259,7 @@ Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee
 	<key>openTypeVheaVertTypoLineGap</key>
 	<integer>0</integer>
 	<key>postscriptIsFixedPitch</key>
-	<integer>1</integer>
+	<true/>
 	<key>postscriptUnderlinePosition</key>
 	<integer>-175</integer>
 	<key>postscriptUnderlineThickness</key>
