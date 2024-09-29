@@ -23,6 +23,7 @@ if os.path.exists("fonts"):
         if "Mono" in str(file):
             font["OS/2"].xAvgCharWidth = 500
             font["OS/2"].panose.bProportion = 9
+            font["post"].isFixedPitch = 1
         
         
         version_id = font["name"].getName(5, 3, 1, 0x409)
