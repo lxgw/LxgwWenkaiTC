@@ -86,6 +86,10 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 - [@Georgome](https://github.com/GeorgomeFont)、[@Magmeta](https://github.com/Des-Magmeta)、[@Steve-Yuu](https://github.com/Steve-Yuu) 等協助完善字型。
 - [一點字坊「傳承字形標準化文件」](https://github.com/ichitenfont/inheritedglyphs) 提供部分傳承字形部件和筆畫參照。
 - 部分傳承字形與臺標同形或形近的部件借用 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui) 字體。
+- [Iosevka](https://github.com/be5invis/Iosevka) / [Nerd-Fonts](https://github.com/ryanoasis/nerd-fonts) 提供等寬字型所用的 Powerline 符號；
+- 方塊繪製字元、表意文字結構描述符（Ideographic Description Character, IDC）等字元借自 [思源黑體](https://github.com/adobe-fonts/source-han-sans)。
+- 吉祥圖案、CC 授權圖示等字元衍生自 [煮豆黑體](https://github.com/Buernia/Zhudou-Sans)。
+- 缺字標記 `.notdef` 的「🤔」外部輪廓取自 [Noto Emoji (Monochrome)](https://github.com/googlefonts/noto-emoji)。
 - [漢文博士](https://www.cnblogs.com/hanbox/)、[國學迷](http://www.guoxuemi.com/zidian/bujian/)、[字統網](https://zi.tools/)提供部件查字服務。
 - [Aaron Bell](https://github.com/aaronbell)、[@夜煞之樂](https://github.com/NightFurySL2001) 優化構建流程。
 
