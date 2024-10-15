@@ -122,7 +122,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 - [霞鶩銘心宋 / LXGW Heart Serif](https://github.com/lxgw/LxgwHeartSerif) 停止維護
 ### 其他
 - [霞鶩漫黑 / LXGW Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
-- [霞鶩臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai) 停止維護
+- [霞鶩臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai)
 - [小賴字體 / Xiaolai](https://github.com/lxgw/kose-font)
 - [悠哉字體 / Yozai](https://github.com/lxgw/yozai-font)
 
