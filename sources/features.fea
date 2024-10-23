@@ -903,6 +903,198 @@ lookup SinglePositioning2 {
     pos uFF60.vert <0 0 0 -500>;
 } SinglePositioning2;
 
+lookup LigatureSubstitution9 {
+    lookupflag 0;
+    ;
+    # Original source: 8 
+    sub A gravecomb by Agrave;
+    sub A acutecomb by Aacute;
+    sub A u030B by A_uni030B;
+    sub A u0302 by Acircumflex;
+    sub A u030C by u01CD;
+    sub A u0306 by Abreve;
+    sub A u0304 by Amacron;
+    sub A u030D by A_uni030D;
+    sub C u0302 by Ccircumflex;
+    sub E gravecomb by Egrave;
+    sub E acutecomb by Eacute;
+    sub E u030B by E_uni030B;
+    sub E u0302 by Ecircumflex;
+    sub E u030C by Ecaron;
+    sub E u0306 by Ebreve;
+    sub E u030A by E_ring;
+    sub E u0304 by Emacron;
+    sub E u030D by E_uni030D;
+    sub Ecircumflex u030C by uni00CA030C;
+    sub Ecircumflex u0304 by uni00CA0304;
+    sub I gravecomb by Igrave;
+    sub I acutecomb by Iacute;
+    sub I u030B by I_uni030B;
+    sub I u0302 by Icircumflex;
+    sub I u030C by u01CF;
+    sub I u0306 by Ibreve;
+    sub I u030A by I_ring;
+    sub I u0304 by Imacron;
+    sub I u030D by I_uni030D;
+    sub M gravecomb by M_uni0300;
+    sub M acutecomb by u1E3E;
+    sub M u030B by M_uni030B;
+    sub M u0302 by M_uni0302;
+    sub M u030C by M_uni030C;
+    sub M u0306 by M_uni0306;
+    sub M u0304 by M_uni0304;
+    sub M u030D by M_uni030D;
+    sub N gravecomb by u01F8;
+    sub N acutecomb by Nacute;
+    sub N u030B by N_uni030B;
+    sub N u0302 by N_uni0302;
+    sub N u030C by Ncaron;
+    sub N u0306 by N_uni0306;
+    sub N u0304 by N_uni0304;
+    sub N u030D by N_uni030D;
+    sub O u030D u0358 by O_uni030D0358.ccmp;
+    sub O u0358 gravecomb by O_uni03580300.ccmp;
+    sub O u0358 acutecomb by O_uni03580301.ccmp;
+    sub O u0358 u030B by O_uni0358030B.ccmp;
+    sub O u0358 u0302 by O_uni03580302.ccmp;
+    sub O u0358 u030C by O_uni0358030C.ccmp;
+    sub O u0358 u0306 by O_uni03580306.ccmp;
+    sub O u0358 u0304 by O_uni03580304.ccmp;
+    sub O u0358 u030D by O_uni030D0358.ccmp;
+    sub O gravecomb by Ograve;
+    sub O acutecomb by Oacute;
+    sub O u030B by Ohungarumlaut;
+    sub O u0302 by Ocircumflex;
+    sub O u030C by u01D1;
+    sub O u0306 by Obreve;
+    sub O u030A by O_ring;
+    sub O u0304 by Omacron;
+    sub O u030D by O_uni030D;
+    sub O u0358 by O_uni0358.ccmp;
+    sub Oacute u0358 by O_uni03580301.ccmp;
+    sub Obreve u0358 by O_uni03580306.ccmp;
+    sub Ocircumflex u0358 by O_uni03580302.ccmp;
+    sub Ograve u0358 by O_uni03580300.ccmp;
+    sub Ohungarumlaut u0358 by O_uni0358030B.ccmp;
+    sub Omacron u0358 by O_uni03580304.ccmp;
+    sub S u0302 by Scircumflex;
+    sub U gravecomb by Ugrave;
+    sub U acutecomb by Uacute;
+    sub U u030B by Uhungarumlaut;
+    sub U u0302 by Ucircumflex;
+    sub U u030C by u01D3;
+    sub U u0306 by Ubreve;
+    sub U u0304 by Umacron;
+    sub U u030D by U_uni030D;
+    sub Y u030C by Y_uni030C;
+    sub Z u0302 by u1E90;
+    sub u01D1 u0358 by O_uni0358030C.ccmp;
+    sub u1E72 gravecomb by uni1E720300;
+    sub u1E72 acutecomb by uni1E720301;
+    sub u1E72 u0302 by uni1E720302;
+    sub u1E72 u030D by uni1E72030D;
+    sub a gravecomb by agrave;
+    sub a acutecomb by aacute;
+    sub a u030B by a_uni030B;
+    sub a u0302 by acircumflex;
+    sub a u030C by u01CE;
+    sub a u0306 by abreve;
+    sub a u0304 by amacron;
+    sub a u030D by a_uni030D;
+    sub ae gravecomb by ae_grave;
+    sub ae acutecomb by aeacute;
+    sub c u0302 by ccircumflex;
+    sub e gravecomb by egrave;
+    sub e acutecomb by eacute;
+    sub e u030B by e_uni030B;
+    sub e u0302 by ecircumflex;
+    sub e u030C by ecaron;
+    sub e u0306 by ebreve;
+    sub e u030A by e_ring;
+    sub e u0304 by emacron;
+    sub e u030D by e_uni030D;
+    sub ecircumflex u030C by uni00EA030C;
+    sub ecircumflex u0304 by uni00EA0304;
+    sub u0259 gravecomb by uni0259_grave;
+    sub u0259 acutecomb by uni0259_acute;
+    sub u025A gravecomb by uni025A_grave;
+    sub u025A acutecomb by uni025A_acute;
+    sub i gravecomb by igrave;
+    sub i acutecomb by iacute;
+    sub i u030B by i_uni030B.ccmp;
+    sub i u0302 by icircumflex;
+    sub i u030C by u01D0;
+    sub i u0306 by ibreve;
+    sub i u030A by i_ring;
+    sub i u0304 by imacron;
+    sub i u030D by i_uni030D.ccmp;
+    sub m gravecomb by m_uni0300;
+    sub m acutecomb by u1E3F;
+    sub m u030B by m_uni030B;
+    sub m u0302 by m_uni0302;
+    sub m u030C by m_uni030C;
+    sub m u0306 by m_uni0306;
+    sub m u0304 by m_uni0304;
+    sub m u030D by m_uni030D;
+    sub n gravecomb by u01F9;
+    sub n acutecomb by nacute;
+    sub n u030B by n_uni030B;
+    sub n u0302 by n_uni0302;
+    sub n u030C by ncaron;
+    sub n u0306 by n_uni0306;
+    sub n u0304 by n_uni0304;
+    sub n u030D by n_uni030D;
+    sub o u030D u0358 by o_uni030D0358.ccmp;
+    sub o u0358 gravecomb by o_uni03580300.ccmp;
+    sub o u0358 acutecomb by o_uni03580301.ccmp;
+    sub o u0358 u030B by o_uni0358030B.ccmp;
+    sub o u0358 u0302 by o_uni03580302.ccmp;
+    sub o u0358 u030C by o_uni0358030C.ccmp;
+    sub o u0358 u0306 by o_uni03580306.ccmp;
+    sub o u0358 u0304 by o_uni03580304.ccmp;
+    sub o u0358 u030D by o_uni030D0358.ccmp;
+    sub o gravecomb by ograve;
+    sub o acutecomb by oacute;
+    sub o u030B by ohungarumlaut;
+    sub o u0302 by ocircumflex;
+    sub o u030C by u01D2;
+    sub o u0306 by obreve;
+    sub o u030A by o_ring;
+    sub o u0304 by omacron;
+    sub o u030D by o_uni030D;
+    sub o u0358 by o_uni0358.ccmp;
+    sub oacute u0358 by o_uni03580301.ccmp;
+    sub obreve u0358 by o_uni03580306.ccmp;
+    sub ocircumflex u0358 by o_uni03580302.ccmp;
+    sub ograve u0358 by o_uni03580300.ccmp;
+    sub ohungarumlaut u0358 by o_uni0358030B.ccmp;
+    sub omacron u0358 by o_uni03580304.ccmp;
+    sub s u0302 by scircumflex;
+    sub u gravecomb by ugrave;
+    sub u acutecomb by uacute;
+    sub u u030B by uhungarumlaut;
+    sub u u0302 by ucircumflex;
+    sub u u030C by u01D4;
+    sub u u0306 by ubreve;
+    sub u u0304 by umacron;
+    sub u u030D by u_uni030D;
+    sub u01D2 u0358 by o_uni0358030C.ccmp;
+    sub u0251 gravecomb by u1F70;
+    sub u0251 acutecomb by u1F71;
+    sub u0254 gravecomb by uni0254_grave;
+    sub u0254 acutecomb by uni0254_acute;
+    sub u025B gravecomb by u1F72;
+    sub u025B acutecomb by u1F73;
+    sub u028C gravecomb by uni028C_grave;
+    sub u028C acutecomb by uni028C_acute;
+    sub u1E73 gravecomb by uni1E730300;
+    sub u1E73 acutecomb by uni1E730301;
+    sub u1E73 u0302 by uni1E730302;
+    sub u1E73 u030D by uni1E73030D;
+    sub y u030C by y_uni030C;
+    sub z u0302 by u1E91;
+} LigatureSubstitution9;
+
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\nonmarkingreturn \space \exclam \quotedbl 
@@ -3050,3 +3242,38 @@ feature vhal {
             lookup SinglePositioning2;
 
 } vhal;
+
+feature ccmp {
+    script DFLT;
+    language dflt;
+            lookup LigatureSubstitution9;
+
+} ccmp;
+
+feature ccmp {
+    script grek;
+    language dflt;
+            lookup LigatureSubstitution9;
+
+} ccmp;
+
+feature ccmp {
+    script hani;
+    language dflt;
+            lookup LigatureSubstitution9;
+
+} ccmp;
+
+feature ccmp {
+    script kana;
+    language dflt;
+            lookup LigatureSubstitution9;
+
+} ccmp;
+
+feature ccmp {
+    script latn;
+    language dflt;
+            lookup LigatureSubstitution9;
+
+} ccmp;

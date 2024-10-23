@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="o_uni030D" format="2">
+  <advance height="1000" width="500"/>
+  <outline>
+    <contour>
+      <point x="343" y="98"/>
+      <point x="383" y="188"/>
+      <point x="383" y="245" type="qcurve"/>
+      <point x="383" y="329"/>
+      <point x="326" y="420"/>
+      <point x="273" y="420" type="qcurve"/>
+      <point x="232" y="420"/>
+      <point x="161" y="360"/>
+      <point x="118" y="260"/>
+      <point x="118" y="208" type="qcurve"/>
+      <point x="118" y="127"/>
+      <point x="181" y="49"/>
+      <point x="238" y="49" type="qcurve"/>
+      <point x="277" y="49"/>
+    </contour>
+    <contour>
+      <point x="235" y="806"/>
+      <point x="250" y="806" type="qcurve"/>
+      <point x="264" y="806"/>
+      <point x="287" y="792"/>
+      <point x="287" y="781" type="qcurve"/>
+      <point x="287" y="593" type="line"/>
+      <point x="287" y="582"/>
+      <point x="264" y="569"/>
+      <point x="249" y="569" type="qcurve"/>
+      <point x="234" y="569"/>
+      <point x="211" y="583"/>
+      <point x="211" y="594" type="qcurve"/>
+      <point x="211" y="782" type="line"/>
+      <point x="211" y="793"/>
+    </contour>
+    <contour>
+      <point x="241" y="492"/>
+      <point x="278" y="492" type="qcurve"/>
+      <point x="334" y="492"/>
+      <point x="418" y="430"/>
+      <point x="463" y="319"/>
+      <point x="463" y="245" type="qcurve"/>
+      <point x="463" y="179"/>
+      <point x="411" y="56"/>
+      <point x="309" y="-24"/>
+      <point x="238" y="-24" type="qcurve"/>
+      <point x="142" y="-24"/>
+      <point x="38" y="101"/>
+      <point x="38" y="207" type="qcurve"/>
+      <point x="38" y="261"/>
+      <point x="80" y="377"/>
+      <point x="136" y="460"/>
+      <point x="157" y="460" type="qcurve"/>
+      <point x="172" y="460"/>
+      <point x="174" y="457" type="qcurve"/>
+      <point x="187" y="467"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>32a639c212cf663d137068a587a1673cb6531c32f704eccdcb510b482c48f53df6f34e39c6d107b9eb3f2c7098cf2286a2e09bbfd7d64b5c4de39b593ae50f26</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

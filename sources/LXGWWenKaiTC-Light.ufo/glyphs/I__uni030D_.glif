@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I_uni030D" format="2">
+  <advance height="1000" width="304"/>
+  <outline>
+    <contour>
+      <point x="119" y="589" type="line"/>
+      <point x="119" y="620"/>
+      <point x="116" y="678"/>
+      <point x="116" y="695" type="qcurve"/>
+      <point x="116" y="700"/>
+      <point x="133" y="700" type="qcurve"/>
+      <point x="149" y="700"/>
+      <point x="185" y="687"/>
+      <point x="185" y="677" type="qcurve"/>
+      <point x="185" y="665"/>
+      <point x="183" y="614"/>
+      <point x="183" y="588" type="qcurve"/>
+      <point x="183" y="106" type="line"/>
+      <point x="183" y="75"/>
+      <point x="186" y="17"/>
+      <point x="186" y="0" type="qcurve"/>
+      <point x="186" y="-5"/>
+      <point x="169" y="-5" type="qcurve"/>
+      <point x="153" y="-5"/>
+      <point x="117" y="8"/>
+      <point x="117" y="18" type="qcurve"/>
+      <point x="117" y="30"/>
+      <point x="119" y="81"/>
+      <point x="119" y="107" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="135" y="961"/>
+      <point x="147" y="961" type="qcurve"/>
+      <point x="158" y="961"/>
+      <point x="172" y="953"/>
+      <point x="172" y="947" type="qcurve"/>
+      <point x="172" y="759" type="line"/>
+      <point x="172" y="753"/>
+      <point x="158" y="746"/>
+      <point x="146" y="746" type="qcurve"/>
+      <point x="135" y="746"/>
+      <point x="120" y="754"/>
+      <point x="120" y="760" type="qcurve"/>
+      <point x="120" y="948" type="line"/>
+      <point x="120" y="954"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>1cc801bd1eb68c85c3208bd2282c44e88202b4eb1cd43896c89737111b52118dcd1cc62f040ebdfc3edb3ea66316edf33fbe8564b9a1d629da4d50f944e458bb</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>
