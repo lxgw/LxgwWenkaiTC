@@ -1079,12 +1079,12 @@ lookup LigatureSubstitution9 {
     sub u u0304 by umacron;
     sub u u030D by u_uni030D;
     sub u01D2 u0358 by o_uni0358030C.ccmp;
-    sub u0251 gravecomb by u1F70;
-    sub u0251 acutecomb by u1F71;
+    sub u0251 gravecomb by u1F70.1;
+    sub u0251 acutecomb by u1F71.1;
     sub u0254 gravecomb by uni0254_grave;
     sub u0254 acutecomb by uni0254_acute;
-    sub u025B gravecomb by u1F72;
-    sub u025B acutecomb by u1F73;
+    sub u025B gravecomb by u1F72.1;
+    sub u025B acutecomb by u1F73.1;
     sub u028C gravecomb by uni028C_grave;
     sub u028C acutecomb by uni028C_acute;
     sub u1E73 gravecomb by uni1E730300;
