@@ -803,6 +803,8 @@ lookup vertVerticalAlternateslookup5 {
     sub \u2702.vert.1 by \u2702.vert.1.1 ;
     sub \u2702.vert.1.1 by \u2702 ;
     sub \u2702.vert by \u2702.vert.1 ;
+    sub u16FE2 by u16FE2.vert;
+    sub u16FE3 by u16FE3.vert;
 } vertVerticalAlternateslookup5;
 
 lookup caltContextualAlternateslookup7 {
