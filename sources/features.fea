@@ -905,6 +905,12 @@ lookup SinglePositioning2 {
     pos uFF60.vert <0 0 0 -500>;
 } SinglePositioning2;
 
+lookup SinglePositioning3 {
+    lookupflag 0;
+    ;
+    pos [u302A u302B u302C u302D u3099 u309A] <500 1000 0 -1000>;
+} SinglePositioning3;
+
 lookup LigatureSubstitution9 {
     lookupflag 0;
     ;
@@ -3153,14 +3159,17 @@ feature vert {
  script DFLT;
      language dflt ;
       lookup vertVerticalAlternateslookup5;
+      lookup SinglePositioning3;
 
  script hani;
      language dflt ;
       lookup vertVerticalAlternateslookup5;
+      lookup SinglePositioning3;
 
  script kana;
      language dflt ;
       lookup vertVerticalAlternateslookup5;
+      lookup SinglePositioning3;
 } vert;
 
 feature calt {
