@@ -3115,18 +3115,6 @@ feature dlig {
  script DFLT;
      language dflt ;
       lookup dligDiscretionaryLigatureslookup1;
-
- script hani;
-     language dflt ;
-      lookup dligDiscretionaryLigatureslookup1;
-
- script kana;
-     language dflt ;
-      lookup dligDiscretionaryLigatureslookup1;
-
- script latn;
-     language dflt ;
-      lookup dligDiscretionaryLigatureslookup1;
 } dlig;
 
 feature frac {
@@ -3139,18 +3127,10 @@ feature subs {
  script DFLT;
      language dflt ;
       lookup subsSubscriptinLatinlookup3;
-
- script latn;
-     language dflt ;
-      lookup subsSubscriptinLatinlookup3;
 } subs;
 
 feature sups {
  script DFLT;
-     language dflt ;
-      lookup supsSuperscriptinLatinlookup4;
-
- script latn;
      language dflt ;
       lookup supsSuperscriptinLatinlookup4;
 } sups;
@@ -3160,36 +3140,10 @@ feature vert {
      language dflt ;
       lookup vertVerticalAlternateslookup5;
       lookup SinglePositioning3;
-
- script hani;
-     language dflt ;
-      lookup vertVerticalAlternateslookup5;
-      lookup SinglePositioning3;
-
- script kana;
-     language dflt ;
-      lookup vertVerticalAlternateslookup5;
-      lookup SinglePositioning3;
 } vert;
 
 feature calt {
  script DFLT;
-     language dflt ;
-      lookup caltContextualAlternateslookup7;
-
- script grek;
-     language dflt ;
-      lookup caltContextualAlternateslookup7;
-
- script hani;
-     language dflt ;
-      lookup caltContextualAlternateslookup7;
-
- script kana;
-     language dflt ;
-      lookup caltContextualAlternateslookup7;
-
- script latn;
      language dflt ;
       lookup caltContextualAlternateslookup7;
 } calt;
@@ -3198,38 +3152,10 @@ feature salt {
  script DFLT;
      language dflt ;
       lookup saltStylisticAlternativeslookup9;
-
- script grek;
-     language dflt ;
-      lookup saltStylisticAlternativeslookup9;
-
- script hani;
-     language dflt ;
-      lookup saltStylisticAlternativeslookup9;
-
- script kana;
-     language dflt ;
-      lookup saltStylisticAlternativeslookup9;
-
- script latn;
-     language dflt ;
-      lookup saltStylisticAlternativeslookup9;
 } salt;
 
 feature halt {
     script DFLT;
-    language dflt;
-            lookup SinglePositioning1;
-
-    script hani;
-    language dflt;
-            lookup SinglePositioning1;
-
-    script kana;
-    language dflt;
-            lookup SinglePositioning1;
-
-    script latn;
     language dflt;
             lookup SinglePositioning1;
 
@@ -3240,50 +3166,10 @@ feature vhal {
     language dflt;
             lookup SinglePositioning2;
 
-    script hani;
-    language dflt;
-            lookup SinglePositioning2;
-
-    script kana;
-    language dflt;
-            lookup SinglePositioning2;
-
-    script latn;
-    language dflt;
-            lookup SinglePositioning2;
-
 } vhal;
 
 feature ccmp {
     script DFLT;
-    language dflt;
-            lookup LigatureSubstitution9;
-
-} ccmp;
-
-feature ccmp {
-    script grek;
-    language dflt;
-            lookup LigatureSubstitution9;
-
-} ccmp;
-
-feature ccmp {
-    script hani;
-    language dflt;
-            lookup LigatureSubstitution9;
-
-} ccmp;
-
-feature ccmp {
-    script kana;
-    language dflt;
-            lookup LigatureSubstitution9;
-
-} ccmp;
-
-feature ccmp {
-    script latn;
     language dflt;
             lookup LigatureSubstitution9;
 
