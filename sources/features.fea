@@ -805,6 +805,8 @@ lookup vertVerticalAlternateslookup5 {
     sub \u2702.vert by \u2702.vert.1 ;
     sub u16FE2 by u16FE2.vert;
     sub u16FE3 by u16FE3.vert;
+    sub u16FF2 by u16FF2.vert;
+    sub u16FF3 by u16FF3.vert;
 } vertVerticalAlternateslookup5;
 
 lookup caltContextualAlternateslookup7 {
@@ -3106,71 +3108,71 @@ table BASE {
 } BASE;
 
 feature afrc {
- script DFLT;
-     language dflt ;
+ # script DFLT;
+     # language dflt ;
       lookup afrcVerticalFractionslookup0;
 } afrc;
 
 feature dlig {
- script DFLT;
-     language dflt ;
+ # script DFLT;
+     # language dflt ;
       lookup dligDiscretionaryLigatureslookup1;
 } dlig;
 
 feature frac {
- script DFLT;
-     language dflt ;
+ # script DFLT;
+     # language dflt ;
       lookup fracDiagonalFractionslookup2;
 } frac;
 
 feature subs {
- script DFLT;
-     language dflt ;
+ # script DFLT;
+     # language dflt ;
       lookup subsSubscriptinLatinlookup3;
 } subs;
 
 feature sups {
- script DFLT;
-     language dflt ;
+ # script DFLT;
+     # language dflt ;
       lookup supsSuperscriptinLatinlookup4;
 } sups;
 
 feature vert {
- script DFLT;
-     language dflt ;
+ # script DFLT;
+     # language dflt ;
       lookup vertVerticalAlternateslookup5;
       lookup SinglePositioning3;
 } vert;
 
 feature calt {
- script DFLT;
-     language dflt ;
+ # script DFLT;
+     # language dflt ;
       lookup caltContextualAlternateslookup7;
 } calt;
 
 feature salt {
- script DFLT;
-     language dflt ;
+ # script DFLT;
+     # language dflt ;
       lookup saltStylisticAlternativeslookup9;
 } salt;
 
 feature halt {
-    script DFLT;
-    language dflt;
+    # script DFLT;
+    # language dflt;
             lookup SinglePositioning1;
 
 } halt;
 
 feature vhal {
-    script DFLT;
-    language dflt;
+    # script DFLT;
+    # language dflt;
             lookup SinglePositioning2;
 
 } vhal;
 
 feature ccmp {
-    script DFLT;
-    language dflt;
+    # script DFLT;
+    # language dflt;
             lookup LigatureSubstitution9;
 
 } ccmp;
