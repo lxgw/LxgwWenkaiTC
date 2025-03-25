@@ -271,9 +271,9 @@ Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee
 		</dict>
 	</array>
 	<key>openTypeNameUniqueID</key>
-	<string>LXGW WenKai TC Light:Version 1.510</string>
+	<string>LXGW WenKai TC Light:Version 1.511</string>
 	<key>openTypeNameVersion</key>
-	<string>Version 1.510; January 18, 2025</string>
+	<string>Version 1.511; March 25, 2025</string>
 	<key>openTypeOS2CodePageRanges</key>
 	<array>
 		<integer>0</integer>
@@ -373,7 +373,7 @@ Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>510</integer>
+	<integer>511</integer>
 	<key>xHeight</key>
 	<integer>468</integer>
 </dict>
