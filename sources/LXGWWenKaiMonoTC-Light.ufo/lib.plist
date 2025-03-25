@@ -1946,6 +1946,22 @@
         <string>quotedblleft</string>
         <key>201D</key>
         <string>quotedblright</string>
+        <key>3001</key>
+        <string>uFE51</string>
+        <key>3002</key>
+        <string>u3002.1</string>
+        <key>FF01</key>
+        <string>uFE57</string>
+        <key>FF0C</key>
+        <string>uFE50</string>
+        <key>FF0E</key>
+        <string>uFE52</string>
+        <key>FF1A</key>
+        <string>uFE55</string>
+        <key>FF1B</key>
+        <string>uFE54</string>
+        <key>FF1F</key>
+        <string>uFE56</string>
       </dict>
       <key>FE01</key>
       <dict>
@@ -1957,6 +1973,22 @@
         <string>quotedblleft.full</string>
         <key>201D</key>
         <string>quotedblright.full</string>
+        <key>3001</key>
+        <string>u3001</string>
+        <key>3002</key>
+        <string>u3002</string>
+        <key>FF01</key>
+        <string>uFF01</string>
+        <key>FF0C</key>
+        <string>uFF0C</string>
+        <key>FF0E</key>
+        <string>uFF0E</string>
+        <key>FF1A</key>
+        <string>uFF1A</string>
+        <key>FF1B</key>
+        <string>uFF1B</string>
+        <key>FF1F</key>
+        <string>uFF1F</string>
       </dict>
     </dict>
   </dict>

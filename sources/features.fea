@@ -807,6 +807,14 @@ lookup vertVerticalAlternateslookup5 {
     sub u16FE3 by u16FE3.vert;
     sub u16FF2 by u16FF2.vert;
     sub u16FF3 by u16FF3.vert;
+    sub uFE50 by uFE50.vert;
+    sub uFE51 by uFE51.vert;
+    sub uFE52 by uFE52.vert;
+    sub uFE54 by uFE54.vert;
+    sub uFE55 by uFE55.vert;
+    sub uFE56 by uFE56.vert;
+    sub uFE57 by uFE57.vert;
+    sub u3002.1 by uFE12.1;
 } vertVerticalAlternateslookup5;
 
 lookup caltContextualAlternateslookup7 {
@@ -863,6 +871,7 @@ lookup SinglePositioning1 {
     pos quotedblright.full -500;
     pos quoteleft.full <-500 0 -500 0>;
     pos quoteright.full -500;
+    pos [u3002.1 uFE50 uFE51 uFE52 uFE54 uFE55 uFE56 uFE57] -500;
 } SinglePositioning1;
 
 lookup SinglePositioning2 {
@@ -905,6 +914,7 @@ lookup SinglePositioning2 {
     pos uFF0E <0 250 0 -500>;
     pos uFF5F.vert <0 500 0 -500>;
     pos uFF60.vert <0 0 0 -500>;
+    pos [uFE12.1 uFE50.vert uFE51.vert uFE52.vert] <0 0 0 -500>;
 } SinglePositioning2;
 
 lookup SinglePositioning3 {
