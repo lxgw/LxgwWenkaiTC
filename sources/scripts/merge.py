@@ -7,6 +7,7 @@ from ufomerge import merge_ufos
 
 SOURCE = Path("sources")
 EXPORT = Path("sources/build")
+EXPORT.mkdir(exist_ok=True)
 
 for file in SOURCE.glob("*.ufo"):
     # We keep a single copy of the common Hanzi data, and merge it into the Latins as necessary
