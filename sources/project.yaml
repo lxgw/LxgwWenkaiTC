@@ -1,10 +1,10 @@
 sources:
-  - build/LXGWWenKaiMonoTC-Light.designspace
-  - build/LXGWWenKaiMonoTC-Medium.designspace
-  - build/LXGWWenKaiMonoTC-Regular.designspace
-  - build/LXGWWenKaiTC-Light.designspace
-  - build/LXGWWenKaiTC-Medium.designspace
-  - build/LXGWWenKaiTC-Regular.designspace
+  - build/LXGWWenKaiMonoTC-Light.ufo
+  - build/LXGWWenKaiMonoTC-Medium.ufo
+  - build/LXGWWenKaiMonoTC-Regular.ufo
+  - build/LXGWWenKaiTC-Light.ufo
+  - build/LXGWWenKaiTC-Medium.ufo
+  - build/LXGWWenKaiTC-Regular.ufo
 reverseOutlineDirection: False
 removeOutlineOverlaps: False
 buildOTF: False
