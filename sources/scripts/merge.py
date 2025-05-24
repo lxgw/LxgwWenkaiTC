@@ -7,6 +7,7 @@ from ufomerge import merge_ufos
 
 SOURCE = Path("sources")
 EXPORT = Path("sources/build")
+EXPORT.mkdir(exist_ok=True)
 
 for file in SOURCE.glob("*.ufo"):
     # We keep a single copy of the common Hanzi data, and merge it into the Latins as necessary
@@ -20,7 +21,7 @@ for file in SOURCE.glob("*.ufo"):
     else:
         commonUFO = ufoLib2.Font.open("sources/temp/LXGWWenKaiTC_common-Light.ufo")
 
-    print ("Merging "+ str(file).split("/")[1])
+    print(f"Merging {file.name}")
 
     merge_ufos(
         coreUFO,
@@ -34,8 +35,4 @@ for file in SOURCE.glob("*.ufo"):
     features = f.read()
 
     coreUFO.features.text = features
-    coreUFO.save(EXPORT/str(file).split("/")[1],overwrite=True,validate=False)
-
-    ds = str(file)[:-3]+"designspace"
-    if os.path.exists(ds):
-        shutil.move(ds,ds.replace("sources/","sources/build/"))
+    coreUFO.save(EXPORT / str(file.name), overwrite=True, validate=False)
