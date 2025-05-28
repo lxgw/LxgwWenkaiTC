@@ -3708,5 +3708,7 @@
     <string>u1F_72.1.glif</string>
     <key>u1F73.1</key>
     <string>u1F_73.1.glif</string>
+    <key>prescription</key>
+    <string>prescription.glif</string>
   </dict>
 </plist>
