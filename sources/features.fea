@@ -3095,11 +3095,8 @@ lookup LigatureSubstitution9 {
 	\u31F3.vert \u31F4.vert \u31F5.vert \u31F6.vert \u31F7.vert \u31F8.vert 
 	\u31F9.vert \u31FA.vert \u31FB.vert \u31FC.vert \u31FD.vert \u31FE.vert 
 	\u31FF.vert \u332C.vert \u301A.vert \u301B.vert ];
-@GDEF_Ligature = [\u2226 \u2251 \u3374 \u3376 \u3380 \u3381 \u338B \u338C \u3391 
-	\u3392 \u3399 \u339A \u33A7 \u33A8 \u33A9 \u73E1 \u7401 \u740B \u7413 \u7B6F \u7C78 
-	\u7D7F \u7F49 \u7FF6 \u8E80 \u20EA2 \u20EF9 \u2107B \u210C1 \u22D33 \u232C9 
-	\u2543B \u2560C \u25B20 \u25B9C \u26220 \u26529 \u26548 \u26553 \u267A6 \u2690E 
-	\u26A99 \u26B3C \u26C0F \u2A3AD ];
+@GDEF_Ligature = [\u3374 \u3376 \u3380 \u3381 \u338B \u338C \u3391 \u3392 \u3399 \u339A
+	\u33A7 \u33A8 \u33A9 ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, @GDEF_Ligature, , ;
