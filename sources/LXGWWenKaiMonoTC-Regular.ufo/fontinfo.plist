@@ -171,9 +171,9 @@ Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee
 		</dict>
 	</array>
 	<key>openTypeNameUniqueID</key>
-	<string>LXGW WenKai Mono TC:Version 1.511</string>
+	<string>LXGW WenKai Mono TC:Version 1.520</string>
 	<key>openTypeNameVersion</key>
-	<string>Version 1.511; March 25, 2025</string>
+	<string>Version 1.520; June 16, 2025</string>
 	<key>openTypeOS2CodePageRanges</key>
 	<array>
 		<integer>0</integer>
@@ -275,7 +275,7 @@ Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>511</integer>
+	<integer>520</integer>
 	<key>xHeight</key>
 	<integer>468</integer>
 </dict>
