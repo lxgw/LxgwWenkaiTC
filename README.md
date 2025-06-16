@@ -31,7 +31,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 
 - 原 [Klee One](https://github.com/fontworks-fonts/Klee) 字體包含的所有漢字字符；
 - [「常用國字標準字體表」](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt) [「常用字字形表」](https://github.com/NightFurySL2001/cjktables/blob/master/hong_kong/hk-changyong.txt)所包含的常用漢字；
-- [BIG5 一級（常用）漢字](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/encoding/big5-1.txt) 5401 個；
+- [BIG5](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/encoding/big5.txt) 所有漢字；
 - IICore 範圍內 9810 個漢字；
 - 港臺地區常用粵語、閩南語、客家語用字（基於[「常用香港外字表」](https://github.com/ichitenfont/suppchara)）：
   - 常用香港外字表 A-C 級：BIG5 應有香港字；
@@ -91,7 +91,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 - 吉祥圖案、CC 授權圖示等字元衍生自 [煮豆黑體](https://github.com/Buernia/Zhudou-Sans)。
 - 缺字標記 `.notdef` 的「🤔」外部輪廓取自 [Noto Emoji (Monochrome)](https://github.com/googlefonts/noto-emoji)。
 - [漢文博士](https://www.cnblogs.com/hanbox/)、[國學迷](http://www.guoxuemi.com/zidian/bujian/)、[字統網](https://zi.tools/)提供部件查字服務。
-- [Aaron Bell](https://github.com/aaronbell)、[@夜煞之樂](https://github.com/NightFurySL2001) 優化構建流程。
+- [Aaron Bell](https://github.com/aaronbell)、[@夜煞之樂](https://github.com/NightFurySL2001) 爲上架 Google Fonts 優化構建流程。
 
 ## 關注作者
 
