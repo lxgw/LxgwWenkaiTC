@@ -18,6 +18,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      # 允许 git-auto-commit 的 GITHUB_TOKEN 写入仓库
+      contents: write
     env: 
       VERSION_TAG: ${{ inputs.version }}
     steps:
