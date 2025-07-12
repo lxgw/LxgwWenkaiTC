@@ -815,6 +815,8 @@ lookup vertVerticalAlternateslookup5 {
     sub uFE56 by uFE56.vert;
     sub uFE57 by uFE57.vert;
     sub u3002.1 by uFE12.1;
+    sub kosmallhira by kosmallhira.vert;
+    sub kosmallkata by kosmallkata.vert;
 } vertVerticalAlternateslookup5;
 
 lookup caltContextualAlternateslookup7 {
