@@ -2,6 +2,7 @@
 <glyph name="u2E2E" format="2">
   <advance height="1000" width="600"/>
   <unicode hex="2E2E"/>
+  <unicode hex="2426"/>
   <outline>
     <contour>
       <point x="317" y="162" type="qcurve" smooth="yes"/>
