@@ -90,6 +90,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 - 方塊繪製字元、表意文字結構描述符（Ideographic Description Character, IDC）等字元借自 [思源黑體](https://github.com/adobe-fonts/source-han-sans)。
 - 吉祥圖案、CC 授權圖示等字元衍生自 [煮豆黑體](https://github.com/Buernia/Zhudou-Sans)。
 - 缺字標記 `.notdef` 的「🤔」外部輪廓取自 [Noto Emoji (Monochrome)](https://github.com/googlefonts/noto-emoji)。
+- 帶圈無襯線數字序號（➀`U+2780`～➓`U+2793`）內部數字字形借自 [Ysabeau Office](https://github.com/CatharsisFonts/Ysabeau) 字體。
 - [漢文博士](https://www.cnblogs.com/hanbox/)、[國學迷](http://www.guoxuemi.com/zidian/bujian/)、[字統網](https://zi.tools/)提供部件查字服務。
 - [Aaron Bell](https://github.com/aaronbell)、[@夜煞之樂](https://github.com/NightFurySL2001) 爲上架 Google Fonts 優化構建流程。
 
