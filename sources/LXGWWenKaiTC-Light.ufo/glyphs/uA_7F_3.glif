@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uA7F3" format="2">
+  <advance height="1000" width="332"/>
+  <unicode hex="A7F3"/>
+  <outline>
+    <contour>
+      <point x="101" y="330" type="qcurve"/>
+      <point x="91" y="330"/>
+      <point x="68" y="339"/>
+      <point x="68" y="349" type="qcurve"/>
+      <point x="69" y="394" type="line"/>
+      <point x="69" y="509" type="line"/>
+      <point x="65" y="511"/>
+      <point x="55" y="530"/>
+      <point x="55" y="536" type="qcurve"/>
+      <point x="55" y="546"/>
+      <point x="69" y="547" type="qcurve"/>
+      <point x="69" y="657" type="line"/>
+      <point x="67" y="682" type="line"/>
+      <point x="67" y="694"/>
+      <point x="79" y="694" type="qcurve"/>
+      <point x="87" y="694"/>
+      <point x="105" y="688" type="qcurve"/>
+      <point x="240" y="697" type="line"/>
+      <point x="283" y="701" type="line"/>
+      <point x="292" y="701"/>
+      <point x="304" y="680"/>
+      <point x="304" y="670" type="qcurve"/>
+      <point x="304" y="657"/>
+      <point x="293" y="657" type="qcurve"/>
+      <point x="241" y="657"/>
+      <point x="114" y="649" type="qcurve"/>
+      <point x="114" y="547" type="line"/>
+      <point x="212" y="553" type="line"/>
+      <point x="225" y="554"/>
+      <point x="249" y="557"/>
+      <point x="256" y="557" type="qcurve"/>
+      <point x="265" y="557"/>
+      <point x="277" y="536"/>
+      <point x="277" y="526" type="qcurve"/>
+      <point x="277" y="513"/>
+      <point x="265" y="513" type="qcurve"/>
+      <point x="214" y="513"/>
+      <point x="114" y="508" type="qcurve"/>
+      <point x="114" y="393"/>
+      <point x="115" y="340" type="qcurve"/>
+      <point x="115" y="330"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>66491e9b48190839ec8160fc30fb699095f4682a0a41d58ccf1941c54b4d7fcad3ef681fd4b7071519f6c32332f71342e48fade0675d7bede89c1e4ec3e126b8</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

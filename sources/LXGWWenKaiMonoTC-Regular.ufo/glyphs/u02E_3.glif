@@ -4,61 +4,66 @@
   <unicode hex="02E3"/>
   <outline>
     <contour>
-      <point x="131" y="331" type="qcurve" smooth="yes"/>
-      <point x="114" y="331"/>
-      <point x="81" y="344"/>
-      <point x="81" y="357" type="qcurve" smooth="yes"/>
-      <point x="81" y="363"/>
-      <point x="101" y="383"/>
-      <point x="132" y="422" type="qcurve" smooth="yes"/>
-      <point x="212" y="530" type="line"/>
-      <point x="137" y="633" type="line" smooth="yes"/>
-      <point x="118" y="659"/>
-      <point x="94" y="681"/>
-      <point x="94" y="687" type="qcurve" smooth="yes"/>
-      <point x="94" y="699"/>
-      <point x="130" y="714"/>
-      <point x="145" y="714" type="qcurve" smooth="yes"/>
-      <point x="162" y="714"/>
-      <point x="169" y="704" type="qcurve" smooth="yes"/>
-      <point x="180" y="685"/>
-      <point x="252" y="585" type="qcurve"/>
-      <point x="315" y="672" type="line" smooth="yes"/>
-      <point x="322" y="680"/>
-      <point x="334" y="700"/>
-      <point x="343" y="717"/>
-      <point x="360" y="717" type="qcurve" smooth="yes"/>
-      <point x="375" y="717"/>
-      <point x="410" y="702"/>
-      <point x="410" y="690" type="qcurve" smooth="yes"/>
-      <point x="410" y="684"/>
-      <point x="390" y="664"/>
-      <point x="368" y="636" type="qcurve" smooth="yes"/>
-      <point x="291" y="531" type="line"/>
-      <point x="369" y="424" type="line" smooth="yes"/>
-      <point x="378" y="412"/>
-      <point x="419" y="366"/>
-      <point x="419" y="359" type="qcurve" smooth="yes"/>
-      <point x="419" y="346"/>
-      <point x="386" y="333"/>
-      <point x="369" y="333" type="qcurve" smooth="yes"/>
-      <point x="349" y="333"/>
-      <point x="342" y="345" type="qcurve" smooth="yes"/>
-      <point x="323" y="376"/>
-      <point x="251" y="475" type="qcurve"/>
-      <point x="185" y="385" type="line" smooth="yes"/>
-      <point x="178" y="376"/>
-      <point x="163" y="351"/>
-      <point x="158" y="345" type="qcurve" smooth="yes"/>
-      <point x="150" y="331"/>
+      <point x="169" y="324" type="qcurve"/>
+      <point x="157" y="324"/>
+      <point x="132" y="333"/>
+      <point x="132" y="345" type="qcurve"/>
+      <point x="132" y="350"/>
+      <point x="147" y="365"/>
+      <point x="168" y="391" type="qcurve"/>
+      <point x="220" y="462" type="line"/>
+      <point x="171" y="530" type="line"/>
+      <point x="159" y="546"/>
+      <point x="141" y="563"/>
+      <point x="141" y="568" type="qcurve"/>
+      <point x="141" y="579"/>
+      <point x="168" y="590"/>
+      <point x="178" y="590" type="qcurve"/>
+      <point x="193" y="590"/>
+      <point x="198" y="581" type="qcurve"/>
+      <point x="206" y="566"/>
+      <point x="251" y="504" type="qcurve"/>
+      <point x="292" y="560" type="line"/>
+      <point x="296" y="565"/>
+      <point x="304" y="579"/>
+      <point x="311" y="592"/>
+      <point x="325" y="592" type="qcurve"/>
+      <point x="335" y="592"/>
+      <point x="362" y="581"/>
+      <point x="362" y="570" type="qcurve"/>
+      <point x="362" y="565"/>
+      <point x="347" y="550"/>
+      <point x="332" y="532" type="qcurve"/>
+      <point x="281" y="462" type="line"/>
+      <point x="333" y="392" type="line"/>
+      <point x="339" y="384"/>
+      <point x="368" y="352"/>
+      <point x="368" y="346" type="qcurve"/>
+      <point x="368" y="335"/>
+      <point x="343" y="325"/>
+      <point x="331" y="325" type="qcurve"/>
+      <point x="315" y="325"/>
+      <point x="309" y="335" type="qcurve"/>
+      <point x="296" y="357"/>
+      <point x="251" y="420" type="qcurve"/>
+      <point x="208" y="362" type="line"/>
+      <point x="190" y="335" type="line"/>
+      <point x="183" y="324"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024/05/16 16:54:16</string>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>84664b07fc330cfa91428dcee3e7deee7ca5f5f82cc7c192b674db8b68e926c3c4aad8a9ca78843d2dcb39417dbea32ff2d89e9c70c91bb057a59639c2e5fd33</string>
+      </dict>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>
