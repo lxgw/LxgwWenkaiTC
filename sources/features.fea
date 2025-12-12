@@ -4,6 +4,7 @@ languagesystem grek dflt;
 languagesystem hani dflt;
 languagesystem kana dflt;
 languagesystem latn dflt;
+languagesystem bopo dflt;
 
 # Prefix: Prefix
 # GSUB 
