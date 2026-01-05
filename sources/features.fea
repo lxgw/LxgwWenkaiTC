@@ -1118,6 +1118,22 @@ lookup LigatureSubstitution9 {
     sub z u0302 by u1E91;
 } LigatureSubstitution9;
 
+lookup SingleSubstitution5 {
+    lookupflag 0;
+    sub emdash by emdash.ccmp;
+} SingleSubstitution5;
+
+lookup MultipleSubstitution1 {
+    lookupflag 0;
+    sub u2E3A by emdash.ccmp emdash;
+    sub u2E3B by emdash.ccmp emdash.ccmp emdash;
+} MultipleSubstitution1;
+
+lookup ChainedContextualGSUB2 {
+    lookupflag 0;
+    sub emdash' lookup SingleSubstitution5 [emdash emdash.ccmp];
+} ChainedContextualGSUB2;
+
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
 
@@ -1200,5 +1216,7 @@ feature ccmp {
     # script DFLT;
     # language dflt;
             lookup LigatureSubstitution9;
+            lookup MultipleSubstitution1;
+            lookup ChainedContextualGSUB2;
 
 } ccmp;
