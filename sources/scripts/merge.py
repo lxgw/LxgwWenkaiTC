@@ -31,7 +31,10 @@ for file in SOURCE.glob("*.ufo"):
     )
 
     # Override the feature code for consistency
-    f = open("sources/features.fea", "r")
+    if "Mono" in str(file):
+        f = open("sources/features_mono.fea", "r")
+    else:
+        f = open("sources/features.fea", "r")
     features = f.read()
 
     coreUFO.features.text = features
