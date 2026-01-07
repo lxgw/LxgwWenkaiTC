@@ -1136,19 +1136,6 @@ lookup ChainedContextualGSUB2 {
 
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
-
-
-table BASE {
-  HorizAxis.BaseTagList hang ideo math romn;
-  HorizAxis.BaseScriptList
-	cyrl romn -120 -120 -120 0,
-	grek romn -120 -120 -120 0,
-	hani romn -120 -120 -120 0,
-	kana romn -120 -120 -120 0,
-	latn romn -120 -120 -120 0,
-	tibt romn -120 -120 -120 0;
-} BASE;
-
 feature afrc {
  # script DFLT;
      # language dflt ;
