@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="u1D25" format="2">
-  <advance width="500"/>
+  <advance height="1000" width="500"/>
   <unicode hex="1D25"/>
   <outline>
     <contour>
@@ -80,7 +80,7 @@
         <string>9a5ee1e85dd2eb114e995d60c2780329c0ead71243d8368fefec1d9773f89a8557bcfe760319275ce83cd10b99260d074ca62567aab47f7905f90a658203fa6a</string>
       </dict>
       <key>public.verticalOrigin</key>
-      <integer>0</integer>
+      <integer>880</integer>
     </dict>
   </lib>
 </glyph>
