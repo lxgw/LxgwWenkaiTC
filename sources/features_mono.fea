@@ -653,6 +653,7 @@ lookup SinglePositioning2 {
     ;
     # Original source: 1 
     pos quotedblleft.vert <0 500 0 -500>;
+    pos quoteleft.vert <0 500 0 -500>;
     pos u3001 <0 250 0 -500>;
     pos u3002 <0 250 0 -500>;
     pos u3018.vert <0 500 0 -500>;
@@ -660,6 +661,7 @@ lookup SinglePositioning2 {
     pos u301A.vert <0 500 0 -500>;
     pos u301B.vert <0 0 0 -500>;
     pos u301F.vert <0 0 0 -500>;
+    pos quoteright.vert <0 0 0 -500>;
     pos u30FB <0 250 0 -500>;
     pos uFE10 <0 250 0 -500>;
     pos uFE11 <0 250 0 -500>;
