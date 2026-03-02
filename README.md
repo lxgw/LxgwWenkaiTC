@@ -74,7 +74,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 ### 限制
 
 - 在製作衍生字型時，字型名稱不可使用原有字型的「保留名稱」。本字型保留名稱「霞鶩」「LXGW」，基於本字型二次衍生的字型，名稱不可出現「霞鶩」或「LXGW」字樣；而在沒有對字型原始碼進行修改的情況下，重新生成的字型，可以繼續使用本字型的保留名稱「霞鶩」「LXGW」。
-- 根據 [SIL Open Font License 1.1](https://openfontlicense.org) 「許可與條件」中第 1 條的規定， **禁止單獨出售字型檔(OTF/TTF檔)的行爲。**
+- 根據 [SIL Open Font License 1.1](https://openfontlicense.org) 「許可與條件」中第 1 條的規定， **禁止單獨出售字型檔（OTF/TTF 檔）的行爲。**
 - 該字型不可在 [SIL Open Font License 1.1](https://openfontlicense.org) 以外的授權許可下發行。
 
 ## 鳴謝
@@ -90,7 +90,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 - 方塊繪製字元、表意文字結構描述符（Ideographic Description Character, IDC）等字元借自 [思源黑體](https://github.com/adobe-fonts/source-han-sans)。
 - 吉祥圖案、CC 授權圖示等字元衍生自 [煮豆黑體](https://github.com/Buernia/Zhudou-Sans)。
 - 缺字標記 `.notdef` 的「🤔」外部輪廓取自 [Noto Emoji (Monochrome)](https://github.com/googlefonts/noto-emoji)。
-- 帶圈無襯線數字序號（➀`U+2780`～➓`U+2793`）內部數字字形借自 [Ysabeau Office](https://github.com/CatharsisFonts/Ysabeau) 字體。
+- 帶圈無襯線數字序號（➀`U+2780`～➓`U+2793`、🄋`U+1F10B`、🄌`U+1F10C`）內部數字字形借自 [Ysabeau Office](https://github.com/CatharsisFonts/Ysabeau) 字體。
 - [漢文博士](https://www.cnblogs.com/hanbox/)、[國學迷](http://www.guoxuemi.com/zidian/bujian/)、[字統網](https://zi.tools/)提供部件查字服務。
 - [Aaron Bell](https://github.com/aaronbell)、[@夜煞之樂](https://github.com/NightFurySL2001) 爲上架 Google Fonts 優化構建流程。
 
