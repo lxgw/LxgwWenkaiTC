@@ -9,13 +9,10 @@ jobs:
   release:
     if: github.event_name == 'release'
     runs-on: ubuntu-latest
-    # set permission
-    permissions:
-      contents: write
     env:
       FULL_ZIP_NAME: lxgw-wenkai-tc-${{ github.event.release.tag_name }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       
       # zip license
       - run: cp OFL.txt fonts/TTF/OFL.txt
