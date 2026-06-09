@@ -24,17 +24,17 @@ jobs:
     env: 
       VERSION_TAG: ${{ inputs.version }}
     steps:
-    - uses: actions/checkout@v4
-    - name: Set up Python 3.10
-      uses: actions/setup-python@v5
+    - uses: actions/checkout@v6
+    - name: Set up Python 3.12
+      uses: actions/setup-python@v6
       with:
-        python-version: "3.10"
+        python-version: "3.12"
     - name: Install sys tools/deps
       run: |
         sudo apt-get update
         sudo apt-get install ttfautohint
         sudo snap install yq
-    - uses: actions/cache@v4
+    - uses: actions/cache@v5
       with:
         path: ./venv/
         key: ${{ runner.os }}-venv-${{ hashFiles('**/requirements*.txt') }}
@@ -61,7 +61,7 @@ jobs:
 
     # Recording files
     - name: Archive built TTFs
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v7
       with:
         name: result_ttf
         path: fonts/TTF/**
@@ -72,7 +72,7 @@ jobs:
     #    path: sources/build/**
     - name: Commit fonts
       if: github.event_name == 'workflow_dispatch'
-      uses: stefanzweifel/git-auto-commit-action@v5
+      uses: stefanzweifel/git-auto-commit-action@v7
       with:
         commit_message: Bump version to ${{ env.VERSION_TAG }}
         file_pattern: 'fonts/TTF/*.ttf sources/*.ufo/fontinfo.plist'
