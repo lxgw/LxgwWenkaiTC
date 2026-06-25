@@ -7,15 +7,14 @@
 # name or J's organization's name should be added to `AUTHORS.txt`
 #
 # Names should be added to this file as:
-# Name <email address
+# Name <email address>
 
-@Zonz
-@內木一郎
-@夜煞之樂
+@Zonz-Ly
+@SyaoranHinata
+@NFSL2001
 @aikahiiragi
 @UltimateAmitieKaiNiC
 @Marcus98T
-@夜魔之乐
-@Georgome
+@GeorgomeFont
 @Magmeta
 @Steve-Yuu
