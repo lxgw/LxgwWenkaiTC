@@ -105,6 +105,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 - [Astalia](https://github.com/Ayaginu-Sue/Astalia)
 - [Ｙ式筆書 / YshiPen-Shuti](https://github.com/Steve-Yuu/YshiPen-Shuti)
 - [混菜寫楷 / Mixed-VsWeKai](https://github.com/FWHP-Enfun/Mixed-VsWeKai)
+- [寒蟬活仿楷 / ChillHuoFangKai](https://github.com/Warren2060/ChillMovableType)
 
 ## 更多「霞鶩」系列字型
 ### 「霞鶩文楷」系列
