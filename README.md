@@ -65,7 +65,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 > [Florence 弗羅侖司](http://florenceko.me/)提供 SIL Open Font License 1.1 非官方[全文中文翻譯](http://florenceko.me/?p=2089)及[解讀](http://florenceko.me/?p=2122)供參考。
 
 ### 許可
-- 這款字型無論是個人還是企業都可以自由商用，無需付費，也無需知會或者標明原作者。（但如果告知，我會很感激。🫶）
+- 這款字型無論是個人還是企業都可以自由使用，包括商用，無需付費，也無需另行知會原作者。（但如果告知，我會很感激。🫶）
 - 這款字型可以自由傳播、分享，或者將字型安裝於系統、嵌入於軟體或 APP 中也是允許的，可以與任何軟體捆綁再分發以及／或一併銷售。
 - 這款字型可以自由修改、改造，製作衍生字型。修改或改造後的字型也必須同樣遵守 [SIL Open Font License 1.1](https://openfontlicense.org/open-font-license-official-text/) 所規定的條款與條件。
 
