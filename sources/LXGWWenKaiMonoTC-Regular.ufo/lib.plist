@@ -1961,6 +1961,34 @@
         <string>uFE54</string>
         <key>FF1F</key>
         <string>uFE56</string>
+        <key>31C0</key>
+        <string>u31C0.002</string>
+        <key>31C6</key>
+        <string>u31C6.002</string>
+        <key>31C9</key>
+        <string>u31C9.002</string>
+        <key>31CF</key>
+        <string>u31CF.002</string>
+        <key>31D0</key>
+        <string>u31D0.002</string>
+        <key>31D1</key>
+        <string>u31D1.002</string>
+        <key>31D2</key>
+        <string>u31D2.002</string>
+        <key>31D4</key>
+        <string>u31D4.002</string>
+        <key>31D5</key>
+        <string>u31D5.002</string>
+        <key>31D7</key>
+        <string>u31D7.002</string>
+        <key>31DB</key>
+        <string>u31DB.002</string>
+        <key>31DB</key>
+        <string>u31DB.002</string>
+        <key>31DD</key>
+        <string>u31DD.002</string>
+        <key>31E5</key>
+        <string>u31E5.002</string>
       </dict>
       <key>FE01</key>
       <dict>
@@ -1988,6 +2016,12 @@
         <string>uFF1B</string>
         <key>FF1F</key>
         <string>uFF1F</string>
+        <key>31C6</key>
+        <string>u31C6.003</string>
+        <key>31CF</key>
+        <string>u31CF.003</string>
+        <key>31DD</key>
+        <string>u31DD.003</string>
       </dict>
     </dict>
   </dict>
