@@ -889,6 +889,14 @@ lookup LigatureSubstitution9 {
     sub u1E73 u030D by uni1E73030D;
     sub y u030C by y_uni030C;
     sub z u0302 by u1E91;
+    sub Eng u0304 by Eng_macroncomb;
+    sub eng u0304 by eng_macroncomb;
+    sub Eng acutecomb by Eng_acutecomb;
+    sub eng acutecomb by eng_acutecomb;
+    sub Eng u030C by Eng_caroncomb;
+    sub eng u030C by eng_caroncomb;
+    sub Eng gravecomb by Eng_gravecomb;
+    sub eng gravecomb by eng_gravecomb;
 } LigatureSubstitution9;
 
 lookup SingleSubstitution5 {

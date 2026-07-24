@@ -3762,5 +3762,25 @@
     <string>u20C_3.glif</string>
     <key>u20C4</key>
     <string>u20C_4.glif</string>
+    <key>Cbar</key>
+    <string>C_bar.glif</string>
+    <key>Eng_acutecomb</key>
+    <string>E_ng_acutecomb.glif</string>
+    <key>Eng_caroncomb</key>
+    <string>E_ng_caroncomb.glif</string>
+    <key>Eng_gravecomb</key>
+    <string>E_ng_gravecomb.glif</string>
+    <key>Eng_macroncomb</key>
+    <string>E_ng_macroncomb.glif</string>
+    <key>cbar</key>
+    <string>cbar.glif</string>
+    <key>eng_acutecomb</key>
+    <string>eng_acutecomb.glif</string>
+    <key>eng_caroncomb</key>
+    <string>eng_caroncomb.glif</string>
+    <key>eng_gravecomb</key>
+    <string>eng_gravecomb.glif</string>
+    <key>eng_macroncomb</key>
+    <string>eng_macroncomb.glif</string>
   </dict>
 </plist>
