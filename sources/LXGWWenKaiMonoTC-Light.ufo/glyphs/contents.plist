@@ -3788,5 +3788,19 @@
     <string>uA_7F_3.glif</string>
     <key>uA7F4</key>
     <string>uA_7F_4.glif</string>
+    <key>u208F</key>
+    <string>u208F_.glif</string>
+    <key>u209D</key>
+    <string>u209D_.glif</string>
+    <key>u209E</key>
+    <string>u209E_.glif</string>
+    <key>u209F</key>
+    <string>u209F_.glif</string>
+    <key>u20C2</key>
+    <string>u20C_2.glif</string>
+    <key>u20C3</key>
+    <string>u20C_3.glif</string>
+    <key>u20C4</key>
+    <string>u20C_4.glif</string>
   </dict>
 </plist>
