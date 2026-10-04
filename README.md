@@ -1,3 +1,12 @@
+> [!IMPORTANT]
+>
+> **重要說明**
+>
+> - 本字體的字形調整參考了[一點字坊「傳承字形標準化文件」](https://github.com/ichitenfont/inheritedglyphs)，但並不追求完全遵循。部分部件視情況做出取捨：如「曰」「艹」等部件，由於涉及漢字數量較多，並未按照「檢校表」改動；此外，本字體中部分部件採用了「檢校表」中收錄的、稍為遷就美觀需要的常見字形，如「蔑」「益」「亟」「老」「殳」等。
+> - 為提升傳承字形的覆蓋率，本字體將 Unicode 中**事實分離但可被認同的異碼字**進行了字圖合併（如「真」歸併到「眞」、「為」歸併到「爲」、「緒」歸併到「緖」等）。因此，本字體**不適用於**有必要區分這類不同字形的場合。
+>
+> 如果您不認可上述做法，或者認為上述改動不符合您的偏好，可選用 [Klee One](https://github.com/fontworks-fonts/Klee)，或在其基礎上衍生的其他字型專案。
+
 # LXGW WenKai TC / 霞鶩文楷 TC
 
 The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
@@ -56,8 +65,8 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 ## 注意事項
 
 1. 本字體的字形調整參考 [一點字坊「傳承字形標準化文件」](https://github.com/ichitenfont/inheritedglyphs)，但並不追求完全遵循之，有些部件會視情況做出取捨（如「曰」部件、「艹」部件等，由於涉及的漢字數量較多，故並未按照「檢校表」做改動；此外本字體中的部分部件採用了「檢校表」中收錄的一些稍為遷就美觀需要的常見字形，如「蔑」「益」「亟」「老」「殳」等部件）。如有部件不統一、輪廓問題或其他字形方面的問題，請在 [Issue #14](https://github.com/lxgw/LxgwWenkaiTC/issues/14) 提出，~~如有加字需求請在 [Issue #13](https://github.com/lxgw/LxgwWenkaiTC/issues/13) 提出~~，不要另開話題。**由於字型檔越發臃腫，v1.330 發佈後暫時關閉加字通道，不會接受用戶加字請求，敬請諒解。**
-2. 為提升傳承字形的覆蓋率，本字體將 Unicode 中事實分離但可被認同的異碼字進行了統一（如「真」合併到「眞」、「為」合併到「爲」、「緒」合併到「緖」等），因此本字體**不適用於**有必要區分這類不同字形的場合。如確有區分這類字形的需求，請選用基於 Klee One 衍生的其他字體專案。
-3. 如需要臺灣教育標準字形（即「臺標字形」），請移步 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui)；香港標準字形請參閱 [芫茜雅楷 / JyunsaiKaai](https://github.com/ItMarki/jyunsaikaai)。
+2. 為提升傳承字形的覆蓋率，本字體將 Unicode 中**事實分離但可被認同的異碼字**進行了字圖合併（如「真」歸併到「眞」、「為」歸併到「爲」、「緒」歸併到「緖」等），因此本字體**不適用於**有必要區分這類不同字形的場合。如確有區分這類字形的需求，請選用 Klee One 或在其基礎上衍生的其他字型專案。
+3. 如需要臺灣教育標準字形（即「臺標字形」），可移步 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui)；香港標準字形可參閱 [芫茜雅楷 / JyunsaiKaai](https://github.com/ItMarki/jyunsaikaai)。
 4. 關於可搭配的西文字體，個人推薦 [Ysabeau](https://github.com/CatharsisFonts/Ysabeau) 系列。另有 Ysabeau Office 與霞鶩文楷系列的合併字體 [LXGW Bright](https://github.com/lxgw/LxgwBright)，採用 [字體合併補全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 將兩款字體合併而成。亦有中英文合併的等寬字體 [LXGW Bright Code](https://github.com/lxgw/LxgwBright-Code)，採用 [Monaspace Argon](https://github.com/githubnext/monaspace) 經縮窄調整後與霞鶩文楷系列合併而成。
 
 ## 授權資訊
