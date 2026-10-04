@@ -9,7 +9,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 
 ## 介紹
 
-本專案爲 [霞鶩文楷](https://github.com/lxgw/LxgwWenkai) 的繁體中文版。最初主要使用 [AFDKO](https://github.com/adobe-type-tools/afdko) 配合 [極限社區 Zonz 提供的傳承字形、康熙舊形 ttx 檔（現已無法訪問）](https://bbs.themex.net/showthread.php?t=16906063) 將 [Klee One](https://github.com/fontworks-fonts/Klee) 中包含的漢字轉換爲舊字形，並補入修改前的舊版「霞鶩文楷」字形，部分部件和單字進一步手動修改；而後參考 [一點字坊「傳承字形標準化文件」](https://github.com/ichitenfont/inheritedglyphs) 對大部分部件進行修改，更適合繁體中文使用者及傳承字形偏好者使用。
+本專案為 [霞鶩文楷](https://github.com/lxgw/LxgwWenkai) 的繁體中文版。最初主要使用 [AFDKO](https://github.com/adobe-type-tools/afdko) 配合 [極限社區 Zonz 提供的傳承字形、康熙舊形 ttx 檔（現已無法訪問）](https://bbs.themex.net/showthread.php?t=16906063) 將 [Klee One](https://github.com/fontworks-fonts/Klee) 中包含的漢字轉換為舊字形，並補入修改前的舊版「霞鶩文楷」字形，部分部件和單字進一步手動修改；而後參考 [一點字坊「傳承字形標準化文件」](https://github.com/ichitenfont/inheritedglyphs) 對大部分部件進行修改，更適合繁體中文使用者及傳承字形偏好者使用。
 
 「霞鶩文楷 TC」支援 Unicode 變體序列（Unicode Variation Sequences, UVS），用於標點符號寬度和位置的選擇，[點擊此處查看一覽表](documentation/uvs.pdf)。
 
@@ -55,9 +55,10 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 
 ## 注意事項
 
-1. 本字體的字形調整參考 [一點字坊「傳承字形標準化文件」](https://github.com/ichitenfont/inheritedglyphs)，但並不追求完全遵循之，有些部件會視情況做出取捨（如「曰」部件、「艹」部件等，由於涉及的漢字數量較多，故並未按照「檢校表」做改動；此外本字體中的部分部件採用了「檢校表」中收錄的一些稍爲遷就美觀需要的常見字形，如「蔑」「益」「亟」「老」「殳」等部件）。如有部件不統一、輪廓問題或其他字形方面的問題，請在 [Issue #14](https://github.com/lxgw/LxgwWenkaiTC/issues/14) 提出，~~如有加字需求請在 [Issue #13](https://github.com/lxgw/LxgwWenkaiTC/issues/13) 提出~~，不要另開話題。**由於字型檔越發臃腫，v1.330 發佈後暫時關閉加字通道，不會接受用戶加字請求，敬請諒解。**
-2. 如需要臺灣教育標準字形（即「臺標字形」），請移步 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui)；香港標準字形請參閱 [芫茜雅楷 / JyunsaiKaai](https://github.com/ItMarki/jyunsaikaai)。
-3. 關於可搭配的西文字體，個人推薦 [Ysabeau](https://github.com/CatharsisFonts/Ysabeau) 系列。另有 Ysabeau Office 與霞鶩文楷系列的合併字體 [LXGW Bright](https://github.com/lxgw/LxgwBright)，採用 [字體合併補全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 將兩款字體合併而成。亦有中英文合併的等寬字體 [LXGW Bright Code](https://github.com/lxgw/LxgwBright-Code)，採用 [Monaspace Argon](https://github.com/githubnext/monaspace) 經縮窄調整後與霞鶩文楷系列合併而成。
+1. 本字體的字形調整參考 [一點字坊「傳承字形標準化文件」](https://github.com/ichitenfont/inheritedglyphs)，但並不追求完全遵循之，有些部件會視情況做出取捨（如「曰」部件、「艹」部件等，由於涉及的漢字數量較多，故並未按照「檢校表」做改動；此外本字體中的部分部件採用了「檢校表」中收錄的一些稍為遷就美觀需要的常見字形，如「蔑」「益」「亟」「老」「殳」等部件）。如有部件不統一、輪廓問題或其他字形方面的問題，請在 [Issue #14](https://github.com/lxgw/LxgwWenkaiTC/issues/14) 提出，~~如有加字需求請在 [Issue #13](https://github.com/lxgw/LxgwWenkaiTC/issues/13) 提出~~，不要另開話題。**由於字型檔越發臃腫，v1.330 發佈後暫時關閉加字通道，不會接受用戶加字請求，敬請諒解。**
+2. 為提升傳承字形的覆蓋率，本字體將 Unicode 中事實分離但可被認同的異碼字進行了統一（如「眞」「真」統一作「眞」、「爲」「為」統一作「爲」、「緖」「緒」統一作「緖」等），因此本字體**不適用於**有必要區分這類不同字形的場合。如確有區分這類字形的需求，請選用基於 Klee One 衍生的其他字體專案。
+3. 如需要臺灣教育標準字形（即「臺標字形」），請移步 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui)；香港標準字形請參閱 [芫茜雅楷 / JyunsaiKaai](https://github.com/ItMarki/jyunsaikaai)。
+4. 關於可搭配的西文字體，個人推薦 [Ysabeau](https://github.com/CatharsisFonts/Ysabeau) 系列。另有 Ysabeau Office 與霞鶩文楷系列的合併字體 [LXGW Bright](https://github.com/lxgw/LxgwBright)，採用 [字體合併補全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 將兩款字體合併而成。亦有中英文合併的等寬字體 [LXGW Bright Code](https://github.com/lxgw/LxgwBright-Code)，採用 [Monaspace Argon](https://github.com/githubnext/monaspace) 經縮窄調整後與霞鶩文楷系列合併而成。
 
 ## 授權資訊
 
@@ -71,7 +72,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 
 ### 限制
 - 根據 OFL 1.1「許可與條件」中第 1 條的規定，禁止單獨出售字型檔案（OTF/TTF 格式檔案）。
-- 根據 OFL 1.1「許可與條件」中第 3 條的規定，在製作衍生字型時，未經作者明確的書面授權，字型名稱不可使用原有字型的「保留名稱」。然而，本字型已經上架 [Google Fonts](https://fonts.google.com)，爲配合該平臺當時的上架規定，未在 OFL.txt 中聲明保留名稱。因此，在法律上，本字型的保留名稱條款不具強制效力，但是，作者（@lxgw）仍希望基於開源社區的共識與慣例，呼籲衍生字型的名稱中避免使用以下字樣：**霞鶩**（霞鹜）、**落霞孤鶩**（落霞孤鹜）、**LXGW**，以尊重作者（@lxgw）的筆名及品牌標識。同時，根據第 4 條，未經作者（@lxgw）明確書面授權，本字型的任何衍生字型不得以作者（@lxgw）的名義推廣、背書或宣傳。
+- 根據 OFL 1.1「許可與條件」中第 3 條的規定，在製作衍生字型時，未經作者明確的書面授權，字型名稱不可使用原有字型的「保留名稱」。然而，本字型已經上架 [Google Fonts](https://fonts.google.com)，為配合該平臺當時的上架規定，未在 OFL.txt 中聲明保留名稱。因此，在法律上，本字型的保留名稱條款不具強制效力，但是，作者（@lxgw）仍希望基於開源社區的共識與慣例，呼籲衍生字型的名稱中避免使用以下字樣：**霞鶩**（霞鹜）、**落霞孤鶩**（落霞孤鹜）、**LXGW**，以尊重作者（@lxgw）的筆名及品牌標識。同時，根據第 4 條，未經作者（@lxgw）明確書面授權，本字型的任何衍生字型不得以作者（@lxgw）的名義推廣、背書或宣傳。
 - 根據 OFL 1.1「許可與條件」中第 5 條的規定，該字型不可在 OFL 1.1 以外的授權許可下發行，亦不可將該字型與可能造成許可證衝突的其他授權字型（如 GNU GPL、IPA 等）混合至同一字型檔案。
 
 ## 鳴謝
@@ -89,7 +90,7 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 - 缺字標記 `.notdef` 的「🤔」外部輪廓取自 [Noto Emoji (Monochrome)](https://github.com/googlefonts/noto-emoji)。
 - 帶圈無襯線數字序號（➀`U+2780`～➓`U+2793`、🄋`U+1F10B`、🄌`U+1F10C`）內部數字字形借自 [Ysabeau Office](https://github.com/CatharsisFonts/Ysabeau) 字體。
 - [漢文博士](https://www.cnblogs.com/hanbox/)、[國學迷](http://www.guoxuemi.com/zidian/bujian/)、[字統網](https://zi.tools/)提供部件查字服務。
-- [Aaron Bell](https://github.com/aaronbell)、[@夜煞之樂](https://github.com/NightFurySL2001) 爲上架 Google Fonts 優化構建流程。
+- [Aaron Bell](https://github.com/aaronbell)、[@夜煞之樂](https://github.com/NightFurySL2001) 為上架 Google Fonts 優化構建流程。
 
 ## 關注作者
 
