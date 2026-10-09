@@ -915,6 +915,24 @@ lookup ChainedContextualGSUB2 {
     sub emdash' lookup SingleSubstitution5 [emdash emdash.ccmp];
 } ChainedContextualGSUB2;
 
+lookup SingleSubstitution6 {
+    lookupflag 0;
+    sub quotedblleft by quotedblleft.full;
+    sub quotedblright by quotedblright.full;
+    sub quoteleft by quoteleft.full;
+    sub quoteright by quoteright.full;
+    sub periodcentered by u30FB;
+    sub multiply by multiply.full;
+    sub divide by divide.full;
+    sub plusminus by plusminus.full;
+    sub degree by degree.full;
+    sub minute by minute.full;
+    sub second by second.full;
+    sub Euro by Euro.full;
+    sub section by section.full;
+    sub radical by radical.full;
+} SingleSubstitution6;
+
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
 
@@ -989,3 +1007,9 @@ feature ccmp {
             lookup ChainedContextualGSUB2;
 
 } ccmp;
+
+feature fwid {
+ # script DFLT;
+     # language dflt;
+      lookup SingleSubstitution6;
+} fwid;
