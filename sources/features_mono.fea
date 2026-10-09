@@ -931,6 +931,8 @@ lookup SingleSubstitution6 {
     sub Euro by Euro.full;
     sub section by section.full;
     sub radical by radical.full;
+    sub product by product.full;
+    sub summation by summation.full;
 } SingleSubstitution6;
 
 #Mark attachment classes (defined in GDEF, used in lookupflags)
