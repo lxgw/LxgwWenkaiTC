@@ -69,6 +69,28 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 3. 如需要臺灣教育標準字形（即「臺標字形」），可移步 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui)；香港標準字形可參閱 [芫茜雅楷 / JyunsaiKaai](https://github.com/ItMarki/jyunsaikaai)。
 4. 關於可搭配的西文字體，個人推薦 [Ysabeau](https://github.com/CatharsisFonts/Ysabeau) 系列。另有 Ysabeau Office 與霞鶩文楷系列的合併字體 [LXGW Bright](https://github.com/lxgw/LxgwBright)，採用 [字體合併補全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 將兩款字體合併而成。亦有中英文合併的等寬字體 [LXGW Bright Code](https://github.com/lxgw/LxgwBright-Code)，採用 [Monaspace Argon](https://github.com/githubnext/monaspace) 經縮窄調整後與霞鶩文楷系列合併而成。
 
+### 不計劃支援的功能
+
+以下功能請求經評估後，均不在可預見的開發計劃內，恕不逐一回覆相關 Issue 或 PR。
+
+#### 可變字重
+
+可變字重需要解決輪廓相容性、節點插值、字重軸設計等一系列複雜問題，工程量極大。加之本人缺乏製作可變字型的經驗，因此無法將其納入開發計劃。如需可變版本，可關注社群其他作者基於本字型衍生的相關專案。
+
+#### Mark-to-base / mark-to-mark複雜排版特性
+
+`mark` 與 `mkmk` 特性主要用於組合標記的定位（如拉丁字母附加符號、印度文連寫等）。本字型為中文正文楷體，漢字沒有此類組合標記的排版需求，實裝該特性需要編寫極其複雜的 OpenType 腳本，會顯著增加字型複雜度與渲染風險。因此不計劃支援。
+
+#### Nerd 圖示
+
+Nerd Fonts 圖示集主要面向等寬編程字型，用於在終端機或程式碼編輯器中顯示檔案類型、版本控制等圖示。本字型定位為正文楷體，雖有等寬版，但僅支援 PowerLine 符號。如果加入大量風格不一的 Nerd 圖示，會使字型檔案更加臃腫，並帶來巨大的維護成本。因此不計劃提供 Nerd 圖示版本。如需在終端機中使用圖示字型，建議選用專門的等寬 Nerd Fonts 專案，或者移步 [LXGW Bright Code](https://github.com/lxgw/LxgwBright-Code)（該專案可能隨時取消，也可能直接取代此前不帶 Nerd 圖示的版本）。
+
+#### 完整版（或 Plus 版）
+
+考量到本字型所採用的「傳承字形」需要遵守複雜的部件對立與統一規則，可能需要額外考慮「字理」相關因素，因此沒有將字庫擴充為和「霞鶩文楷」「霞鶩文楷 GB」完整版一致的大字庫，而僅與其 Lite 版看齊。
+
+若強行擴充字庫，意味著每一字都需重新考訂部件歸屬與字形取捨，工作量與審校難度遠超普通字型專案。在有限精力下，與其推出一個充滿取捨爭議、維護困難的完整版，不如將 Lite 版作為本專案的明確定位。如需更大字庫，且不介意字形上的問題，建議直接使用[「霞鶩文楷」](https://github.com/lxgw/LxgwWenkai)或[「霞鶩文楷 GB」](https://github.com/lxgw/LxgwWenkaiGB)完整版。
+
 ## 授權資訊
 
 本字型是基於 FONTWORKS 開發並發佈的開源字型 [Klee One](https://github.com/fontworks-fonts/Klee) 改造而成的衍生項目，遵循 [SIL Open Font License 1.1](https://openfontlicense.org/open-font-license-official-text/) 開放源碼授權條款。Klee 是 FONTWORKS 的商標。
