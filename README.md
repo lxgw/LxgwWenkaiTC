@@ -159,6 +159,12 @@ Nerd Fonts 圖示集主要面向等寬編程字型，用於在終端機或程式
 - [小賴字體 / Xiaolai](https://github.com/lxgw/kose-font)
 - [悠哉字體 / Yozai](https://github.com/lxgw/yozai-font)
 
-## Stargazers over time
+## Star History
 
-[![Stargazers over time](https://starchart.cc/lxgw/LxgwWenkaiTC.svg)](https://starchart.cc/lxgw/LxgwWenkaiTC)
+<a href="https://www.star-history.com/?repos=lxgw%2Flxgwwenkaitc&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=lxgw/lxgwwenkaitc&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=lxgw/lxgwwenkaitc&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=lxgw/lxgwwenkaitc&type=date&legend=top-left" />
+ </picture>
+</a>
