@@ -141,7 +141,11 @@ Nerd Fonts 圖示集主要面向等寬編程字型，用於在終端機或程式
 - [混菜寫楷 / Mixed-VsWeKai](https://github.com/FWHP-Enfun/Mixed-VsWeKai)
 - [寒蟬活仿楷 / ChillHuoFangKai](https://github.com/Warren2060/ChillMovableType)
 
-## 更多「霞鶩」開源字型
+<h2>
+<img alt="霞鶩開源字型" src="https://raw.githubusercontent.com/lxgw/lxgw/refs/heads/main/images/osf-logo/lxgwosf-tc-day.svg#gh-light-mode-only" width = "512" height = "128"/>
+<img alt="霞鶩開源字型" src="https://raw.githubusercontent.com/lxgw/lxgw/refs/heads/main/images/osf-logo/lxgwosf-tc-night.svg#gh-dark-mode-only" width = "512" height = "128"/>
+</h2>
+
 ### 「霞鶩文楷」系列
 - **霞鶩文楷 TC / LXGW WenKai TC**
 - [霞鶩文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenKaiGB) | [Lite](https://github.com/lxgw/LxgwWenKaiGB-Lite)
