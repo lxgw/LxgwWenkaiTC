@@ -89,6 +89,8 @@ Nerd Fonts 圖示集主要面向等寬程式字型，用於在終端機或程式
 **關於程式連字（Ligatures）**：
 程式連字功能會引入 1.5 EM 甚至 2 EM 的字形寬度，這會導致字型在 GNU/Linux 環境下的終端機程式中無法被辨識為等寬字型。業界如 [Monaspace](https://github.com/githubnext/monaspace) 雖然透過複雜的 OpenType 腳本解決了該問題，但這超出了本專案的維護精力，因此不計劃支援。
 
+如您有 Nerd 圖示或程式連字的需求，建議移步 [LXGW Bright Code](https://github.com/lxgw/LxgwBright-Code)（該專案可能隨時取消，也可能直接取代此前不帶 NF 圖示的版本）。
+
 #### 完整版（或 Plus 版）
 
 考量到本字型所採用的「傳承字形」需要遵守複雜的部件對立與統一規則，可能需要額外照顧「字理」相關因素，因此沒有將字庫擴充為與「霞鶩文楷」「霞鶩文楷 GB」完整版一致的大字庫，而僅與其 Lite 版看齊。
