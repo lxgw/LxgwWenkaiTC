@@ -3824,5 +3824,7 @@
     <string>eng_gravecomb.glif</string>
     <key>eng_macroncomb</key>
     <string>eng_macroncomb.glif</string>
+    <key>revlogicalnot</key>
+    <string>revlogicalnot.glif</string>
   </dict>
 </plist>

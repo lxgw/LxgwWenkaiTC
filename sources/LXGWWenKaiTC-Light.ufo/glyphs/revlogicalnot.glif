@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="revlogicalnot" format="2">
+  <advance height="1000" width="590"/>
+  <unicode hex="2310"/>
+  <outline>
+    <contour>
+      <point x="141" y="314" type="line"/>
+      <point x="141" y="121" type="line"/>
+      <point x="141" y="114"/>
+      <point x="125" y="105"/>
+      <point x="103" y="105"/>
+      <point x="87" y="114"/>
+      <point x="87" y="121" type="qcurve"/>
+      <point x="87" y="322" type="line"/>
+      <point x="87" y="344"/>
+      <point x="111" y="368"/>
+      <point x="133" y="368" type="qcurve"/>
+      <point x="520" y="368" type="line"/>
+      <point x="527" y="368"/>
+      <point x="536" y="352"/>
+      <point x="536" y="330"/>
+      <point x="527" y="314"/>
+      <point x="520" y="314" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>a55f3122a9a68a613575f739d93ef9413f24e6e529f3023aabd3cb3e3e4f4c808f730c3b788c89a1a0f39ba4a5aa3e7f43ddd0b74aa4affef61d193c4d27bf09</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>
