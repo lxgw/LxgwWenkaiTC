@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="triaglf.half" format="2">
+  <advance width="500" height="1000"/>
+  <outline>
+    <contour>
+      <point x="39" y="377" type="line"/>
+      <point x="418" y="648" type="line"/>
+      <point x="418" y="106" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

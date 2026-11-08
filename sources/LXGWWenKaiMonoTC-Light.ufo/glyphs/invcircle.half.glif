@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="invcircle.half" format="2">
+  <advance width="500" height="1000"/>
+  <outline>
+    <contour>
+      <point x="362" y="269"/>
+      <point x="292" y="227"/>
+      <point x="208" y="227"/>
+      <point x="139" y="269"/>
+      <point x="97" y="338"/>
+      <point x="97" y="422"/>
+      <point x="139" y="492"/>
+      <point x="208" y="533"/>
+      <point x="292" y="533"/>
+      <point x="362" y="492"/>
+      <point x="403" y="422"/>
+      <point x="403" y="338"/>
+    </contour>
+    <contour>
+      <point x="416" y="493"/>
+      <point x="362" y="547"/>
+      <point x="290" y="578"/>
+      <point x="210" y="578"/>
+      <point x="138" y="547"/>
+      <point x="82" y="493"/>
+      <point x="52" y="421"/>
+      <point x="52" y="340"/>
+      <point x="82" y="268"/>
+      <point x="138" y="213"/>
+      <point x="210" y="182"/>
+      <point x="290" y="182"/>
+      <point x="362" y="213"/>
+      <point x="416" y="268"/>
+      <point x="448" y="340"/>
+      <point x="448" y="421"/>
+    </contour>
+    <contour>
+      <point x="0" y="-120" type="line"/>
+      <point x="0" y="880" type="line"/>
+      <point x="500" y="880" type="line"/>
+      <point x="500" y="-120" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

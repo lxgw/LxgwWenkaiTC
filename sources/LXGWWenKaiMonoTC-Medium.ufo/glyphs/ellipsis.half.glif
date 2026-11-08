@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis.half" format="2">
+  <advance width="500" height="1000"/>
+  <outline>
+    <contour>
+      <point x="475" y="15"/>
+      <point x="447" y="-15"/>
+      <point x="393" y="-15"/>
+      <point x="358" y="27"/>
+      <point x="358" y="74"/>
+      <point x="387" y="107"/>
+      <point x="439" y="107"/>
+      <point x="475" y="62"/>
+    </contour>
+    <contour>
+      <point x="309" y="15"/>
+      <point x="281" y="-15"/>
+      <point x="227" y="-15"/>
+      <point x="192" y="27"/>
+      <point x="192" y="74"/>
+      <point x="221" y="107"/>
+      <point x="273" y="107"/>
+      <point x="309" y="62"/>
+    </contour>
+    <contour>
+      <point x="143" y="15"/>
+      <point x="115" y="-15"/>
+      <point x="61" y="-15"/>
+      <point x="26" y="27"/>
+      <point x="26" y="74"/>
+      <point x="55" y="107"/>
+      <point x="107" y="107"/>
+      <point x="143" y="62"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

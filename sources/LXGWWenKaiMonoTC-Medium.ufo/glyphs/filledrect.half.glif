@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="filledrect.half" format="2">
+  <advance width="500" height="1000"/>
+  <outline>
+    <contour>
+      <point x="29" y="250" type="line"/>
+      <point x="29" y="492" type="line"/>
+      <point x="471" y="492" type="line"/>
+      <point x="471" y="250" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <real>879.75</real>
+    </dict>
+  </lib>
+</glyph>

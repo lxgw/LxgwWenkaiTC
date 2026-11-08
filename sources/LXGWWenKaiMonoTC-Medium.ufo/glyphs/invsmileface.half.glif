@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="invsmileface.half" format="2">
+  <advance width="500" height="1000"/>
+  <outline>
+    <contour>
+      <point x="353" y="291" type="qcurve"/>
+      <point x="353" y="301"/>
+      <point x="334" y="326"/>
+      <point x="298" y="326"/>
+      <point x="293" y="310" type="qcurve"/>
+      <point x="277" y="268"/>
+      <point x="225" y="268"/>
+      <point x="208" y="310" type="qcurve"/>
+      <point x="204" y="325"/>
+      <point x="168" y="325"/>
+      <point x="148" y="300"/>
+      <point x="148" y="291" type="qcurve"/>
+      <point x="148" y="273"/>
+      <point x="171" y="243" type="qcurve"/>
+      <point x="201" y="202"/>
+      <point x="298" y="202"/>
+      <point x="328" y="240" type="qcurve"/>
+      <point x="353" y="272"/>
+    </contour>
+    <contour>
+      <point x="153" y="400"/>
+      <point x="200" y="400"/>
+      <point x="218" y="428"/>
+      <point x="218" y="465"/>
+      <point x="196" y="506"/>
+      <point x="153" y="506"/>
+      <point x="131" y="481"/>
+      <point x="131" y="441"/>
+    </contour>
+    <contour>
+      <point x="304" y="400"/>
+      <point x="351" y="400"/>
+      <point x="370" y="428"/>
+      <point x="370" y="465"/>
+      <point x="347" y="506"/>
+      <point x="305" y="506"/>
+      <point x="283" y="481"/>
+      <point x="283" y="441"/>
+    </contour>
+    <contour>
+      <point x="70" y="612"/>
+      <point x="179" y="705"/>
+      <point x="321" y="705"/>
+      <point x="431" y="612"/>
+      <point x="494" y="462"/>
+      <point x="494" y="277"/>
+      <point x="431" y="126"/>
+      <point x="321" y="33"/>
+      <point x="179" y="33"/>
+      <point x="70" y="126"/>
+      <point x="7" y="277"/>
+      <point x="7" y="462"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <real>880.125</real>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SF270000.half" format="2">
+  <advance width="500" height="1000"/>
+  <outline>
+    <contour>
+      <point x="270" y="880" type="line"/>
+      <point x="310" y="880" type="line"/>
+      <point x="310" y="360" type="line"/>
+      <point x="0" y="360" type="line"/>
+      <point x="0" y="400" type="line"/>
+      <point x="190" y="400" type="line"/>
+      <point x="190" y="880" type="line"/>
+      <point x="230" y="880" type="line"/>
+      <point x="230" y="400" type="line"/>
+      <point x="270" y="400" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

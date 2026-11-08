@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="intersection.half" format="2">
+  <advance width="500" height="1000"/>
+  <outline>
+    <contour>
+      <point x="396" y="455" type="line"/>
+      <point x="396" y="523"/>
+      <point x="351" y="617"/>
+      <point x="285" y="665"/>
+      <point x="215" y="665"/>
+      <point x="147" y="618"/>
+      <point x="100" y="523"/>
+      <point x="100" y="455" type="qcurve"/>
+      <point x="100" y="57" type="line"/>
+      <point x="100" y="52"/>
+      <point x="88" y="42"/>
+      <point x="65" y="42"/>
+      <point x="51" y="52"/>
+      <point x="51" y="57" type="qcurve"/>
+      <point x="51" y="460" type="line"/>
+      <point x="51" y="536"/>
+      <point x="102" y="653"/>
+      <point x="193" y="722"/>
+      <point x="242" y="722" type="qcurve"/>
+      <point x="334" y="722"/>
+      <point x="446" y="572"/>
+      <point x="446" y="460" type="qcurve"/>
+      <point x="446" y="57" type="line"/>
+      <point x="446" y="52"/>
+      <point x="433" y="42"/>
+      <point x="410" y="42"/>
+      <point x="396" y="52"/>
+      <point x="396" y="57" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>
