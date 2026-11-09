@@ -3826,6 +3826,26 @@
     <string>eng_macroncomb.glif</string>
     <key>revlogicalnot</key>
     <string>revlogicalnot.glif</string>
+    <key>asciitilde.calt</key>
+    <string>asciitilde.calt.glif</string>
+    <key>divide.calt</key>
+    <string>divide.calt.glif</string>
+    <key>equal.calt</key>
+    <string>equal.calt.glif</string>
+    <key>greater.calt</key>
+    <string>greater.calt.glif</string>
+    <key>hyphenminus.calt</key>
+    <string>hyphenminus.calt.glif</string>
+    <key>less.calt</key>
+    <string>less.calt.glif</string>
+    <key>minus.calt</key>
+    <string>minus.calt.glif</string>
+    <key>multiply.calt</key>
+    <string>multiply.calt.glif</string>
+    <key>plus.calt</key>
+    <string>plus.calt.glif</string>
+    <key>plusminus.calt</key>
+    <string>plusminus.calt.glif</string>
     <key>SF010000.half</key>
     <string>S_F_010000.half.glif</string>
     <key>SF020000.half</key>

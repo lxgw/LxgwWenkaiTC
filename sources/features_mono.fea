@@ -6,8 +6,25 @@ languagesystem kana dflt;
 languagesystem latn dflt;
 languagesystem bopo dflt;
 
+@CG_1 = [zero one two three four five six seven eight nine];
+@CG_2 = [colon plus hyphen less equal greater asciitilde plusminus multiply divide minus];
 # Prefix: Prefix
 # GSUB 
+lookup SingleSubstitution4 {
+  lookupflag 0;
+    sub colon by colon.calt;
+    sub plus by plus.calt;
+    sub hyphen by hyphenminus.calt;
+    sub less by less.calt;
+    sub equal by equal.calt;
+    sub greater by greater.calt;
+    sub asciitilde by asciitilde.calt;
+    sub plusminus by plusminus.calt;
+    sub multiply by multiply.calt;
+    sub divide by divide.calt;
+    sub minus by minus.calt;
+} SingleSubstitution4;
+
 lookup afrcVerticalFractionslookup0 {
   lookupflag 0;
     sub \uFF10 \uFF0F \uFF13  by \zero_slash_three.afrc;
@@ -593,7 +610,7 @@ lookup vertVerticalAlternateslookup5 {
 
 lookup caltContextualAlternateslookup7 {
   lookupflag 0;
-    sub [\zero \one \two \three \four \five \six \seven \eight \nine ] [\colon ]' [\zero \one \two \three \four \five \six \seven \eight \nine ]  by [\colon.calt ];
+    sub @CG_1 @CG_2' lookup SingleSubstitution4 @CG_1;
 } caltContextualAlternateslookup7;
 
 lookup saltStylisticAlternativeslookup9 {
@@ -933,6 +950,9 @@ lookup SingleSubstitution6 {
     sub radical by radical.full;
     sub product by product.full;
     sub summation by summation.full;
+    sub multiply.calt by multiply.full;
+    sub divide.calt by divide.full;
+    sub plusminus.calt by plusminus.full;
 } SingleSubstitution6;
 
 lookup SingleSubstitution7 {

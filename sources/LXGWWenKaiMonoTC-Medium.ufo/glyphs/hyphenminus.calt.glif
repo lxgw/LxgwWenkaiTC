@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphenminus.calt" format="2">
+  <advance width="500" height="1000"/>
+  <outline>
+    <contour>
+      <point x="114" y="312" type="qcurve"/>
+      <point x="84" y="312"/>
+      <point x="84" y="357" type="qcurve"/>
+      <point x="84" y="387"/>
+      <point x="108" y="387" type="qcurve"/>
+      <point x="137" y="385"/>
+      <point x="257" y="385" type="qcurve"/>
+      <point x="367" y="385"/>
+      <point x="399" y="387" type="qcurve"/>
+      <point x="413" y="387"/>
+      <point x="426" y="357"/>
+      <point x="426" y="343" type="qcurve"/>
+      <point x="426" y="313"/>
+      <point x="404" y="313" type="qcurve"/>
+      <point x="384" y="313"/>
+      <point x="352" y="315"/>
+      <point x="256" y="315" type="qcurve"/>
+      <point x="131" y="315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

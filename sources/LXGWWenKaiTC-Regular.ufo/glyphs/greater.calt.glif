@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater.calt" format="2">
+  <advance width="600" height="1000"/>
+  <outline>
+    <contour>
+      <point x="439" y="351" type="qcurve"/>
+      <point x="236" y="455"/>
+      <point x="127" y="521"/>
+      <point x="112" y="529" type="qcurve"/>
+      <point x="102" y="536"/>
+      <point x="102" y="575"/>
+      <point x="112" y="603"/>
+      <point x="121" y="603" type="qcurve"/>
+      <point x="124" y="603"/>
+      <point x="202" y="544"/>
+      <point x="456" y="399"/>
+      <point x="483" y="394"/>
+      <point x="500" y="384"/>
+      <point x="511" y="352"/>
+      <point x="511" y="328"/>
+      <point x="504" y="315"/>
+      <point x="490" y="310" type="qcurve"/>
+      <point x="444" y="294"/>
+      <point x="179" y="139"/>
+      <point x="128" y="98" type="qcurve"/>
+      <point x="124" y="95"/>
+      <point x="120" y="95" type="qcurve"/>
+      <point x="110" y="95"/>
+      <point x="97" y="126"/>
+      <point x="97" y="162"/>
+      <point x="106" y="166" type="qcurve"/>
+      <point x="140" y="185"/>
+      <point x="310" y="286"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>
