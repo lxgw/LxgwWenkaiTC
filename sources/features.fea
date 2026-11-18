@@ -355,6 +355,20 @@ lookup dligDiscretionaryLigatureslookup1 {
     sub \u30EB \u30D4 \u30A2  by \uni30EB30D430A2.dlig;
     sub \uFF2A \uFF21 \uFF33  by \J_A_S.dlig;
     sub \J \A \S  by \J_A_S.dlig;
+    sub u9EC3 u91D1 u4E07 u4E24 percent by ligahuangjinwanliang;
+    sub u9EC3 u91D1 u842C u5169 percent by ligahuangjinwanliang;
+    sub u62DB u8D22 u8FDB u5B9D percent by ligazhaocaijinbao;
+    sub u62DB u8CA1 u9032 u5BF6 percent by ligazhaocaijinbao;
+    sub u552F u543E u77E5 u8DB3 percent by ligaweiwuzhizu;
+    sub u65E5 u65E5 u6709 u8D22 percent by ligaririyoucai;
+    sub u65E5 u65E5 u6709 u8CA1 percent by ligaririyoucai;
+    sub u5B54 u5B5F u597D u5B66 percent by ligakongmenghaoxue;
+    sub u5B54 u5B5F u597D u5B78 percent by ligakongmenghaoxue;
+    sub u65E5 u8FDB u6597 u91D1 percent by ligarijindoujin;
+    sub u65E5 u9032 u6597 u91D1 percent by ligarijindoujin;
+    sub u4E07 u4E08 percent by ligawanzhang;
+    sub u842C u4E08 percent by ligawanzhang;
+    sub u591A u5E74 percent by ligaduonian;
 } dligDiscretionaryLigatureslookup1;
 
 lookup fracDiagonalFractionslookup2 {
