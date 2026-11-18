@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u2023" format="2">
+  <advance width="500" height="1001"/>
+  <unicode hex="2023"/>
+  <outline>
+    <contour>
+      <point x="159" y="424" type="qcurve"/>
+      <point x="159" y="434"/>
+      <point x="198" y="434"/>
+      <point x="317" y="362" type="qcurve"/>
+      <point x="384" y="322"/>
+      <point x="393" y="303"/>
+      <point x="386" y="286"/>
+      <point x="322" y="246" type="qcurve"/>
+      <point x="201" y="172"/>
+      <point x="159" y="172"/>
+      <point x="159" y="182" type="qcurve"/>
+      <point x="159" y="184"/>
+      <point x="159" y="422"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <real>880.372497558594</real>
+    </dict>
+  </lib>
+</glyph>

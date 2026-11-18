@@ -3806,5 +3806,7 @@
     <string>plus.calt.glif</string>
     <key>plusminus.calt</key>
     <string>plusminus.calt.glif</string>
+    <key>u2023</key>
+    <string>u2023.glif</string>
   </dict>
 </plist>
