@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="u2023" format="2">
-  <advance width="500" height="1001"/>
+  <advance width="500" height="1000"/>
   <unicode hex="2023"/>
   <outline>
     <contour>
@@ -22,7 +22,7 @@
   <lib>
     <dict>
       <key>public.verticalOrigin</key>
-      <real>880.372497558594</real>
+      <integer>880</integer>
     </dict>
   </lib>
 </glyph>
