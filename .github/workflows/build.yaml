@@ -5,15 +5,21 @@ on:
     # do not run when push tag
     branches:
         - '**'
+    paths:
+        - 'sources/**'
   workflow_dispatch:
     inputs:
       version:
-        description: "版本号，格式vX.XXX"
+        description: "版本號，格式 vX.XXX"
         required: true
         type: string
       release_date:
-        description: "版本日期，格式MONTH dd, YYYY。若空置将默认使用 UTC+8/上海当前的日期。"
+        description: "版本日期，格式 MONTH dd, YYYY。若空置將默認使用 UTC+8 當前的日期。"
         type: string
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   build:
