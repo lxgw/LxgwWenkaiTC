@@ -22,6 +22,8 @@ The Traditional Chinese Version of LXGW WenKai. 霞鶩文楷繁體中文版。
 
 「霞鶩文楷 TC」支援 Unicode 變體序列（Unicode Variation Sequences, UVS），用於標點符號寬度和位置的選擇，以及筆劃形態的切換，點擊此處查看[標點符號一覽表](documentation/uvs.pdf)、[筆劃一覽表](documentation/uvs-strokes.pdf)。
 
+歷史版本的 Release，請在 [Release](https://github.com/lxgw/LxgwWenKaiTC/releases) 頁面查看。文字版本的更新記錄請在 [HISTORY.md](./HISTORY.md) 查看。
+
 ## 預覽
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenkaitc/main/documentation/wenkaitc-1.png)
