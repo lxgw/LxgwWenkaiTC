@@ -1,0 +1,44 @@
+name: Generate HISTORY.md
+
+on:
+  release:
+    types: [published] # 👈 關鍵：只要在網頁發佈 Release，就自動觸發
+  workflow_dispatch:   # 保留手動觸發，方便調試
+
+# 併發控制：如果同時發了兩個 Release，取消舊的，只跑最新的
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-history:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run Script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python generate_history.py
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add HISTORY.md
+          # 如果 HISTORY.md 有變化才 commit 和 push，避免空提交報錯
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "docs: auto-update HISTORY.md for ${{ github.event.release.tag_name }} [skip ci]"
+            git push
+          else
+            echo "No changes to HISTORY.md"
+          fi
